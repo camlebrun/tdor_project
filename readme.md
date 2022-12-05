@@ -10,5 +10,12 @@ The goal of this project is to collect data about the victims of transphobic vio
     *  or plotly
     *  pydeck for spatial data
   
-  
 * Second release : plotly Dash (and hosted on Heroku or other)
+
+
+## Figma 
+### Dashboard 1 : 
+  * total line graph over year 
+  * murder 
+  * suicide 
+  * ... 
