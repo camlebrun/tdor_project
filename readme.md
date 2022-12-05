@@ -11,4 +11,4 @@ The goal of this project is to collect data about the victims of transphobic vio
     *  pydeck for spatial data
   
   
-  * Second release : plotly Dash (and hosted on Heroku or other)
+* Second release : plotly Dash (and hosted on Heroku or other)
