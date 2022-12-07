@@ -15,14 +15,22 @@ The goal of this project is to collect data about the victims of transphobic vio
       * Add responsive box : "How many murder in France ?"
 
 ### Additional release :
-  * Auto
+  * Auto by API
   * Data studio 
   * Tableau 
 
 ## Figma 
 ### Dashboard 1 : 
-  * total line graph over year 
-  * murder 
-  * suicide 
-  * ... 
-  * 
+* sub-line graph over year : 
+  * total 
+  * category 
+    * Suicide
+    * Murder
+    * Medical 
+    * .. 
+* age
+* nb_victims_Category_year
+* nb_victims_country_year
+* nb_victims_country
+* Top 3 country
+  
