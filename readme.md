@@ -3,9 +3,9 @@
 The goal of this project is to collect data about the victims of transphobic violence and to make it available to the public. And resume all data from 1998 to present.  And include all data from 1998 to today in a global dashboard and specific dashboards to answer specific questions. [Data source](https://tdor.translivesmatter.info/reports?view=map])
 
 ## Realase :
-### Frist release with Streamlit :
+### Frist release with **Streamlit** :
   * Technics :
-      * DataViz : (matplotlib, seaborn, plotly,  pydeck  for spatial data)
+      * DataViz : plotly
       * Add responsive box : "How many murder in France ?"
 
   
@@ -20,7 +20,7 @@ The goal of this project is to collect data about the victims of transphobic vio
   * Tableau 
 
 ## Figma 
-### Dashboard 1 : 
+### Dashboard  : 
 * sub-line graph over year : 
   * total 
   * category 
