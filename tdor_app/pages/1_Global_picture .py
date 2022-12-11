@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 paths = "/Users/camille/repo/projet_perso/queer_project/tdor_data.csv"
 tdor_data = pd.read_csv(paths)
-st.markdown("#The dead of transphobia")
+st.markdown("# The dead of transphobia")
 
 
 
@@ -26,8 +26,8 @@ with tab1:
         fig_annual.update_layout(width=1000,height=500)
         fig_annual.update_traces(line_color='#147852')
         fig_annual.update_layout(title_text=' Number of deaths per year', title_x=0.5, title_font_size=20)
-        st.plotly_chart(fig_annual)
-
+        st.plotly_chart(fig_annual, use_container_width = True)
+        st.write('Hello, *World!* :sunglasses:')
 
 
 with tab2:
@@ -53,11 +53,11 @@ with tab2:
    fig_categorie_y.update_traces(mode="markers+lines", hovertemplate=None)
    fig_categorie_y.update_layout(hovermode="x unified")
    fig_categorie_y.update_layout(title_x=0.5, title_font_size=20)
-   st.plotly_chart(fig_categorie_y)
-
+   st.plotly_chart(fig_categorie_y, use_container_width = True)
+   st.write('Hello, *World!* :sunglasses:')
 
 with tab3:
-   st.title("DHistoramme du nombre de victimes par catégorie)")
+   st.title("Distribution of deaths by categories")
    test=tdor_data.sort_values(['nb_victims_Category'],ascending=False).groupby('Category').head(3).drop_duplicates('Category', keep='last')
    ab = px.bar(test, x="nb_victims_Category", y="Category",
                             color='Category',
@@ -70,5 +70,6 @@ with tab3:
    ab.update_layout(width=1000, height=500)
    ab.update_layout(title_x=0.5, title_font_size=20)
                 
-   st.plotly_chart(ab)
+   st.plotly_chart(ab, use_container_width = True)
+   st.write('Hello, *World!* :sunglasses:')
 
