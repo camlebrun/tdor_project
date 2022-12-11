@@ -7,14 +7,14 @@
 Have globale picture histotic data over year : 
 
 * By year  OK 
-* By year and country OK +  on maps number of victimes per country (if possibe add range date ) TO DO 
-* By  year and Category OK 
+* By year and country OK +  on map number of victimes per country (if possibe add range date ) TO DO 
+* By  year and Category OK + map
 
 **<center> Ranking</center>**
 
 <br>Where are the most trans people murdered or pushed to suicide? </br>
 
-* country 
+* country ok 
 * category
 * type of deaths  
 
