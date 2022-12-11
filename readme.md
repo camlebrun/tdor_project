@@ -20,7 +20,7 @@ The goal of this project is to collect data about the victims of transphobic vio
   * Tableau 
 
 ## Figma 
-### Dashboard  : 
+### KPI  : 
 * sub-line graph over year : 
   * total 
   * category 
