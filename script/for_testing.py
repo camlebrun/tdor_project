@@ -28,10 +28,14 @@ import plotly.express as px
 #tdor_data.to_csv('tdor_data.csv')
 paths = "/Users/camille/repo/projet_perso/queer_project/notebook/track/tdor_data.csv"
 tdor_data = pd.read_csv(paths)
+tdor_data["percentage_category_all"] = (tdor_data["nb_victims_Category"] /(tdor_data.nb_victims_Category.count()))*100
+tdor_data.to_csv('tdor_data.csv')
+#tdor_data["percentage_category"] = ((tdor_data["nb_victims_Category"] /tdor_data.nb_victims_Category.count()) * 100).round(2)
 """
+
 NUMBER OF VICTIMS BY YEAR AND CATEGORY
 + TOTAL
-"""
+
 
 fig2 = px.line(tdor_data, x="year", y="nb_victims_Category_year", color='Category',text=tdor_data['percentage_category'].apply(lambda x: '{0:1.1f}%'.format(x)),
                      labels={
@@ -49,17 +53,17 @@ fig2.update_layout(hovermode="x unified")
 fig2.update_layout(title_text='Amazing Graph', title_x=0.5, title_font_size=20)
 
 fig2.show()
-"""
+
 TOP 3 COUNTRIES
-"""
+
 top3=tdor_data.sort_values(['nb_victims_country'],ascending=False).groupby('Country_Code').head(3).drop_duplicates('Country_Code', keep='last').iloc[:3]
 fig3 = px.histogram(top3, x="nb_victims_country", y  = "Country", color = "Country", text_auto=True )# table 
 fig3.show()
 
 
-""""
+
 NUMBER OF VICTIMS BY YEAR AND  COUNTRY
-"""
+
 import plotly.graph_objs as go
 
 
@@ -80,3 +84,4 @@ layout = go.Layout(
 fig4.update_layout(title_text='Amazing Graph', title_x=0.5, title_font_size=20)
 #,text=tdor_data['percentage_category'].apply(lambda x: '{0:1.1f}%'.format(x))
 fig4.show()
+"""
