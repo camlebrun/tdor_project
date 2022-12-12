@@ -24,6 +24,7 @@ with tab1:
         fig_annual.update_traces(line_color='#040801')
         fig_annual.update_traces(hovertemplate="<br>".join(["Number of victims yearly: %{y}",]))
         fig_annual.update_layout(width=1000,height=500)
+        fig_annual.update_traces(textposition='top center')
         fig_annual.update_traces(line_color='#147852')
         fig_annual.update_layout(title_text=' Number of deaths per year', title_x=0.5, title_font_size=20)
         st.plotly_chart(fig_annual, use_container_width = True)
@@ -48,7 +49,7 @@ with tab2:
    fig_categorie_y.add_scatter(x=tdor_data['year'], 
                 y=tdor_data['nb_victims_year'], 
                 name = "Total", 
-                line=dict(color="#040801"))
+                line=dict(color="#ffffff"))
 
    fig_categorie_y.update_traces(mode="markers+lines", hovertemplate=None)
    fig_categorie_y.update_layout(hovermode="x unified")
