@@ -6,7 +6,7 @@ import plotly.express as px
 import plotly.graph_objs as go
 paths = "/Users/camille/repo/projet_perso/queer_project/tdor_data.csv"
 tdor_data = pd.read_csv(paths)
-st.markdown("# How are trans people killed or pushed to suicide ?")
+st.markdown("# Where are trans people killed or pushed to suicide ?")
 
 
 top3=tdor_data.sort_values(['nb_victims_country'],ascending=False).groupby('Country_Code').head(3).drop_duplicates('Country_Code', keep='last').iloc[:3]
