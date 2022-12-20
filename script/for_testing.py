@@ -12,7 +12,7 @@ import plotly.express as px
 #pre_data["nb_victims_country"] = pre_data.groupby('Country').Country.transform("count")
 #pre_data["nb_victims_country_year"] = pre_data.groupby(['Country', 'year']).year.transform("count")
 #pre_data["nb_victims_Category_year"] = pre_data.groupby(['Category', 'year']).year.transform("count")
-#pre_data["nb_victims_cause_year"] = pre_data.groupby(['Cause of death', 'year']).year.transform("count")
+#pre_data["nb_victims_cause_year"] = pre_data.groupby(['Cause of death', 'year']).year.transform("count"
 #pre_data["Birthdate"] = pd.to_datetime(pre_data["Birthdate"])
 #pre_data["year_birthdays"] = pre_data["Birthdate"].dt.year.astype('Int64')
 #pre_data["age"] = pre_data["year"] - pre_data["year_birthdays"] 
