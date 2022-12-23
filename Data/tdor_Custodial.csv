@@ -1,0 +1,38 @@
+,Country,Year,Population,Name,Birthdate,Date,Location,Country_Code,Latitude,Longitude,Category,Cause_of_the_death,year,nb_victims_year,nb_victims_Category,nb_victims_country,nb_victims_country_year,nb_victims_category_country_year,nb_victims_Category_year,nb_victims_cause_year,year_birthdays,age,percentage_category,ratio
+18,Argentina,2000.0,37070774.0,Vanesa Lorena Ledesma,,2000-02-16,Córdoba,Ar,-31.3992543,-64.2645555,Custodial,Died in custody,2000,19,37,136,1,1,1,1,,,5.3,0.003
+172,USA,2005.0,296842670.0,Vanessa Facen,,2005-11-21,"San Diego, California",Us,32.71576,-117.163817,Custodial,Died in custody,2005,30,37,609,17,1,1,1,,,3.3,0.0
+205,USA,2007.0,302743399.0,Victoria Arellano,,2007-07-20,"San Pedro, California",Us,33.72577,-118.05357,Custodial,Died in custody,2007,22,37,609,8,1,1,1,,,4.5,0.0
+305,Australia,2009.0,21660892.0,Veronica Baxter,,2009-03-16,"Sydney, New South Wales",Au,-33.8308128,151.0532673,Custodial,Died in custody,2009,192,37,12,1,1,2,2,,,1.0,0.005
+457,Italy,2009.0,59562841.0,D. A. Santos Costa,,2009-12-25,,It,43.524673,12.1605,Custodial,Died in custody,2009,192,37,71,5,1,2,2,,,1.0,0.002
+1196,USA,2013.0,319375166.0,Kayla Moore,,2013-02-12,"Berkeley, California",Us,37.869058,-122.270455,Custodial,Died in custody,2013,260,37,609,23,1,1,1,,,0.4,0.0
+1903,United Kingdom,2015.0,65224364.0,Vikki Thompson,,2015-11-13,"Armley, Leeds, West Yorkshire",Gb,53.79625,-1.56962,Custodial,Died in custody,2015,261,37,49,3,1,1,1,,,0.4,0.002
+2199,USA,2016.0,327210198.0,Charles Knowles,,2016-10-29,"South Portland, Maine",Us,43.6389162,-70.3112984,Custodial,Suicide,2016,320,37,609,28,1,2,2,,,0.6,0.0
+2250,United Kingdom,2016.0,65655202.0,Jenny Swift,,2016-12-30,"Doncaster, South Yorkshire",Gb,53.522768,-1.133531,Custodial,Died in custody,2016,320,37,49,1,1,2,1,,,0.6,0.002
+2495,USA,2017.0,329791231.0,Pepper K (“Phoenix”),,2017-08-25,"Mansfield,, Ohio",Us,40.758553,-82.515469,Custodial,Died in custody,2017,396,37,609,36,1,3,5,,,0.8,0.0
+2514,Argentina,2017.0,44054616.0,Brandy Bardales Sangama,,2017-09-10,"Le Plata, Buenos Aires",Ar,-34.88135,-57.95802,Custodial,Died in custody,2017,396,37,136,10,2,3,5,,,0.8,0.005
+2599,Argentina,2017.0,44054616.0,Damaris Becerra Jurado,,2017-11-26,"Le Plata, Buenos Aires",Ar,-34.88135,-57.95802,Custodial,Died in custody,2017,396,37,136,10,2,3,5,,,0.8,0.005
+2807,USA,2018.0,332140037.0,Roxsana Hernández Rodriguez,,2018-05-13,"Milan, New Mexico",Us,35.188133,-107.894427,Custodial,Died in custody,2018,392,37,609,37,1,3,3,,,0.8,0.0
+2888,Italy,2018.0,59877425.0,Dalila de Oliveira,,2018-07-31,"Udine, Friuli Venezia Giulia",It,46.064698,13.235749,Custodial,Died in custody,2018,392,37,71,6,1,3,3,,,0.8,0.002
+2890,Ireland,2018.0,4834507.0,Sylva,,2018-08-04,"Galway, Connacht",Ie,53.274412,-9.049063,Custodial,Died in custody,2018,392,37,1,1,1,3,3,,,0.8,0.021
+3210,USA,2019.0,334319671.0,"Johana Medina León (""""Joa"""")",,2019-06-01,"El Paso, Texas",Us,31.8775349,-106.6385462,Custodial,Died in custody,2019,375,37,609,44,2,3,3,,,0.8,0.001
+3218,USA,2019.0,334319671.0,Layleen Cubilette Polanco Xtravaganza,,2019-06-07,"Rikers Island, New York",Us,40.79307,-73.88415,Custodial,Died in custody,2019,375,37,609,44,2,3,3,,,0.8,0.001
+3327,Argentina,2019.0,44745520.0,Name Unknown,,2019-09-23,Jujuy,Ar,-24.182945,-65.3141561,Custodial,Died in custody,2019,375,37,136,14,1,3,3,,,0.8,0.002
+3663,Brazil,2020.0,213196304.0,Leona,,2020-07-17,"Viana, Espírito Santo",Br,-20.391447,-40.496659,Custodial,Died in custody,2020,463,37,1818,190,1,4,3,,,0.9,0.0
+3726,USA,2020.0,335942003.0,Lea Rayshon Daye,,2020-08-30,"Cleveland, Ohio",Us,41.501608,-81.6994757,Custodial,Died in custody,2020,463,37,609,66,1,4,3,,,0.9,0.0
+3799,Canada,2020.0,37888705.0,Name Unknown,,2020-10-26,"Toronto, Canada",Ca,43.7360099,-79.2284635,Custodial,Died in custody,2020,463,37,18,2,1,4,3,,,0.9,0.003
+3811,Argentina,2020.0,45036032.0,Brisa Rafaela Dávila Rojas,,2020-11-09,"Mar del Plata, Buenos Aires",Ar,-37.994128,-57.6030393,Custodial,Covid-19,2020,463,37,136,16,1,4,12,,,0.9,0.002
+3916,Argentina,2021.0,45276780.0,Lucho Ávila,,2021-02-01,"Los Hornos, Buenos Aires",Ar,-34.96741498,-57.96751084,Custodial,Died in custody,2021,445,37,136,14,3,9,4,,,2.0,0.007
+3954,USA,2021.0,336997624.0,"Kimberly Wirtz (""""Tova"""")",,2021-02-26,"Baltimore, Maryland",Us,39.290443,-76.612333,Custodial,Died in custody,2021,445,37,609,78,1,9,4,,,2.0,0.0
+4088,Brazil,2021.0,214326223.0,Name Unknown,,2021-05-31,"São Joaquim de Bicas, Minas Gerais",Br,-20.04169,-44.2268157,Custodial,Suicide,2021,445,37,1818,132,4,9,46,,,2.0,0.002
+4089,Brazil,2021.0,214326223.0,Name Unknown,,2021-05-31,"São Joaquim de Bicas, Minas Gerais",Br,-20.04169,-44.2268157,Custodial,Suicide,2021,445,37,1818,132,4,9,46,,,2.0,0.002
+4090,Brazil,2021.0,214326223.0,Name Unknown,,2021-05-31,"São Joaquim de Bicas, Minas Gerais",Br,-20.04169,-44.2268157,Custodial,Suicide,2021,445,37,1818,132,4,9,46,,,2.0,0.002
+4157,Argentina,2021.0,45276780.0,Fatima Belén Barrios,,2021-07-18,Formosa,Ar,-26.1823745,-58.1936517,Custodial,Died in custody,2021,445,37,136,14,3,9,4,,,2.0,0.007
+4165,Argentina,2021.0,45276780.0,"Victoria Nuñez (""""Vicky"""")",,2021-07-21,"Paraná, Entre Rios",Ar,-31.7472407,-60.5500683,Custodial,Died in custody,2021,445,37,136,14,3,9,4,,,2.0,0.007
+4261,Brazil,2021.0,214326223.0,Name Unknown,,2021-10-21,"Viana, Espírito Santo",Br,-20.3771841,-40.5057516,Custodial,Beaten and strangled,2021,445,37,1818,132,4,9,2,,,2.0,0.002
+4281,Ecuador,2021.0,17797737.0,Helen Brigette Maldonado Maldonado,1992-11-29,2021-11-12,"Guayaquil, Guayas",Ec,-2.0523001,-79.9459419,Custodial,Murdered,2021,445,37,61,6,1,9,43,1992,29,2.0,0.006
+4398,Germany,2022.0,83369843.0,Name Unknown,,2022-02-25,Hamburg,De,53.62608825,10.01966254,Custodial,Suicide,2022,364,37,6,2,1,6,45,,,1.6,0.001
+4507,USA,2022.0,338289857.0,DeeDee Hall,,2022-05-26,"Dallas, Texas",Us,32.78985265,-96.77832532,Custodial,Died in custoday,2022,364,37,609,56,2,6,1,,,1.6,0.001
+4556,United Kingdom,2022.0,67508936.0,Taylor,,2022-07-09,"Wotton-under-Edge, Gloucestershire",Gb,51.6350504,-2.4705717,Custodial,Suicide,2022,364,37,49,8,1,6,45,,,1.6,0.001
+4566,Argentina,2022.0,45510318.0,Sasha Barrionuevo,,2022-07-20,"Mar del Plata, Buenos Aires",Ar,-37.9940074,-57.60429,Custodial,Not reported,2022,364,37,136,11,1,6,20,,,1.6,0.002
+4580,USA,2022.0,338289857.0,Kimbella Kimble,2000-09-17,2022-08-06,"Gulfport, Mississippi",Us,30.4391082,-89.0569243,Custodial,Died in custody,2022,364,37,609,56,2,6,2,2000,22,1.6,0.001
+4583,Indonesia,2022.0,275501339.0,Rodrigo Ventocilla Ventosilla,,2022-08-11,"Denpasar, Bali",Id,-8.6725072,115.1542327,Custodial,Died in custody,2022,364,37,9,2,1,6,2,,,1.6,0.0
