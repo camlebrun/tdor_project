@@ -1,258 +1,258 @@
-,Country,Year,Population,Name,Birthdate,Date,Location,Country_Code,Latitude,Longitude,Category,Cause_of_the_death,year,nb_victims_year,nb_victims_Category,nb_victims_country,nb_victims_country_year,nb_victims_category_country_year,nb_victims_Category_year,nb_victims_cause_year,year_birthdays,age,percentage_category
-20,USA,2000.0,282398554.0,Michelle Lynne O'Hara,,2000-03-14,New York,Us,40.6976684,-74.2605508,Suicide,Suicide,2000,19,257,609,12,1,1,1,,,5.3
-93,United Kingdom,2003.0,59649799.0,Debbie Gould,,2003-05-31,London,Gb,51.5263926,-0.1317119,Suicide,Suicide,2003,34,257,49,2,2,2,2,,,5.9
-107,United Kingdom,2003.0,59649799.0,Debbie Fox,,2003-08-26,"Radcliffe, Greater Manchester",Gb,53.559338,-2.326155,Suicide,Suicide,2003,34,257,49,2,2,2,2,,,5.9
-222,United Kingdom,2008.0,61742151.0,Cameron McWilliams,,2008-02-11,"Doncaster, South Yorkshire",Gb,53.522768,-1.133531,Suicide,Suicide,2008,53,257,49,2,2,3,3,,,5.7
-237,United Kingdom,2008.0,61742151.0,Alex Silverfish,,2008-07-31,"Bethnal Green, East London",Gb,51.5313,-0.06447,Suicide,Suicide,2008,53,257,49,2,2,3,3,,,5.7
-240,South Korea,,,Jang Chae-won,,2008-10-03,"Seoul, Seoul Capital Area",Kr,37.5408926,126.979875,Suicide,Suicide,2008,53,257,2,1,1,3,3,,,5.7
-1318,France,2013.0,63335180.0,Louise Olivier,1950-06-07,2013-08-15,"Besançon, Doubs",Fr,47.237953,6.024325,Suicide,Suicide,2013,260,257,33,2,1,2,2,1950,63,0.8
-1340,Brazil,2013.0,201721767.0,Gabriela Monelli,,2013-09-09,"Porto Ferreira, São Paulo",Br,-21.849814,-47.487034,Suicide,Suicide,2013,260,257,1818,105,1,2,2,,,0.8
-1589,USA,2014.0,322033964.0,"Kate von Roeder (""""Riot Damiya"""")",,2014-10-01,"Los Angeles, California",Us,34.052238,-118.243344,Suicide,Suicide,2014,259,257,609,15,2,3,3,,,1.2
-1621,United Kingdom,2014.0,64773504.0,Mikki Nicholson,,2014-11-07,"Carlisle, Cumbria",Gb,54.890828,-2.9336725,Suicide,Suicide,2014,259,257,49,1,1,3,3,,,1.2
-1668,USA,2014.0,322033964.0,Leelah Alcorn,,2014-12-28,"Lebanon, Ohio",Us,39.383929,-84.2199845,Suicide,Suicide,2014,259,257,609,15,2,3,3,,,1.2
-1709,USA,2015.0,324607776.0,Melonie Elizabeth Rose,,2015-02-11,"Laurel, Maryland",Us,39.099535,-76.848374,Suicide,Suicide,2015,261,257,609,26,3,6,6,,,2.3
-1865,United Kingdom,2015.0,65224364.0,Ashlee Flux,1981-04-21,2015-09-19,"Kettering, Northamptonshire",Gb,52.399423,-0.728004,Suicide,Suicide,2015,261,257,49,3,1,6,6,1981,34,2.3
-1880,USA,2015.0,324607776.0,Ashley Hallstrom,,2015-10-14,"Logan, Utah",Us,41.735211,-111.834857,Suicide,Suicide,2015,261,257,609,26,3,6,6,,,2.3
-1912,USA,2015.0,324607776.0,Mac Ohana,,2015-12-02,"Bellingham, Washington",Us,48.754899,-122.478122,Suicide,Suicide,2015,261,257,609,26,3,6,6,,,2.3
-1924,Mexico,2015.0,120149897.0,Chanel Siqueiros,,2015-12-20,"Hermosillo, Sonora",Mx,29.089415,-110.961238,Suicide,Suicide,2015,261,257,629,33,1,6,6,,,2.3
-1929,Spain,2015.0,46431342.0,Alan Cusso,,2015-12-24,"Rubi, Barcelona, Catalonia",Es,41.493702,2.031132,Suicide,Suicide,2015,261,257,18,2,1,6,6,,,2.3
-2047,Dominican Republic,2016.0,10527592.0,Amaranta Polanco,,2016-05-03,"Tamboril, Santiago",Do,19.489974,-70.612606,Suicide,Possible suicide,2016,320,257,29,3,1,2,1,,,0.6
-2229,Brazil,2016.0,206859578.0,Marilia Lamdi,,2016-12-01,"Várzea Paulista, São Paulo",Br,-23.21356,-46.84955,Suicide,Suicide,2016,320,257,1818,137,1,2,2,,,0.6
-2303,United Kingdom,2017.0,66064804.0,Sam Marx,,2017-02-20,"Dunkeld, Perth and Kinross, Scotland",Gb,56.59662336,-3.53256047,Suicide,Suicide,2017,396,257,49,2,2,11,10,,,2.8
-2309,Brazil,2017.0,208504960.0,C. A. de Mendonça,,2017-02-25,"São João Nepomuceno, Minas Gerais",Br,-21.53471,-43.012648,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8
-2332,Brazil,2017.0,208504960.0,Danilo Melhorini,,2017-03-15,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8
-2407,United Kingdom,2017.0,66064804.0,Leo Etherington,,2017-05-31,"High Wycombe, Buckinghamshire",Gb,51.627422,-0.748415,Suicide,Suicide,2017,396,257,49,2,2,11,10,,,2.8
-2434,Brazil,2017.0,208504960.0,Sandra de Souza Medeiros,,2017-06-25,"São Carlos, São Paolo",Br,-22.017544,-47.890971,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8
-2536,Brazil,2017.0,208504960.0,Bru Lima,,2017-10-02,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8
-2551,Brazil,2017.0,208504960.0,Beatriz Presley (“Bia”),,2017-10-18,"Porto Velho, Rondônia",Br,-8.749453,-63.873544,Suicide,Possible suicide,2017,396,257,1818,199,8,11,1,,,2.8
-2564,Brazil,2017.0,208504960.0,Alessandra Rinaldi,,2017-10-25,"São Leopoldo, Rio Grande do Sul",Br,-29.754441,-51.15165,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8
-2579,USA,2017.0,329791231.0,Natalie Nguyen,,2017-11-03,"Seattle, Washington",Us,47.603229,-122.33028,Suicide,Suicide,2017,396,257,609,36,1,11,10,,,2.8
-2618,Brazil,2017.0,208504960.0,Kyara Barbosa,,2017-12-04,"Morada Nova, Ceará",Br,-5.09736,-38.370158,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8
-2637,Brazil,2017.0,208504960.0,Alloés Carvalho,,2017-12-24,"Cantagallo, Rio de Janeiro",Br,-23.0324,-44.16918,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8
-2707,Spain,2018.0,46792043.0,Ekai Lersundi,,2018-02-15,"Ondarroa, Bizkaia",Es,43.320729,-2.42075,Suicide,Suicide,2018,392,257,18,3,2,34,33,,,8.7
-2730,USA,2018.0,332140037.0,Hope Verbeeck,,2018-03-06,"Tampa, Florida",Us,27.947423,-82.458776,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7
-2744,United Kingdom,2018.0,66432993.0,Jacob Whelan,,2018-03-17,"Cardiff, Wales",Gb,51.53939,-3.26165,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7
-2753,Turkey,,,Elif,,2018-03-22,Izmir,Tr,38.415342,27.144474,Suicide,Suicide,2018,392,257,67,8,2,34,33,,,8.7
-2757,China,2018.0,1417069468.0,Ayaka Neko,,2018-03-24,"Anning, Kunming, Yunnan",Cn,25.18113,101.86414,Suicide,Suicide,2018,392,257,3,1,1,34,33,,,8.7
-2763,Turkey,,,Asu,,2018-03-29,"Findikzade, Istanbul",Tr,41.1957,28.73129,Suicide,Suicide,2018,392,257,67,8,2,34,33,,,8.7
-2765,USA,2018.0,332140037.0,Chance Houle,,2018-03-31,"Bismark, North Dakota",Us,46.80537,-100.781609,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7
-2766,Brazil,2018.0,210166592.0,Kim Schinaider,,2018-03-31,"Ribeirão Preto, São Paulo",Br,-21.178333,-47.806667,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7
-2784,United Kingdom,2018.0,66432993.0,Christina Bentley,,2018-04-23,"Brighton, East Sussex",Gb,50.82204,-0.137406,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7
-2787,Australia,2018.0,24979230.0,Lydia Stone,,2018-04-25,"Sydney, New South Wales",Au,-33.854816,151.216454,Suicide,Suicide,2018,392,257,12,1,1,34,33,,,8.7
-2793,USA,2018.0,332140037.0,Grayson Keck,2003-01-24,2018-04-28,"Columbia, South Carolina",Us,34.009286,-81.037094,Suicide,Suicide,2018,392,257,609,37,9,34,33,2003,15,8.7
-2800,Spain,2018.0,46792043.0,Thalía,,2018-05-04,"Móstoles, Comunidad de Madrid",Es,40.323853,-3.864921,Suicide,Suicide,2018,392,257,18,3,2,34,33,,,8.7
-2821,United Kingdom,2018.0,66432993.0,Marty Dragonova,,2018-05-30,"Cardiff, Wales",Gb,51.53939,-3.26165,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7
-2840,USA,2018.0,332140037.0,Chloe Sagal,,2018-06-19,"Portland, Oregon",Us,45.516018,-122.681425,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7
-2843,Brazil,2018.0,210166592.0,Juliana Araújo,,2018-06-20,"Brasilia, Distrito Federal",Br,-15.7934,-47.882293,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7
-2852,USA,2018.0,332140037.0,Dr Laura Masi,,2018-06-27,"San Diego, California",Us,-12.981636,-38.482077,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7
-2854,USA,2018.0,332140037.0,"Gabrielle Holley (""""Gabby"""")",,2018-06-28,"Fort Lauderdale, Florida",Us,26.124163,-80.143586,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7
-2862,USA,2018.0,332140037.0,Daine Grey,,2018-07-02,"San Francisco, California",Us,37.78008,-122.420168,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7
-2886,Brazil,2018.0,210166592.0,Louise,,2018-07-26,"Barra Bonit, São Paulo",Br,-22.490859,-48.558349,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7
-2892,France,2018.0,64277808.0,Lucie-Anne Roux,1971-04-01,2018-08-06,"Besançon, Doubs",Fr,47.237953,6.024325,Suicide,Suicide,2018,392,257,33,2,1,34,33,1971,47,8.7
-2896,USA,2018.0,332140037.0,Casey Hoke,,2018-08-08,"Pomona, California",Us,34.055118,-117.750048,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7
-2898,Portugal,2018.0,10289835.0,Rafael Romeu de Brito,,2018-08-09,Lisbon,Pt,38.713057,-9.138006,Suicide,Suicide,2018,392,257,5,1,1,34,33,,,8.7
-2912,USA,2018.0,332140037.0,Jamel Pierce,,2018-08-23,"Denver, Colorado",Us,39.738453,-104.984853,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7
-2914,El Salvador,2018.0,6276342.0,Deborah González,,2018-08-25,"Catarina, Usulután",Sv,13.3521,-88.4305,Suicide,Suicide,2018,392,257,61,8,1,34,33,,,8.7
-2938,Brazil,2018.0,210166592.0,Allef Vieira,,2018-09-10,"Aparecida de Goiânia, Goiás",Br,-16.822674,-49.245255,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7
-2948,United Kingdom,2018.0,66432993.0,Name Unknown,,2018-09-22,,Gb,54.0,-2.0,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7
-2950,United Kingdom,2018.0,66432993.0,Jayden Lowe,,2018-09-22,"Meldreth, Cambridgeshire",Gb,52.1102969,0.0254733,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7
-2965,Mexico,2018.0,124013861.0,Itzel Aidana Ávila,,2018-10-07,"Fresnillo, Zacatecas",Mx,23.174318,-102.869833,Suicide,Suicide,2018,392,257,629,66,2,34,33,,,8.7
-2969,Mexico,2018.0,124013861.0,Name Unknown,,2018-10-11,Puebla City,Mx,19.35044,-97.89759,Suicide,Suicide,2018,392,257,629,66,2,34,33,,,8.7
-2978,Argentina,2018.0,44413596.0,Ariana Esquivel,,2018-10-21,"La Matanza Partido, Buenos Aires",Ar,-34.7725,-58.65108,Suicide,Suicide,2018,392,257,136,13,2,34,33,,,8.7
-2984,Brazil,2018.0,210166592.0,Ciano Sacchi,,2018-10-25,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7
-2989,Brazil,2018.0,210166592.0,Sheila Brites Bodago,,2018-10-29,"Amambai, Mato Grosso do Sul",Br,-23.108272,-55.228489,Suicide,Possible suicide,2018,392,257,1818,177,7,34,1,,,8.7
-3027,Brazil,2018.0,210166592.0,Erika Araújo,,2018-12-17,"Guarulhos, São Paulo",Br,-23.44306,-46.524459,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7
-3032,Argentina,2018.0,44413596.0,Name Unknown,,2018-12-20,Jujuy,Ar,-23.316146,-65.759529,Suicide,Suicide,2018,392,257,136,13,2,34,33,,,8.7
-3043,India,2019.0,1383112050.0,S. Biswas,,2019-01-01,"Baguiati, Kolkata, West Bengal",In,22.6148,88.4218,Suicide,Possible suicide,2019,375,257,107,12,2,47,6,,,12.5
-3047,United Kingdom,2019.0,66778659.0,Danielle Myriam Ceri Fisher,,2019-01-04,"Glasgow, Scotland",Gb,55.861147,-4.249989,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5
-3048,Brazil,2019.0,211782878.0,Victória Jugnet,,2019-01-04,"Brasília, Distrito Federal",Br,-15.7934,-47.882293,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3057,Brazil,2019.0,211782878.0,Ares Saturno,,2019-01-19,"Praia Grande, São Paulo",Br,-24.005833,-46.402778,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3058,Brazil,2019.0,211782878.0,Soren Neres Denardi,,2019-01-19,"Praia Grande, São Paulo",Br,-24.005833,-46.402778,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3072,Brazil,2019.0,211782878.0,Charlene Keroly,,2019-01-31,"Maués, Amazonas",Br,-3.37958,-57.719607,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3084,Brazil,2019.0,211782878.0,Giuliano Imperato,,2019-02-12,"Santos, São Paulo",Br,-23.960833,46.333889,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3093,USA,2019.0,334319671.0,"Faye (""""Morena Black"""")",,2019-02-24,Florida,Us,29.065599,-81.884201,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5
-3101,Turkey,,,Esra,,2019-03-02,Ankara,Tr,39.8924866,32.8682227,Suicide,Suicide,2019,375,257,67,5,2,47,41,,,12.5
-3104,Brazil,2019.0,211782878.0,Fernanda,,2019-03-03,"Maracanaú, Ceará",Br,-3.8748513,-38.6213996,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3110,Brazil,2019.0,211782878.0,Flávia Santana,,2019-03-08,"Anápolis, Goiás",Br,-16.333283,-48.952576,Suicide,Possible suicide,2019,375,257,1818,139,20,47,6,,,12.5
-3112,Brazil,2019.0,211782878.0,Levi Matheus Santos (Lívia Dí Castro),,2019-03-09,"Taboão da Serra, São Paulo",Br,-23.612191,-46.779054,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3133,Brazil,2019.0,211782878.0,Victoria Medeiros,,2019-03-26,"Jaci, Sao Paulo",Br,-20.884443,-49.571054,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3141,Brazil,2019.0,211782878.0,Dianna Rodrigues,,2019-04-02,"Itu, São Paulo",Br,-23.263883,-47.298892,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3159,Brazil,2019.0,211782878.0,Eric Varão,,2019-04-19,"Boa Vista, Roraima",Br,2.8000902,-60.744425,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3174,Poland,2019.0,38493601.0,Milo Mazurkiewicz,,2019-05-06,"Warsaw, Masovia",Pl,52.2250587,21.0455421,Suicide,Suicide,2019,375,257,2,1,1,47,41,,,12.5
-3176,Brazil,2019.0,211782878.0,Ana Paula Portyllho,,2019-05-08,"Florianópolis, Santa Catarina",Br,-27.5973,-48.54961,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3177,France,2019.0,64399759.0,Maxence Miel,2001-06-24,2019-05-08,"Vannes, Morbihan",Fr,47.658677,-2.759908,Suicide,Suicide,2019,375,257,33,2,2,47,41,2001,18,12.5
-3180,United Kingdom,2019.0,66778659.0,Alexandra Greenway,,2019-05-11,Bristol,Gb,51.455699,-2.595266,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5
-3187,Brazil,2019.0,211782878.0,Lu,,2019-05-14,"Bernardino de Campos, São Paulo",Br,-23.014022,-49.476072,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3197,Chile,2019.0,19039485.0,José Matías De la Fuente Guevara,,2019-05-23,"Copiapó, Atacama",Cl,-27.36755,-70.33411,Suicide,Suicide,2019,375,257,35,6,1,47,41,,,12.5
-3203,USA,2019.0,334319671.0,Titi Gulley,,2019-05-27,"Portland, Oregon",Us,45.5448503,-122.5637491,Suicide,Possible suicide,2019,375,257,609,44,7,47,6,,,12.5
-3205,Peru,2019.0,32824860.0,Techi,,2019-05-29,Arequipa,Pe,-16.404093,-71.543837,Suicide,Possible suicide,2019,375,257,43,2,1,47,6,,,12.5
-3215,USA,2019.0,334319671.0,Austin Smith,,2019-06-04,"Evansville, Indiana",Us,37.975708,-87.569907,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5
-3217,Brazil,2019.0,211782878.0,Leandro Vicente,,2019-06-05,"Campinas, São Paulo",Br,-22.90556,-47.06083,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3229,USA,2019.0,334319671.0,Gabriella Rice,,2019-06-21,"Augusta, Maine",Us,44.3334266,-69.7657113,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5
-3230,Russia,,,Rita,,2019-06-23,Moscow,Ru,55.86401,37.461729,Suicide,Suicide,2019,375,257,16,3,1,47,41,,,12.5
-3231,United Kingdom,2019.0,66778659.0,Lauren Marie Waters,,2019-06-24,"Southampton, Hampshire",Gb,50.902535,-1.404189,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5
-3240,Brazil,2019.0,211782878.0,Patricia Araújo,,2019-07-06,"Rio de Janeiro, Rio de Janeiro ",Br,-22.911014,-43.209373,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3241,France,2019.0,64399759.0,Romy,,2019-07-06,"Bordeaux, Gironde",Fr,44.8560352,-0.5515681,Suicide,Suicide,2019,375,257,33,2,2,47,41,,,12.5
-3246,India,2019.0,1383112050.0,Gurpreet,,2019-07-13,"Mohali, Punjab",In,30.7290187,76.6896333,Suicide,Suicide,2019,375,257,107,12,2,47,41,,,12.5
-3250,Brazil,2019.0,211782878.0,Samara Araújo,,2019-07-18,"Ipatinga, Minas Gerais",Br,-19.4967949,-42.5404587,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3254,United Kingdom,2019.0,66778659.0,Max Chesham,,2019-07-20,"Northwich, Cheshire",Gb,53.260254,-2.51451,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5
-3255,Turkey,,,Didem Akay,,2019-07-22,Istanbul,Tr,41.017058,28.985568,Suicide,Suicide,2019,375,257,67,5,2,47,41,,,12.5
-3262,Pakistan,2019.0,223293280.0,Name Unknown,,2019-07-29,"Swat District, Khyber Pakhtunkwa",Pk,34.06282,72.09875,Suicide,Suicide,2019,375,257,97,11,1,47,41,,,12.5
-3274,Ecuador,2019.0,17343740.0,Cris García Aponte,,2019-08-09,"Huaquillas, El Oro",Ec,-3.49645,-80.20507,Suicide,Possible suicide,2019,375,257,61,10,1,47,6,,,12.5
-3277,United Kingdom,2019.0,66778659.0,Cameron Haswell,,2019-08-11,"Blackwater, Hampshire",Gb,51.3279467,-0.8021843,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5
-3294,Colombia,2019.0,50187406.0,Giselle Andrea Gutiérrez Valencia,,2019-08-31,"Engativá, Bogotá, Distrito Capital",Co,4.70826,-74.12717,Suicide,Possible suicide,2019,375,257,219,17,1,47,6,,,12.5
-3299,USA,2019.0,334319671.0,Andrew Elijah Martinez,,2019-09-04,"Pomona, California",Us,34.055118,-117.750048,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5
-3307,Portugal,2019.0,10289923.0,Lara Crespo,1971-06-16,2019-09-09,"Almada, Lisboa",Pt,38.680386,-9.155956,Suicide,Suicide,2019,375,257,5,1,1,47,41,1971,48,12.5
-3336,USA,2019.0,334319671.0,Corbin Ray Bach,,2019-10-06,"Paducah, Kentucky",Us,37.07639,-88.633016,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5
-3343,USA,2019.0,334319671.0,Daphne Dorman,,2019-10-11,"San Francisco, California",Us,37.7578149,-122.5078117,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5
-3354,Brazil,2019.0,211782878.0,"Cauany Ayres (""""Cacau"""")",,2019-10-20,"Avaré, São Paulo",Br,-23.104522,-48.92591,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3361,Spain,2019.0,47131372.0,Edu,,2019-10-30,"Llíria, Valencia",Es,39.625829,-0.59611,Suicide,Suicide,2019,375,257,18,3,1,47,41,,,12.5
-3394,Brazil,2019.0,211782878.0,Mylla Karvalho,,2019-12-08,"Porto, Piauí",Br,-3.888154,-42.69982,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3414,Brazil,2019.0,211782878.0,Guui Pereira,,2019-12-31,"São Paulo, São Paulo ",Br,-23.550651,-46.633382,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3415,Brazil,2019.0,211782878.0,Lukás Georgi,,2019-12-31,"João Pessoa, Paraíba",Br,-7.114784,-34.889798,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5
-3420,USA,2020.0,335942003.0,Emerald Kelliher,1988-09-25,2020-01-03,"Montgomery, Alabama",Us,32.376547,-86.299651,Suicide,Suicide,2020,463,257,609,66,8,52,45,1988,32,11.2
-3422,USA,2020.0,335942003.0,Alex McCray,,2020-01-04,"St. Louis, Missouri",Us,38.630276,-90.200309,Suicide,Suicide,2020,463,257,609,66,8,52,45,,,11.2
-3423,Brazil,2020.0,213196304.0,Murilo Gonçalves,,2020-01-04,"Pau dos Ferros, Rio Grande do Norte",Br,-6.14799,-38.19758,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3424,India,2020.0,1396387127.0,Palak Tiwari,,2020-01-04,"Indore, Madhya Pradesh",In,22.7104253,75.8214189,Suicide,Suicide,2020,463,257,107,15,2,52,45,,,11.2
-3430,Spain,2020.0,47363807.0,Lucas,,2020-01-08,"Alcalá de Guadaira, Seville",Es,37.36028,-5.97684,Suicide,Suicide,2020,463,257,18,3,1,52,45,,,11.2
-3439,Italy,2020.0,59500579.0,Eduarda Pinheiro,,2020-01-14,"Altopascio, Lucca",It,43.8241525,10.6719114,Suicide,Suicide,2020,463,257,71,7,2,52,45,,,11.2
-3442,Brazil,2020.0,213196304.0,"Bruna Rosa (""""Bruna Barbie"""")",,2020-01-15,"Iporá, Goias",Br,-16.440798,-51.118119,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3452,Israel,2020.0,8757489.0,Maya Haddad,,2020-01-20,Tel Aviv,Il,32.080481,34.780527,Suicide,Suicide,2020,463,257,3,1,1,52,45,,,11.2
-3460,Brazil,2020.0,213196304.0,Adriana Santana,,2020-02-01,"Restinga, São Paulo",Br,-20.605593,-47.483254,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3471,Brazil,2020.0,213196304.0,Karev,,2020-02-09,Rio de Janeiro,Br,-22.911014,-43.209373,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3481,United Kingdom,2020.0,67059474.0,"Rebecca Ann (""""Becca"""")",,2020-02-14,"Longniddry, East Lothian, Scotland",Gb,55.96889,-2.96211,Suicide,Suicide,2020,463,257,49,4,4,52,45,,,11.2
-3486,Dominican Republic,2020.0,10999664.0,Cachita Soto Rufino,,2020-02-20,"Villa Vásquez, Monte Cristi",Do,19.7442288,-71.4442515,Suicide,Suicide,2020,463,257,29,3,1,52,45,,,11.2
-3489,USA,2020.0,335942003.0,Camila María Concepción,,2020-02-21,"Los Angeles, California",Us,34.052238,-118.243344,Suicide,Suicide,2020,463,257,609,66,8,52,45,,,11.2
-3527,Brazil,2020.0,213196304.0,Viviane Maximian,,2020-03-24,"Mirassol, São Paulo",Br,-20.814141,-49.507449,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3529,Turkey,,,E. Grosu,,2020-03-28,"Nazilli, Aydin",Tr,37.9035602,28.3207763,Suicide,Suicide,2020,463,257,67,5,3,52,45,,,11.2
-3534,Brazil,2020.0,213196304.0,Raysla Ferreira,,2020-03-30,"Vitoria, Espirito Santo",Br,-20.299683,-40.301633,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3546,Brazil,2020.0,213196304.0,Letícia Pérez,,2020-04-08,"Fortaleza, Ceará",Br,-3.730451,-38.521799,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3562,USA,2020.0,335942003.0,Emily Nicole Brown,1994-05-26,2020-04-20,"Covington, Georgia",Us,33.59601,-83.86378,Suicide,Suicide,2020,463,257,609,66,8,52,45,1994,26,11.2
-3585,India,2020.0,1396387127.0,Name Unknown,,2020-05-11,"Malvani, Mumbai, Maharashtra",In,19.1854553,72.8119117,Suicide,Suicide,2020,463,257,107,15,2,52,45,,,11.2
-3587,Brazil,2020.0,213196304.0,Brenda Barreto Rodrigues Koge Etuwie,,2020-05-15,"Campo Grande, Mato Grosso do Sul",Br,-20.47053,-54.624352,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3590,Brazil,2020.0,213196304.0,Demétrio Campos,,2020-05-17,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3592,Argentina,2020.0,45036032.0,Pilar Albarracín,,2020-05-20,"Chivilcoy, Buenos Aires",Ar,-34.8857144,-60.0021225,Suicide,Suicide,2020,463,257,136,16,2,52,45,,,11.2
-3619,Mexico,2020.0,125998302.0,Dr María Elizabeth Montaño,,2020-06-18,"Tres Marías, Morelos",Mx,19.055263,-99.24285,Suicide,Possible suicide,2020,463,257,629,63,2,52,7,,,11.2
-3620,Turkey,,,Burcu,,2020-06-19,Konya,Tr,37.871996,32.484402,Suicide,Suicide,2020,463,257,67,5,3,52,45,,,11.2
-3624,Brazil,2020.0,213196304.0,F. J. Brito,,2020-06-23,"Teresina, Piauí",Br,-5.0452188,-42.7477245,Suicide,Possible suicide,2020,463,257,1818,190,21,52,7,,,11.2
-3631,Brazil,2020.0,213196304.0,Antonela Chelton,,2020-06-26,Rio de Janeiro,Br,-22.911014,-43.209373,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3633,Brazil,2020.0,213196304.0,Dr. Igor Lima Potêncio,1995-06-30,2020-06-28,"Palma, Tocantins",Br,-10.33825,-48.29391,Suicide,Suicide,2020,463,257,1818,190,21,52,45,1995,25,11.2
-3650,United Kingdom,2020.0,67059474.0,Name Unknown,,2020-07-05,"Salford, Greater Manchester",Gb,53.487746,-2.289192,Suicide,Suicide,2020,463,257,49,4,4,52,45,,,11.2
-3660,Argentina,2020.0,45036032.0,"Silvina Roldán (""""Sil"""")",,2020-07-13,Santiago del Estero,Ar,-27.8020138,-64.2920875,Suicide,Suicide,2020,463,257,136,16,2,52,45,,,11.2
-3667,Colombia,2020.0,50930662.0,Gabriela,,2020-07-22,"Soledad, Atlántico",Co,10.914959,-74.782105,Suicide,Possible suicide,2020,463,257,219,23,1,52,7,,,11.2
-3670,Brazil,2020.0,213196304.0,Rayven Marthiela,,2020-07-23,"São Borjas, Rio Grande do Sul",Br,-30.25274,-54.92671,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3687,Brazil,2020.0,213196304.0,Fernanda Soares,,2020-08-05,"Boa Esperança, Minas Gerais",Br,-21.605833,-43.756944,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3689,USA,2020.0,335942003.0,Janelle Ariana Briscoe,1997-05-04,2020-08-07,"Smiths, Alabama",Us,32.539404,-85.099866,Suicide,Suicide,2020,463,257,609,66,8,52,45,1997,23,11.2
-3698,United Kingdom,2020.0,67059474.0,"Isabella Bellusci (""""Bella"""")",,2020-08-16,Manchester,Gb,53.479147,-2.244745,Suicide,Suicide,2020,463,257,49,4,4,52,45,,,11.2
-3719,USA,2020.0,335942003.0,Shelley Lynn Rose,2003-10-28,2020-08-26,,Us,39.390897,-99.066067,Suicide,Suicide,2020,463,257,609,66,8,52,45,2003,17,11.2
-3727,USA,2020.0,335942003.0,Rukia Isis Bemer,1998-06-26,2020-08-30,"Lakewood, Ohio",Us,41.48686,-81.7764511,Suicide,Suicide,2020,463,257,609,66,8,52,45,1998,22,11.2
-3729,Australia,2020.0,25670051.0,Emily Core,,2020-08-31,"Brisbane, Queensland",Au,-27.468968,153.023499,Suicide,Suicide,2020,463,257,12,3,2,52,45,,,11.2
-3742,Mexico,2020.0,125998302.0,Melanie,,2020-09-08,"Huajuapan de León, Oaxaca",Mx,17.8111205,-97.7774795,Suicide,Possible suicide,2020,463,257,629,63,2,52,7,,,11.2
-3755,Turkey,,,Gökçe Umay,,2020-09-20,Istanbul,Tr,41.017058,28.985568,Suicide,Suicide,2020,463,257,67,5,3,52,45,,,11.2
-3757,France,2020.0,64480053.0,Doona Jué,2000-11-10,2020-09-23,"Montpellier, Hérault",Fr,43.6047981,3.8785277,Suicide,Suicide,2020,463,257,33,3,2,52,45,2000,20,11.2
-3764,Brazil,2020.0,213196304.0,Sucia Labasura Constantino Barbosa,,2020-09-29,"Campo Grande, Mato Grosso do Sul",Br,-20.4959912,-54.6980659,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3767,United Kingdom,2020.0,67059474.0,Ellis Murphy-Richards,,2020-09-30,"Sheerness, Kent",Gb,51.428334,0.7446078,Suicide,Possible suicide,2020,463,257,49,4,4,52,7,,,11.2
-3787,Brazil,2020.0,213196304.0,"Yuri Arthur (""""Aquariano"""")",,2020-10-17,"Belo Horizonte, Brazil",Br,-19.91818,-43.93705,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3814,Brazil,2020.0,213196304.0,Benjamin Bonin,,2020-11-11,"Alvinopolis, Minas Gerais",Br,-20.110102,-43.056109,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3815,Brazil,2020.0,213196304.0,Rafaela Bacchi,,2020-11-11,"Ribeirão Preto, São Paulo",Br,-21.178333,-47.806667,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3826,Brazil,2020.0,213196304.0,Maria Clara de Oliveira,,2020-11-20,"Sorocaba, São Paulo",Br,-23.501667,-47.458056,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3836,Italy,2020.0,59500579.0,China Rivera,,2020-12-01,"Milan, Lombardy",It,45.5050235,9.2637653,Suicide,Possible suicide,2020,463,257,71,7,2,52,7,,,11.2
-3851,Australia,2020.0,25670051.0,Bridget Flack,,2020-12-11,"Melbourne, Victoria",Au,-37.78835873,145.0505159,Suicide,Possible suicide,2020,463,257,12,3,2,52,7,,,11.2
-3858,France,2020.0,64480053.0,Luna Avril Mabchour,2003-01-17,2020-12-15,"Lille, Nord",Fr,50.630509,3.070641,Suicide,Suicide,2020,463,257,33,3,2,52,45,2003,17,11.2
-3860,Brazil,2020.0,213196304.0,Fonthoi Lima,,2020-12-16,"Indaiatuba, São Paulo",Br,-23.09028,-47.21806,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3863,Brazil,2020.0,213196304.0,Allex Noah,,2020-12-18,"Russas, Ceará",Br,-4.926727,-37.972086,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2
-3865,USA,2020.0,335942003.0,Myliah Monae Mullen,,2020-12-20,"Baltimore, Maryland",Us,39.290443,-76.612333,Suicide,Suicide,2020,463,257,609,66,8,52,45,,,11.2
-3891,Mexico,2021.0,126705138.0,Daisy del Carmen,,2021-01-12,"Ciudad Victoria, Tamaulipas",Mx,23.7313195,-99.1494426,Suicide,Suicide,2021,445,257,629,51,1,46,46,,,10.3
-3902,Brazil,2021.0,214326223.0,Luciana Sandreli Alves,,2021-01-17,"Colatina, Espirito Santo",Br,-19.54786,-40.62637,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3
-3906,Brazil,2021.0,214326223.0,Name Unknown,,2021-01-23,Pernambuco,Br,-8.412748,-38.308792,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3
-3925,France,2021.0,64531444.0,Nicolas,,2021-02-07,"Le Havre, Seine-Maritime",Fr,49.4957894,0.0611447,Suicide,Suicide,2021,445,257,33,10,7,46,46,,,10.3
-3927,USA,2021.0,336997624.0,Alexander Blake VanDalsen,,2021-02-09,"Lafayette, Indiana",Us,40.3935819,-86.9070575,Suicide,Possible suicide,2021,445,257,609,78,8,46,3,,,10.3
-3929,India,2021.0,1407563842.0,Sneha,,2021-02-09,"Kannur, Kerala",In,11.842895,75.4117186,Suicide,Suicide,2021,445,257,107,16,3,46,46,,,10.3
-3941,Brazil,2021.0,214326223.0,Lucca Gomes Souto,,2021-02-17,"Naque, Minas Gerais",Br,-19.202654,-42.293403,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3
-3955,Netherlands,2021.0,17501696.0,Xingshun Zhou,1997-02-10,2021-02-26,"Echt, Limburg",Nl,51.0995071,5.840764,Suicide,Suicide,2021,445,257,7,1,1,46,46,1997,24,10.3
-3958,Argentina,2021.0,45276780.0,Nicolas,,2021-03-02,"Rio Grande, Tierra del Fuego",Ar,-53.7880929,-67.770198,Suicide,Suicide,2021,445,257,136,14,2,46,46,,,10.3
-3959,South Korea,,,Byun Hee-soo,,2021-03-03,"Cheongju, North Chungcheong",Kr,36.6439,127.5012,Suicide,Suicide,2021,445,257,2,1,1,46,46,,,10.3
-3966,Australia,2021.0,25921089.0,Name Unknown,,2021-03-04,"Perth, Western Australia",Au,-31.952712,115.86048,Suicide,Suicide,2021,445,257,12,1,1,46,46,,,10.3
-3971,France,2021.0,64531444.0,Sté,,2021-03-09,"Rennes, Ille-et-Vilaine",Fr,48.111359,-1.680009,Suicide,Suicide,2021,445,257,33,10,7,46,46,,,10.3
-3975,United Kingdom,2021.0,67281039.0,Milo Turner,,2021-03-10,"Plymouth, Devon",Gb,40.7657164,29.9259042,Suicide,Suicide,2021,445,257,49,5,4,46,46,,,10.3
-3983,Brazil,2021.0,214326223.0,Luana Katrina,,2021-03-20,,Br,-32.557663,-53.389907,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3
-3986,USA,2021.0,336997624.0,Piper Autumn Rivers (Tegan Toxik/Tegan Last),1994-02-12,2021-03-22,"Las Vegas, Nevada",Us,36.169202,-115.140597,Suicide,Suicide,2021,445,257,609,78,8,46,46,1994,27,10.3
-3987,Brazil,2021.0,214326223.0,Name Unknown,,2021-03-22,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3
-4049,USA,2021.0,336997624.0,"Danielle Boachie (""""Dani"""")/Mistress Velvet",,2021-05-08,"Chicago, Illinois",Us,41.8333925,-88.0121485,Suicide,Suicide,2021,445,257,609,78,8,46,46,,,10.3
-4051,India,2021.0,1407563842.0,Aliya,,2021-05-09,"Jamshedpur, Jharkhand",In,22.801519,86.202958,Suicide,Suicide,2021,445,257,107,16,3,46,46,,,10.3
-4064,Brazil,2021.0,214326223.0,Name Unknown,,2021-05-18,Rio Grande do Norte,Br,-5.678118,-36.478178,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3
-4072,United Kingdom,2021.0,67281039.0,Sophie Gwen Williams,,2021-05-22,London,Gb,51.528308,-0.3817793,Suicide,Suicide,2021,445,257,49,5,4,46,46,,,10.3
-4074,USA,2021.0,336997624.0,Haven A Bailey,1995-07-27,2021-05-24,"Villa Park, Illinois",Us,41.8879067,-88.0157129,Suicide,Suicide,2021,445,257,609,78,8,46,46,1995,26,10.3
-4093,Sweden,2021.0,10467097.0,Samir Seif Bouabadali,1993-08-06,2021-06-02,Stockholm,Se,59.3260668,17.8419712,Suicide,Suicide,2021,445,257,4,1,1,46,46,1993,28,10.3
-4094,Argentina,2021.0,45276780.0,Santiago Cancinos,,2021-06-03,"Vaqueros, Salta",Ar,-24.689345,-65.3936157,Suicide,Possible suicide,2021,445,257,136,14,2,46,3,,,10.3
-4099,Italy,2021.0,59240329.0,Name Unknown,,2021-06-06,"Rome, Lazio",It,41.8922073,12.5166194,Suicide,Suicide,2021,445,257,71,4,1,46,46,,,10.3
-4101,Myanmar,2021.0,53798084.0,Name Unknown,,2021-06-07,Yangon,Mm,16.80988,96.158713,Suicide,Suicide,2021,445,257,6,6,1,46,46,,,10.3
-4110,United Kingdom,2021.0,67281039.0,Nila Gupta,,2021-06-12,London,Gb,51.528308,-0.3817793,Suicide,Suicide,2021,445,257,49,5,4,46,46,,,10.3
-4117,El Salvador,2021.0,6314167.0,Josselin Alejandra Hernández,,2021-06-17,"San Francisco Menéndez, Ahuachapán",Sv,13.8415181,-90.0202164,Suicide,Suicide,2021,445,257,61,4,1,46,46,,,10.3
-4133,Japan,2021.0,124612530.0,Near (Byuu),1983-02-21,2021-06-27,"Arakawa, Tokyo",Jp,35.7397999,139.7645413,Suicide,Suicide,2021,445,257,3,1,1,46,46,1983,38,10.3
-4143,Brazil,2021.0,214326223.0,Maha Moretto,,2021-07-06,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3
-4152,Germany,2021.0,83408554.0,Amélia Ada Louise Chavot,,2021-07-10,Berlin,De,52.517037,13.38886,Suicide,Suicide,2021,445,257,6,2,2,46,46,,,10.3
-4160,France,2021.0,64531444.0,Tristan Frémont,2002-02-02,2021-07-19,"Saint-Xandre, Charente-Maritime",Fr,46.2131255,-1.1273867,Suicide,Suicide,2021,445,257,33,10,7,46,46,2002,19,10.3
-4162,India,2021.0,1407563842.0,Anannyah Kumari Alex,,2021-07-20,"Kochi, Kerala",In,9.9823426,76.1605078,Suicide,Suicide,2021,445,257,107,16,3,46,46,,,10.3
-4175,Brazil,2021.0,214326223.0,Dr Patrícia Targino Dutra,,2021-08-02,"Natal, Rio Grande do Norte",Br,-5.805398,-35.208091,Suicide,Possible suicide,2021,445,257,1818,132,9,46,3,,,10.3
-4207,United Kingdom,2021.0,67281039.0,Jane McQueen,,2021-08-24,Manchester,Gb,53.479147,-2.244745,Suicide,Suicide,2021,445,257,49,5,4,46,46,,,10.3
-4217,France,2021.0,64531444.0,Jay Hoarau,2005-03-17,2021-09-03,"Saint-Denis, Réunion",Fr,-20.8965415,55.4350018,Suicide,Suicide,2021,445,257,33,10,7,46,46,2005,16,10.3
-4224,Germany,2021.0,83408554.0,Ella Nik Bayan,,2021-09-14,Berlin,De,52.5226313,13.4073152,Suicide,Suicide,2021,445,257,6,2,2,46,46,,,10.3
-4228,France,2021.0,64531444.0,Sasha,,2021-09-18,Paris,Fr,48.8588495,2.3119299,Suicide,Suicide,2021,445,257,33,10,7,46,46,,,10.3
-4232,France,2021.0,64531444.0,Samuel Boutry,,2021-09-22,Tarn-et-Garonne,Fr,46.623974,2.462247,Suicide,Suicide,2021,445,257,33,10,7,46,46,,,10.3
-4248,Brazil,2021.0,214326223.0,Karol Souza,,2021-10-08,"Rio Branco, Acre",Br,-9.9948112,-68.9834841,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3
-4251,Israel,2021.0,8900059.0,Zehava,,2021-10-10,Haifa,Il,32.8329376,34.9835629,Suicide,Suicide,2021,445,257,3,1,1,46,46,,,10.3
-4256,USA,2021.0,336997624.0,Tayda Lebón,,2021-10-14,New York,Us,40.6451594,-74.0850817,Suicide,Suicide,2021,445,257,609,78,8,46,46,,,10.3
-4266,France,2021.0,64531444.0,Tal Piterbraut-Merx,1992-08-23,2021-10-25,Paris,Fr,48.8588336,2.2769952,Suicide,Suicide,2021,445,257,33,10,7,46,46,1992,29,10.3
-4267,USA,2021.0,336997624.0,"Joey Spencer (""""JoJo"""")",1991-01-20,2021-10-27,"Mount Airy, North Carolina",Us,36.5022418,-80.6773952,Suicide,Suicide,2021,445,257,609,78,8,46,46,1991,30,10.3
-4280,USA,2021.0,336997624.0,Haley Gabriella Feldmann,2002-11-18,2021-11-12,"Beach, North Dakota",Us,46.9159866,-104.0251951,Suicide,Suicide,2021,445,257,609,78,8,46,46,2002,19,10.3
-4290,Pakistan,2021.0,231402117.0,Name Unknown,,2021-11-26,"Mingora, Swat",Pk,34.328686,73.199313,Suicide,Suicide,2021,445,257,97,20,1,46,46,,,10.3
-4321,USA,2021.0,336997624.0,Amelia Furniss Leonhart,,2021-12-30,Idaho Falls,Us,43.4926827,-112.1037471,Suicide,Suicide,2021,445,257,609,78,8,46,46,,,10.3
-4334,United Kingdom,2022.0,67508936.0,Blair Envy,,2022-01-05,"Brighton, East Sussex",Gb,50.8374127,-0.1412091,Suicide,Suicide,2022,364,257,49,8,6,48,45,,,13.2
-4338,Brazil,2022.0,215313498.0,Kauê Vestemberg,,2022-01-09,"Guarapuava, Paraná",Br,-25.2482625,-51.5542756,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4345,Brazil,2022.0,215313498.0,Gael Pandinho,,2022-01-16,"Macapá, Amapá",Br,0.1017722,-51.167072,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4347,United Kingdom,2022.0,67508936.0,Emma Boland,2006-06-13,2022-01-17,"Bampton, Oxfordshire",Gb,51.7260098,-1.5879024,Suicide,Suicide,2022,364,257,49,8,6,48,45,2006,16,13.2
-4355,Brazil,2022.0,215313498.0,Babalu Vendraminy,,2022-01-25,"São Gonçalo, Rio de Janeiro",Br,-22.8216378,-43.0734924,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4362,Turkey,,,Zirve Soylu,,2022-02-01,Istanbul,Tr,41.0049823,28.7319944,Suicide,Suicide,2022,364,257,67,2,1,48,45,,,13.2
-4367,Iran,,,Hanar,,2022-02-06,"Mariwan, Kurdistan",Ir,35.5168281,46.1608599,Suicide,Suicide,2022,364,257,1,1,1,48,45,,,13.2
-4368,United Kingdom,2022.0,67508936.0,Name Unknown,,2022-02-06,"Milton Keynes, Buckinghamshire",Gb,52.038137,-0.7751537,Suicide,Suicide,2022,364,257,49,8,6,48,45,,,13.2
-4371,Brazil,2022.0,215313498.0,Nicoly,,2022-02-08,"Varginha, Minas Gerais",Br,-21.5715403,-45.4702102,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4372,USA,2022.0,338289857.0,Destinee Lashaee,,2022-02-09,"Houston, Texas",Us,29.760803,-95.369506,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2
-4374,United Kingdom,2022.0,67508936.0,Shay Patten Walker,1998-03-07,2022-02-09,London,Gb,51.5285578,-0.2420219,Suicide,Suicide,2022,364,257,49,8,6,48,45,1998,24,13.2
-4376,United Kingdom,2022.0,67508936.0,Iggy Rose,,2022-02-10,"Cardiff, Wales",Gb,51.5022199,-3.2750897,Suicide,Possible suicide,2022,364,257,49,8,6,48,5,,,13.2
-4403,France,2022.0,64626628.0,Adrien Baptiste Luckas,,2022-03-01,"Nice, Alpes-Maritimes",Fr,43.7031739,7.1827721,Suicide,Suicide,2022,364,257,33,7,5,48,45,,,13.2
-4404,France,2022.0,64626628.0,Gwenn Agathe Linski,1994-08-02,2022-03-02,"Toulouse, Haute-Garonne",Fr,43.6006819,1.3628026,Suicide,Suicide,2022,364,257,33,7,5,48,45,1994,28,13.2
-4407,USA,2022.0,338289857.0,Milo Winslow,,2022-03-03,"Lincoln, Nebraska",Us,40.8005877,-96.7609391,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2
-4415,Brazil,2022.0,215313498.0,"Paulo Vaz (""""Popó Vaz"""")",,2022-03-14,São Paulo,Br,-23.6821604,-46.8754924,Suicide,Possible suicide,2022,364,257,1818,107,10,48,5,,,13.2
-4422,Argentina,2022.0,45510318.0,"Celene Gabriela Colantinio (""""Nati"""")",,2022-03-21,"Mina Clavero, Córdoba",Ar,-31.7290303,-65.0200183,Suicide,Possible suicide,2022,364,257,136,11,1,48,5,,,13.2
-4428,USA,2022.0,338289857.0,Quinn Mowrer Gustin,2002-01-13,2022-03-24,"Salt Lake City, Utah",Us,40.7765233,-112.0605692,Suicide,Suicide,2022,364,257,609,56,10,48,45,2002,20,13.2
-4432,USA,2022.0,338289857.0,Kai Khan,2003-06-04,2022-03-27,"Great Bend, Kansas",Us,38.4037674,-98.7353353,Suicide,Suicide,2022,364,257,609,56,10,48,45,2003,19,13.2
-4434,France,2022.0,64626628.0,"Mirza-Hélène Deneuve (""""Julles"""")",,2022-03-28,"Le Havre, Seine-Maritime",Fr,49.4957998,0.0611543,Suicide,Suicide,2022,364,257,33,7,5,48,45,,,13.2
-4436,Brazil,2022.0,215313498.0,Marcela Gomes Fonseca,,2022-03-30,"Juína, Mato Grosso",Br,-11.4292145,-58.8034417,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4438,Canada,2022.0,38454327.0,Ezra Amos,,2022-03-31,"Hamilton, Ontario",Ca,43.665132,-79.4133967,Suicide,Possible suicide,2022,364,257,18,4,2,48,5,,,13.2
-4447,Brazil,2022.0,215313498.0,Amani Frieden,,2022-04-05,"Aracaju, Sergipe",Br,-10.9586177,-37.0572057,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4453,Moldova,,,Felis Joy,,2022-04-11,Chișinău,Md,47.0522107,28.8621463,Suicide,Suicide,2022,364,257,1,1,1,48,45,,,13.2
-4463,USA,2022.0,338289857.0,Kenna Leigh Gillock,,2022-04-17,"Gold Hill, Oregon",Us,42.4385582,-123.0655577,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2
-4469,USA,2022.0,338289857.0,Asher Garcia,2008-04-03,2022-04-21,"Frazee, Minnesota",Us,46.7279197,-95.7105177,Suicide,Suicide,2022,364,257,609,56,10,48,45,2008,14,13.2
-4476,India,2022.0,1417173173.0,Name Unknown,,2022-05-01,"Puri, Odisha",In,19.8048196,85.8157301,Suicide,Suicide,2022,364,257,107,9,2,48,45,,,13.2
-4488,USA,2022.0,338289857.0,Ruby Taverner,,2022-05-09,"Independence Township, Michigan",Us,42.763599,-83.391098,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2
-4493,France,2022.0,64626628.0,Name Unknown,,2022-05-13,"Le Mans, Sarthe",Fr,47.9818833,0.1256613,Suicide,Suicide,2022,364,257,33,7,5,48,45,,,13.2
-4497,India,2022.0,1417173173.0,Sherin Celin Mathew,,2022-05-17,"Kochi, Kerala",In,9.9897354,76.3132072,Suicide,Suicide,2022,364,257,107,9,2,48,45,,,13.2
-4501,USA,2022.0,338289857.0,Maddie Dickens,1993-09-11,2022-05-20,"Roseville, Minnesota",Us,45.0138176,-93.1920118,Suicide,Possible suicide,2022,364,257,609,56,10,48,5,1993,29,13.2
-4505,Brazil,2022.0,215313498.0,Danna Nunes,,2022-05-25,"Bagé, Rio Grande do Sul",Br,-31.2433456,-54.6259411,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4506,United Kingdom,2022.0,67508936.0,Alice Litman,,2022-05-26,"Brighton, Sussex",Gb,50.8375054,-0.1762301,Suicide,Suicide,2022,364,257,49,8,6,48,45,,,13.2
-4518,USA,2022.0,338289857.0,Rexy Que,1996-10-01,2022-06-03,"Wichita, Kansas",Us,37.6647979,-97.583725,Suicide,Suicide,2022,364,257,609,56,10,48,45,1996,26,13.2
-4526,Italy,2022.0,59037474.0,Cloe Bianco,,2022-06-11,Belluno,It,46.1476932,12.1691511,Suicide,Suicide,2022,364,257,71,8,3,48,45,,,13.2
-4528,Italy,2022.0,59037474.0,Sasha,,2022-06-11,"Catania, Sicily",It,37.4908267,15.0074777,Suicide,Suicide,2022,364,257,71,8,3,48,45,,,13.2
-4563,Mexico,2022.0,127504125.0,Valis Ortíz,,2022-07-17,Cuidad de México,Mx,19.3910038,-99.2836989,Suicide,Suicide,2022,364,257,629,58,1,48,45,,,13.2
-4568,Brazil,2022.0,215313498.0,Name Unknown,,2022-07-22,Rio de Janeiro,Br,-22.9005256,-43.1956281,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4587,Spain,2022.0,47558630.0,Monicalorenzi Lorenzi,,2022-08-14,"Barcelona, Catalonia",Es,41.3927755,2.0701491,Suicide,Suicide,2022,364,257,18,1,1,48,45,,,13.2
-4605,Australia,2022.0,26177413.0,Ingram Gordon,,2022-09-05,"Ipswich, Queensland",Au,-27.6233577,152.7512225,Suicide,Suicide,2022,364,257,12,1,1,48,45,,,13.2
-4606,Brazil,2022.0,215313498.0,Luise Fernandes Cazé,,2022-09-06,"São Luís, Maranhão",Br,-2.589425,-44.2087954,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2
-4611,Canada,2022.0,38454327.0,Alex Bastien,,2022-09-09,"Saint-Jérôme, Quebec",Ca,45.7964574,-74.1139161,Suicide,Suicide,2022,364,257,18,4,2,48,45,,,13.2
-4613,France,2022.0,64626628.0,Bobby Melon,1998-02-15,2022-09-11,"Rennes, Ille-et-Vilaine",Fr,48.115913,-1.7586551,Suicide,Suicide,2022,364,257,33,7,5,48,45,1998,24,13.2
-4619,El Salvador,2022.0,6336392.0,Chocolatito Anzora,,2022-09-24,"Conchagua, La Unión",Sv,13.3045204,-87.8704119,Suicide,Suicide,2022,364,257,61,2,1,48,45,,,13.2
-4620,USA,2022.0,338289857.0,Serena Brenneman,,2022-09-24,"Salem, Oregon",Us,44.93297,-123.0982474,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2
-4641,Colombia,2022.0,51874024.0,J. C. Gómez,,2022-10-16,"Cartago, Valle del Cauca",Co,4.7516185,-75.9201787,Suicide,Suicide,2022,364,257,219,25,1,48,45,,,13.2
-4648,Italy,2022.0,59037474.0,Chiara Colombini,,2022-10-24,"Naples, Campania",It,40.84014,14.25226,Suicide,Suicide,2022,364,257,71,8,3,48,45,,,13.2
-4650,Bolivia,,,Luciana Desiré Vaca,,2022-10-26,La Paz,Bo,16.49908,-68.13378,Suicide,Suicide,2022,364,257,16,2,1,48,45,,,13.2
+,Country,Year,Population,Name,Birthdate,Date,Location,Country_Code,Latitude,Longitude,Category,Cause_of_the_death,year,nb_victims_year,nb_victims_Category,nb_victims_country,nb_victims_country_year,nb_victims_category_country_year,nb_victims_Category_year,nb_victims_cause_year,year_birthdays,age,percentage_category,ratio
+20,USA,2000.0,282398554.0,Michelle Lynne O'Hara,,2000-03-14,New York,Us,40.6976684,-74.2605508,Suicide,Suicide,2000,19,257,609,12,1,1,1,,,5.3,0.00035
+93,United Kingdom,2003.0,59649799.0,Debbie Gould,,2003-05-31,London,Gb,51.5263926,-0.1317119,Suicide,Suicide,2003,34,257,49,2,2,2,2,,,5.9,0.00335
+107,United Kingdom,2003.0,59649799.0,Debbie Fox,,2003-08-26,"Radcliffe, Greater Manchester",Gb,53.559338,-2.326155,Suicide,Suicide,2003,34,257,49,2,2,2,2,,,5.9,0.00335
+222,United Kingdom,2008.0,61742151.0,Cameron McWilliams,,2008-02-11,"Doncaster, South Yorkshire",Gb,53.522768,-1.133531,Suicide,Suicide,2008,53,257,49,2,2,3,3,,,5.7,0.00324
+237,United Kingdom,2008.0,61742151.0,Alex Silverfish,,2008-07-31,"Bethnal Green, East London",Gb,51.5313,-0.06447,Suicide,Suicide,2008,53,257,49,2,2,3,3,,,5.7,0.00324
+240,South Korea,,,Jang Chae-won,,2008-10-03,"Seoul, Seoul Capital Area",Kr,37.5408926,126.979875,Suicide,Suicide,2008,53,257,2,1,1,3,3,,,5.7,
+1318,France,2013.0,63335180.0,Louise Olivier,1950-06-07,2013-08-15,"Besançon, Doubs",Fr,47.237953,6.024325,Suicide,Suicide,2013,260,257,33,2,1,2,2,1950,63,0.8,0.00158
+1340,Brazil,2013.0,201721767.0,Gabriela Monelli,,2013-09-09,"Porto Ferreira, São Paulo",Br,-21.849814,-47.487034,Suicide,Suicide,2013,260,257,1818,105,1,2,2,,,0.8,0.0005
+1589,USA,2014.0,322033964.0,"Kate von Roeder (""""Riot Damiya"""")",,2014-10-01,"Los Angeles, California",Us,34.052238,-118.243344,Suicide,Suicide,2014,259,257,609,15,2,3,3,,,1.2,0.00062
+1621,United Kingdom,2014.0,64773504.0,Mikki Nicholson,,2014-11-07,"Carlisle, Cumbria",Gb,54.890828,-2.9336725,Suicide,Suicide,2014,259,257,49,1,1,3,3,,,1.2,0.00154
+1668,USA,2014.0,322033964.0,Leelah Alcorn,,2014-12-28,"Lebanon, Ohio",Us,39.383929,-84.2199845,Suicide,Suicide,2014,259,257,609,15,2,3,3,,,1.2,0.00062
+1709,USA,2015.0,324607776.0,Melonie Elizabeth Rose,,2015-02-11,"Laurel, Maryland",Us,39.099535,-76.848374,Suicide,Suicide,2015,261,257,609,26,3,6,6,,,2.3,0.00092
+1865,United Kingdom,2015.0,65224364.0,Ashlee Flux,1981-04-21,2015-09-19,"Kettering, Northamptonshire",Gb,52.399423,-0.728004,Suicide,Suicide,2015,261,257,49,3,1,6,6,1981,34,2.3,0.00153
+1880,USA,2015.0,324607776.0,Ashley Hallstrom,,2015-10-14,"Logan, Utah",Us,41.735211,-111.834857,Suicide,Suicide,2015,261,257,609,26,3,6,6,,,2.3,0.00092
+1912,USA,2015.0,324607776.0,Mac Ohana,,2015-12-02,"Bellingham, Washington",Us,48.754899,-122.478122,Suicide,Suicide,2015,261,257,609,26,3,6,6,,,2.3,0.00092
+1924,Mexico,2015.0,120149897.0,Chanel Siqueiros,,2015-12-20,"Hermosillo, Sonora",Mx,29.089415,-110.961238,Suicide,Suicide,2015,261,257,629,33,1,6,6,,,2.3,0.00083
+1929,Spain,2015.0,46431342.0,Alan Cusso,,2015-12-24,"Rubi, Barcelona, Catalonia",Es,41.493702,2.031132,Suicide,Suicide,2015,261,257,18,2,1,6,6,,,2.3,0.00215
+2047,Dominican Republic,2016.0,10527592.0,Amaranta Polanco,,2016-05-03,"Tamboril, Santiago",Do,19.489974,-70.612606,Suicide,Possible suicide,2016,320,257,29,3,1,2,1,,,0.6,0.0095
+2229,Brazil,2016.0,206859578.0,Marilia Lamdi,,2016-12-01,"Várzea Paulista, São Paulo",Br,-23.21356,-46.84955,Suicide,Suicide,2016,320,257,1818,137,1,2,2,,,0.6,0.00048
+2303,United Kingdom,2017.0,66064804.0,Sam Marx,,2017-02-20,"Dunkeld, Perth and Kinross, Scotland",Gb,56.59662336,-3.53256047,Suicide,Suicide,2017,396,257,49,2,2,11,10,,,2.8,0.00303
+2309,Brazil,2017.0,208504960.0,C. A. de Mendonça,,2017-02-25,"São João Nepomuceno, Minas Gerais",Br,-21.53471,-43.012648,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8,0.00384
+2332,Brazil,2017.0,208504960.0,Danilo Melhorini,,2017-03-15,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8,0.00384
+2407,United Kingdom,2017.0,66064804.0,Leo Etherington,,2017-05-31,"High Wycombe, Buckinghamshire",Gb,51.627422,-0.748415,Suicide,Suicide,2017,396,257,49,2,2,11,10,,,2.8,0.00303
+2434,Brazil,2017.0,208504960.0,Sandra de Souza Medeiros,,2017-06-25,"São Carlos, São Paolo",Br,-22.017544,-47.890971,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8,0.00384
+2536,Brazil,2017.0,208504960.0,Bru Lima,,2017-10-02,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8,0.00384
+2551,Brazil,2017.0,208504960.0,Beatriz Presley (“Bia”),,2017-10-18,"Porto Velho, Rondônia",Br,-8.749453,-63.873544,Suicide,Possible suicide,2017,396,257,1818,199,8,11,1,,,2.8,0.00384
+2564,Brazil,2017.0,208504960.0,Alessandra Rinaldi,,2017-10-25,"São Leopoldo, Rio Grande do Sul",Br,-29.754441,-51.15165,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8,0.00384
+2579,USA,2017.0,329791231.0,Natalie Nguyen,,2017-11-03,"Seattle, Washington",Us,47.603229,-122.33028,Suicide,Suicide,2017,396,257,609,36,1,11,10,,,2.8,0.0003
+2618,Brazil,2017.0,208504960.0,Kyara Barbosa,,2017-12-04,"Morada Nova, Ceará",Br,-5.09736,-38.370158,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8,0.00384
+2637,Brazil,2017.0,208504960.0,Alloés Carvalho,,2017-12-24,"Cantagallo, Rio de Janeiro",Br,-23.0324,-44.16918,Suicide,Suicide,2017,396,257,1818,199,8,11,10,,,2.8,0.00384
+2707,Spain,2018.0,46792043.0,Ekai Lersundi,,2018-02-15,"Ondarroa, Bizkaia",Es,43.320729,-2.42075,Suicide,Suicide,2018,392,257,18,3,2,34,33,,,8.7,0.00427
+2730,USA,2018.0,332140037.0,Hope Verbeeck,,2018-03-06,"Tampa, Florida",Us,27.947423,-82.458776,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7,0.00271
+2744,United Kingdom,2018.0,66432993.0,Jacob Whelan,,2018-03-17,"Cardiff, Wales",Gb,51.53939,-3.26165,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7,0.00753
+2753,Turkey,,,Elif,,2018-03-22,Izmir,Tr,38.415342,27.144474,Suicide,Suicide,2018,392,257,67,8,2,34,33,,,8.7,
+2757,China,2018.0,1417069468.0,Ayaka Neko,,2018-03-24,"Anning, Kunming, Yunnan",Cn,25.18113,101.86414,Suicide,Suicide,2018,392,257,3,1,1,34,33,,,8.7,7e-05
+2763,Turkey,,,Asu,,2018-03-29,"Findikzade, Istanbul",Tr,41.1957,28.73129,Suicide,Suicide,2018,392,257,67,8,2,34,33,,,8.7,
+2765,USA,2018.0,332140037.0,Chance Houle,,2018-03-31,"Bismark, North Dakota",Us,46.80537,-100.781609,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7,0.00271
+2766,Brazil,2018.0,210166592.0,Kim Schinaider,,2018-03-31,"Ribeirão Preto, São Paulo",Br,-21.178333,-47.806667,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7,0.00333
+2784,United Kingdom,2018.0,66432993.0,Christina Bentley,,2018-04-23,"Brighton, East Sussex",Gb,50.82204,-0.137406,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7,0.00753
+2787,Australia,2018.0,24979230.0,Lydia Stone,,2018-04-25,"Sydney, New South Wales",Au,-33.854816,151.216454,Suicide,Suicide,2018,392,257,12,1,1,34,33,,,8.7,0.004
+2793,USA,2018.0,332140037.0,Grayson Keck,2003-01-24,2018-04-28,"Columbia, South Carolina",Us,34.009286,-81.037094,Suicide,Suicide,2018,392,257,609,37,9,34,33,2003,15,8.7,0.00271
+2800,Spain,2018.0,46792043.0,Thalía,,2018-05-04,"Móstoles, Comunidad de Madrid",Es,40.323853,-3.864921,Suicide,Suicide,2018,392,257,18,3,2,34,33,,,8.7,0.00427
+2821,United Kingdom,2018.0,66432993.0,Marty Dragonova,,2018-05-30,"Cardiff, Wales",Gb,51.53939,-3.26165,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7,0.00753
+2840,USA,2018.0,332140037.0,Chloe Sagal,,2018-06-19,"Portland, Oregon",Us,45.516018,-122.681425,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7,0.00271
+2843,Brazil,2018.0,210166592.0,Juliana Araújo,,2018-06-20,"Brasilia, Distrito Federal",Br,-15.7934,-47.882293,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7,0.00333
+2852,USA,2018.0,332140037.0,Dr Laura Masi,,2018-06-27,"San Diego, California",Us,-12.981636,-38.482077,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7,0.00271
+2854,USA,2018.0,332140037.0,"Gabrielle Holley (""""Gabby"""")",,2018-06-28,"Fort Lauderdale, Florida",Us,26.124163,-80.143586,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7,0.00271
+2862,USA,2018.0,332140037.0,Daine Grey,,2018-07-02,"San Francisco, California",Us,37.78008,-122.420168,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7,0.00271
+2886,Brazil,2018.0,210166592.0,Louise,,2018-07-26,"Barra Bonit, São Paulo",Br,-22.490859,-48.558349,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7,0.00333
+2892,France,2018.0,64277808.0,Lucie-Anne Roux,1971-04-01,2018-08-06,"Besançon, Doubs",Fr,47.237953,6.024325,Suicide,Suicide,2018,392,257,33,2,1,34,33,1971,47,8.7,0.00156
+2896,USA,2018.0,332140037.0,Casey Hoke,,2018-08-08,"Pomona, California",Us,34.055118,-117.750048,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7,0.00271
+2898,Portugal,2018.0,10289835.0,Rafael Romeu de Brito,,2018-08-09,Lisbon,Pt,38.713057,-9.138006,Suicide,Suicide,2018,392,257,5,1,1,34,33,,,8.7,0.00972
+2912,USA,2018.0,332140037.0,Jamel Pierce,,2018-08-23,"Denver, Colorado",Us,39.738453,-104.984853,Suicide,Suicide,2018,392,257,609,37,9,34,33,,,8.7,0.00271
+2914,El Salvador,2018.0,6276342.0,Deborah González,,2018-08-25,"Catarina, Usulután",Sv,13.3521,-88.4305,Suicide,Suicide,2018,392,257,61,8,1,34,33,,,8.7,0.01593
+2938,Brazil,2018.0,210166592.0,Allef Vieira,,2018-09-10,"Aparecida de Goiânia, Goiás",Br,-16.822674,-49.245255,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7,0.00333
+2948,United Kingdom,2018.0,66432993.0,Name Unknown,,2018-09-22,,Gb,54.0,-2.0,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7,0.00753
+2950,United Kingdom,2018.0,66432993.0,Jayden Lowe,,2018-09-22,"Meldreth, Cambridgeshire",Gb,52.1102969,0.0254733,Suicide,Suicide,2018,392,257,49,6,5,34,33,,,8.7,0.00753
+2965,Mexico,2018.0,124013861.0,Itzel Aidana Ávila,,2018-10-07,"Fresnillo, Zacatecas",Mx,23.174318,-102.869833,Suicide,Suicide,2018,392,257,629,66,2,34,33,,,8.7,0.00161
+2969,Mexico,2018.0,124013861.0,Name Unknown,,2018-10-11,Puebla City,Mx,19.35044,-97.89759,Suicide,Suicide,2018,392,257,629,66,2,34,33,,,8.7,0.00161
+2978,Argentina,2018.0,44413596.0,Ariana Esquivel,,2018-10-21,"La Matanza Partido, Buenos Aires",Ar,-34.7725,-58.65108,Suicide,Suicide,2018,392,257,136,13,2,34,33,,,8.7,0.0045
+2984,Brazil,2018.0,210166592.0,Ciano Sacchi,,2018-10-25,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7,0.00333
+2989,Brazil,2018.0,210166592.0,Sheila Brites Bodago,,2018-10-29,"Amambai, Mato Grosso do Sul",Br,-23.108272,-55.228489,Suicide,Possible suicide,2018,392,257,1818,177,7,34,1,,,8.7,0.00333
+3027,Brazil,2018.0,210166592.0,Erika Araújo,,2018-12-17,"Guarulhos, São Paulo",Br,-23.44306,-46.524459,Suicide,Suicide,2018,392,257,1818,177,7,34,33,,,8.7,0.00333
+3032,Argentina,2018.0,44413596.0,Name Unknown,,2018-12-20,Jujuy,Ar,-23.316146,-65.759529,Suicide,Suicide,2018,392,257,136,13,2,34,33,,,8.7,0.0045
+3043,India,2019.0,1383112050.0,S. Biswas,,2019-01-01,"Baguiati, Kolkata, West Bengal",In,22.6148,88.4218,Suicide,Possible suicide,2019,375,257,107,12,2,47,6,,,12.5,0.00014
+3047,United Kingdom,2019.0,66778659.0,Danielle Myriam Ceri Fisher,,2019-01-04,"Glasgow, Scotland",Gb,55.861147,-4.249989,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5,0.00749
+3048,Brazil,2019.0,211782878.0,Victória Jugnet,,2019-01-04,"Brasília, Distrito Federal",Br,-15.7934,-47.882293,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3057,Brazil,2019.0,211782878.0,Ares Saturno,,2019-01-19,"Praia Grande, São Paulo",Br,-24.005833,-46.402778,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3058,Brazil,2019.0,211782878.0,Soren Neres Denardi,,2019-01-19,"Praia Grande, São Paulo",Br,-24.005833,-46.402778,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3072,Brazil,2019.0,211782878.0,Charlene Keroly,,2019-01-31,"Maués, Amazonas",Br,-3.37958,-57.719607,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3084,Brazil,2019.0,211782878.0,Giuliano Imperato,,2019-02-12,"Santos, São Paulo",Br,-23.960833,46.333889,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3093,USA,2019.0,334319671.0,"Faye (""""Morena Black"""")",,2019-02-24,Florida,Us,29.065599,-81.884201,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5,0.00209
+3101,Turkey,,,Esra,,2019-03-02,Ankara,Tr,39.8924866,32.8682227,Suicide,Suicide,2019,375,257,67,5,2,47,41,,,12.5,
+3104,Brazil,2019.0,211782878.0,Fernanda,,2019-03-03,"Maracanaú, Ceará",Br,-3.8748513,-38.6213996,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3110,Brazil,2019.0,211782878.0,Flávia Santana,,2019-03-08,"Anápolis, Goiás",Br,-16.333283,-48.952576,Suicide,Possible suicide,2019,375,257,1818,139,20,47,6,,,12.5,0.00944
+3112,Brazil,2019.0,211782878.0,Levi Matheus Santos (Lívia Dí Castro),,2019-03-09,"Taboão da Serra, São Paulo",Br,-23.612191,-46.779054,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3133,Brazil,2019.0,211782878.0,Victoria Medeiros,,2019-03-26,"Jaci, Sao Paulo",Br,-20.884443,-49.571054,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3141,Brazil,2019.0,211782878.0,Dianna Rodrigues,,2019-04-02,"Itu, São Paulo",Br,-23.263883,-47.298892,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3159,Brazil,2019.0,211782878.0,Eric Varão,,2019-04-19,"Boa Vista, Roraima",Br,2.8000902,-60.744425,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3174,Poland,2019.0,38493601.0,Milo Mazurkiewicz,,2019-05-06,"Warsaw, Masovia",Pl,52.2250587,21.0455421,Suicide,Suicide,2019,375,257,2,1,1,47,41,,,12.5,0.0026
+3176,Brazil,2019.0,211782878.0,Ana Paula Portyllho,,2019-05-08,"Florianópolis, Santa Catarina",Br,-27.5973,-48.54961,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3177,France,2019.0,64399759.0,Maxence Miel,2001-06-24,2019-05-08,"Vannes, Morbihan",Fr,47.658677,-2.759908,Suicide,Suicide,2019,375,257,33,2,2,47,41,2001,18,12.5,0.00311
+3180,United Kingdom,2019.0,66778659.0,Alexandra Greenway,,2019-05-11,Bristol,Gb,51.455699,-2.595266,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5,0.00749
+3187,Brazil,2019.0,211782878.0,Lu,,2019-05-14,"Bernardino de Campos, São Paulo",Br,-23.014022,-49.476072,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3197,Chile,2019.0,19039485.0,José Matías De la Fuente Guevara,,2019-05-23,"Copiapó, Atacama",Cl,-27.36755,-70.33411,Suicide,Suicide,2019,375,257,35,6,1,47,41,,,12.5,0.00525
+3203,USA,2019.0,334319671.0,Titi Gulley,,2019-05-27,"Portland, Oregon",Us,45.5448503,-122.5637491,Suicide,Possible suicide,2019,375,257,609,44,7,47,6,,,12.5,0.00209
+3205,Peru,2019.0,32824860.0,Techi,,2019-05-29,Arequipa,Pe,-16.404093,-71.543837,Suicide,Possible suicide,2019,375,257,43,2,1,47,6,,,12.5,0.00305
+3215,USA,2019.0,334319671.0,Austin Smith,,2019-06-04,"Evansville, Indiana",Us,37.975708,-87.569907,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5,0.00209
+3217,Brazil,2019.0,211782878.0,Leandro Vicente,,2019-06-05,"Campinas, São Paulo",Br,-22.90556,-47.06083,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3229,USA,2019.0,334319671.0,Gabriella Rice,,2019-06-21,"Augusta, Maine",Us,44.3334266,-69.7657113,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5,0.00209
+3230,Russia,,,Rita,,2019-06-23,Moscow,Ru,55.86401,37.461729,Suicide,Suicide,2019,375,257,16,3,1,47,41,,,12.5,
+3231,United Kingdom,2019.0,66778659.0,Lauren Marie Waters,,2019-06-24,"Southampton, Hampshire",Gb,50.902535,-1.404189,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5,0.00749
+3240,Brazil,2019.0,211782878.0,Patricia Araújo,,2019-07-06,"Rio de Janeiro, Rio de Janeiro ",Br,-22.911014,-43.209373,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3241,France,2019.0,64399759.0,Romy,,2019-07-06,"Bordeaux, Gironde",Fr,44.8560352,-0.5515681,Suicide,Suicide,2019,375,257,33,2,2,47,41,,,12.5,0.00311
+3246,India,2019.0,1383112050.0,Gurpreet,,2019-07-13,"Mohali, Punjab",In,30.7290187,76.6896333,Suicide,Suicide,2019,375,257,107,12,2,47,41,,,12.5,0.00014
+3250,Brazil,2019.0,211782878.0,Samara Araújo,,2019-07-18,"Ipatinga, Minas Gerais",Br,-19.4967949,-42.5404587,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3254,United Kingdom,2019.0,66778659.0,Max Chesham,,2019-07-20,"Northwich, Cheshire",Gb,53.260254,-2.51451,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5,0.00749
+3255,Turkey,,,Didem Akay,,2019-07-22,Istanbul,Tr,41.017058,28.985568,Suicide,Suicide,2019,375,257,67,5,2,47,41,,,12.5,
+3262,Pakistan,2019.0,223293280.0,Name Unknown,,2019-07-29,"Swat District, Khyber Pakhtunkwa",Pk,34.06282,72.09875,Suicide,Suicide,2019,375,257,97,11,1,47,41,,,12.5,0.00045
+3274,Ecuador,2019.0,17343740.0,Cris García Aponte,,2019-08-09,"Huaquillas, El Oro",Ec,-3.49645,-80.20507,Suicide,Possible suicide,2019,375,257,61,10,1,47,6,,,12.5,0.00577
+3277,United Kingdom,2019.0,66778659.0,Cameron Haswell,,2019-08-11,"Blackwater, Hampshire",Gb,51.3279467,-0.8021843,Suicide,Suicide,2019,375,257,49,6,5,47,41,,,12.5,0.00749
+3294,Colombia,2019.0,50187406.0,Giselle Andrea Gutiérrez Valencia,,2019-08-31,"Engativá, Bogotá, Distrito Capital",Co,4.70826,-74.12717,Suicide,Possible suicide,2019,375,257,219,17,1,47,6,,,12.5,0.00199
+3299,USA,2019.0,334319671.0,Andrew Elijah Martinez,,2019-09-04,"Pomona, California",Us,34.055118,-117.750048,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5,0.00209
+3307,Portugal,2019.0,10289923.0,Lara Crespo,1971-06-16,2019-09-09,"Almada, Lisboa",Pt,38.680386,-9.155956,Suicide,Suicide,2019,375,257,5,1,1,47,41,1971,48,12.5,0.00972
+3336,USA,2019.0,334319671.0,Corbin Ray Bach,,2019-10-06,"Paducah, Kentucky",Us,37.07639,-88.633016,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5,0.00209
+3343,USA,2019.0,334319671.0,Daphne Dorman,,2019-10-11,"San Francisco, California",Us,37.7578149,-122.5078117,Suicide,Suicide,2019,375,257,609,44,7,47,41,,,12.5,0.00209
+3354,Brazil,2019.0,211782878.0,"Cauany Ayres (""""Cacau"""")",,2019-10-20,"Avaré, São Paulo",Br,-23.104522,-48.92591,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3361,Spain,2019.0,47131372.0,Edu,,2019-10-30,"Llíria, Valencia",Es,39.625829,-0.59611,Suicide,Suicide,2019,375,257,18,3,1,47,41,,,12.5,0.00212
+3394,Brazil,2019.0,211782878.0,Mylla Karvalho,,2019-12-08,"Porto, Piauí",Br,-3.888154,-42.69982,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3414,Brazil,2019.0,211782878.0,Guui Pereira,,2019-12-31,"São Paulo, São Paulo ",Br,-23.550651,-46.633382,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3415,Brazil,2019.0,211782878.0,Lukás Georgi,,2019-12-31,"João Pessoa, Paraíba",Br,-7.114784,-34.889798,Suicide,Suicide,2019,375,257,1818,139,20,47,41,,,12.5,0.00944
+3420,USA,2020.0,335942003.0,Emerald Kelliher,1988-09-25,2020-01-03,"Montgomery, Alabama",Us,32.376547,-86.299651,Suicide,Suicide,2020,463,257,609,66,8,52,45,1988,32,11.2,0.00238
+3422,USA,2020.0,335942003.0,Alex McCray,,2020-01-04,"St. Louis, Missouri",Us,38.630276,-90.200309,Suicide,Suicide,2020,463,257,609,66,8,52,45,,,11.2,0.00238
+3423,Brazil,2020.0,213196304.0,Murilo Gonçalves,,2020-01-04,"Pau dos Ferros, Rio Grande do Norte",Br,-6.14799,-38.19758,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3424,India,2020.0,1396387127.0,Palak Tiwari,,2020-01-04,"Indore, Madhya Pradesh",In,22.7104253,75.8214189,Suicide,Suicide,2020,463,257,107,15,2,52,45,,,11.2,0.00014
+3430,Spain,2020.0,47363807.0,Lucas,,2020-01-08,"Alcalá de Guadaira, Seville",Es,37.36028,-5.97684,Suicide,Suicide,2020,463,257,18,3,1,52,45,,,11.2,0.00211
+3439,Italy,2020.0,59500579.0,Eduarda Pinheiro,,2020-01-14,"Altopascio, Lucca",It,43.8241525,10.6719114,Suicide,Suicide,2020,463,257,71,7,2,52,45,,,11.2,0.00336
+3442,Brazil,2020.0,213196304.0,"Bruna Rosa (""""Bruna Barbie"""")",,2020-01-15,"Iporá, Goias",Br,-16.440798,-51.118119,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3452,Israel,2020.0,8757489.0,Maya Haddad,,2020-01-20,Tel Aviv,Il,32.080481,34.780527,Suicide,Suicide,2020,463,257,3,1,1,52,45,,,11.2,0.01142
+3460,Brazil,2020.0,213196304.0,Adriana Santana,,2020-02-01,"Restinga, São Paulo",Br,-20.605593,-47.483254,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3471,Brazil,2020.0,213196304.0,Karev,,2020-02-09,Rio de Janeiro,Br,-22.911014,-43.209373,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3481,United Kingdom,2020.0,67059474.0,"Rebecca Ann (""""Becca"""")",,2020-02-14,"Longniddry, East Lothian, Scotland",Gb,55.96889,-2.96211,Suicide,Suicide,2020,463,257,49,4,4,52,45,,,11.2,0.00596
+3486,Dominican Republic,2020.0,10999664.0,Cachita Soto Rufino,,2020-02-20,"Villa Vásquez, Monte Cristi",Do,19.7442288,-71.4442515,Suicide,Suicide,2020,463,257,29,3,1,52,45,,,11.2,0.00909
+3489,USA,2020.0,335942003.0,Camila María Concepción,,2020-02-21,"Los Angeles, California",Us,34.052238,-118.243344,Suicide,Suicide,2020,463,257,609,66,8,52,45,,,11.2,0.00238
+3527,Brazil,2020.0,213196304.0,Viviane Maximian,,2020-03-24,"Mirassol, São Paulo",Br,-20.814141,-49.507449,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3529,Turkey,,,E. Grosu,,2020-03-28,"Nazilli, Aydin",Tr,37.9035602,28.3207763,Suicide,Suicide,2020,463,257,67,5,3,52,45,,,11.2,
+3534,Brazil,2020.0,213196304.0,Raysla Ferreira,,2020-03-30,"Vitoria, Espirito Santo",Br,-20.299683,-40.301633,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3546,Brazil,2020.0,213196304.0,Letícia Pérez,,2020-04-08,"Fortaleza, Ceará",Br,-3.730451,-38.521799,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3562,USA,2020.0,335942003.0,Emily Nicole Brown,1994-05-26,2020-04-20,"Covington, Georgia",Us,33.59601,-83.86378,Suicide,Suicide,2020,463,257,609,66,8,52,45,1994,26,11.2,0.00238
+3585,India,2020.0,1396387127.0,Name Unknown,,2020-05-11,"Malvani, Mumbai, Maharashtra",In,19.1854553,72.8119117,Suicide,Suicide,2020,463,257,107,15,2,52,45,,,11.2,0.00014
+3587,Brazil,2020.0,213196304.0,Brenda Barreto Rodrigues Koge Etuwie,,2020-05-15,"Campo Grande, Mato Grosso do Sul",Br,-20.47053,-54.624352,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3590,Brazil,2020.0,213196304.0,Demétrio Campos,,2020-05-17,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3592,Argentina,2020.0,45036032.0,Pilar Albarracín,,2020-05-20,"Chivilcoy, Buenos Aires",Ar,-34.8857144,-60.0021225,Suicide,Suicide,2020,463,257,136,16,2,52,45,,,11.2,0.00444
+3619,Mexico,2020.0,125998302.0,Dr María Elizabeth Montaño,,2020-06-18,"Tres Marías, Morelos",Mx,19.055263,-99.24285,Suicide,Possible suicide,2020,463,257,629,63,2,52,7,,,11.2,0.00159
+3620,Turkey,,,Burcu,,2020-06-19,Konya,Tr,37.871996,32.484402,Suicide,Suicide,2020,463,257,67,5,3,52,45,,,11.2,
+3624,Brazil,2020.0,213196304.0,F. J. Brito,,2020-06-23,"Teresina, Piauí",Br,-5.0452188,-42.7477245,Suicide,Possible suicide,2020,463,257,1818,190,21,52,7,,,11.2,0.00985
+3631,Brazil,2020.0,213196304.0,Antonela Chelton,,2020-06-26,Rio de Janeiro,Br,-22.911014,-43.209373,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3633,Brazil,2020.0,213196304.0,Dr. Igor Lima Potêncio,1995-06-30,2020-06-28,"Palma, Tocantins",Br,-10.33825,-48.29391,Suicide,Suicide,2020,463,257,1818,190,21,52,45,1995,25,11.2,0.00985
+3650,United Kingdom,2020.0,67059474.0,Name Unknown,,2020-07-05,"Salford, Greater Manchester",Gb,53.487746,-2.289192,Suicide,Suicide,2020,463,257,49,4,4,52,45,,,11.2,0.00596
+3660,Argentina,2020.0,45036032.0,"Silvina Roldán (""""Sil"""")",,2020-07-13,Santiago del Estero,Ar,-27.8020138,-64.2920875,Suicide,Suicide,2020,463,257,136,16,2,52,45,,,11.2,0.00444
+3667,Colombia,2020.0,50930662.0,Gabriela,,2020-07-22,"Soledad, Atlántico",Co,10.914959,-74.782105,Suicide,Possible suicide,2020,463,257,219,23,1,52,7,,,11.2,0.00196
+3670,Brazil,2020.0,213196304.0,Rayven Marthiela,,2020-07-23,"São Borjas, Rio Grande do Sul",Br,-30.25274,-54.92671,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3687,Brazil,2020.0,213196304.0,Fernanda Soares,,2020-08-05,"Boa Esperança, Minas Gerais",Br,-21.605833,-43.756944,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3689,USA,2020.0,335942003.0,Janelle Ariana Briscoe,1997-05-04,2020-08-07,"Smiths, Alabama",Us,32.539404,-85.099866,Suicide,Suicide,2020,463,257,609,66,8,52,45,1997,23,11.2,0.00238
+3698,United Kingdom,2020.0,67059474.0,"Isabella Bellusci (""""Bella"""")",,2020-08-16,Manchester,Gb,53.479147,-2.244745,Suicide,Suicide,2020,463,257,49,4,4,52,45,,,11.2,0.00596
+3719,USA,2020.0,335942003.0,Shelley Lynn Rose,2003-10-28,2020-08-26,,Us,39.390897,-99.066067,Suicide,Suicide,2020,463,257,609,66,8,52,45,2003,17,11.2,0.00238
+3727,USA,2020.0,335942003.0,Rukia Isis Bemer,1998-06-26,2020-08-30,"Lakewood, Ohio",Us,41.48686,-81.7764511,Suicide,Suicide,2020,463,257,609,66,8,52,45,1998,22,11.2,0.00238
+3729,Australia,2020.0,25670051.0,Emily Core,,2020-08-31,"Brisbane, Queensland",Au,-27.468968,153.023499,Suicide,Suicide,2020,463,257,12,3,2,52,45,,,11.2,0.00779
+3742,Mexico,2020.0,125998302.0,Melanie,,2020-09-08,"Huajuapan de León, Oaxaca",Mx,17.8111205,-97.7774795,Suicide,Possible suicide,2020,463,257,629,63,2,52,7,,,11.2,0.00159
+3755,Turkey,,,Gökçe Umay,,2020-09-20,Istanbul,Tr,41.017058,28.985568,Suicide,Suicide,2020,463,257,67,5,3,52,45,,,11.2,
+3757,France,2020.0,64480053.0,Doona Jué,2000-11-10,2020-09-23,"Montpellier, Hérault",Fr,43.6047981,3.8785277,Suicide,Suicide,2020,463,257,33,3,2,52,45,2000,20,11.2,0.0031
+3764,Brazil,2020.0,213196304.0,Sucia Labasura Constantino Barbosa,,2020-09-29,"Campo Grande, Mato Grosso do Sul",Br,-20.4959912,-54.6980659,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3767,United Kingdom,2020.0,67059474.0,Ellis Murphy-Richards,,2020-09-30,"Sheerness, Kent",Gb,51.428334,0.7446078,Suicide,Possible suicide,2020,463,257,49,4,4,52,7,,,11.2,0.00596
+3787,Brazil,2020.0,213196304.0,"Yuri Arthur (""""Aquariano"""")",,2020-10-17,"Belo Horizonte, Brazil",Br,-19.91818,-43.93705,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3814,Brazil,2020.0,213196304.0,Benjamin Bonin,,2020-11-11,"Alvinopolis, Minas Gerais",Br,-20.110102,-43.056109,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3815,Brazil,2020.0,213196304.0,Rafaela Bacchi,,2020-11-11,"Ribeirão Preto, São Paulo",Br,-21.178333,-47.806667,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3826,Brazil,2020.0,213196304.0,Maria Clara de Oliveira,,2020-11-20,"Sorocaba, São Paulo",Br,-23.501667,-47.458056,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3836,Italy,2020.0,59500579.0,China Rivera,,2020-12-01,"Milan, Lombardy",It,45.5050235,9.2637653,Suicide,Possible suicide,2020,463,257,71,7,2,52,7,,,11.2,0.00336
+3851,Australia,2020.0,25670051.0,Bridget Flack,,2020-12-11,"Melbourne, Victoria",Au,-37.78835873,145.0505159,Suicide,Possible suicide,2020,463,257,12,3,2,52,7,,,11.2,0.00779
+3858,France,2020.0,64480053.0,Luna Avril Mabchour,2003-01-17,2020-12-15,"Lille, Nord",Fr,50.630509,3.070641,Suicide,Suicide,2020,463,257,33,3,2,52,45,2003,17,11.2,0.0031
+3860,Brazil,2020.0,213196304.0,Fonthoi Lima,,2020-12-16,"Indaiatuba, São Paulo",Br,-23.09028,-47.21806,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3863,Brazil,2020.0,213196304.0,Allex Noah,,2020-12-18,"Russas, Ceará",Br,-4.926727,-37.972086,Suicide,Suicide,2020,463,257,1818,190,21,52,45,,,11.2,0.00985
+3865,USA,2020.0,335942003.0,Myliah Monae Mullen,,2020-12-20,"Baltimore, Maryland",Us,39.290443,-76.612333,Suicide,Suicide,2020,463,257,609,66,8,52,45,,,11.2,0.00238
+3891,Mexico,2021.0,126705138.0,Daisy del Carmen,,2021-01-12,"Ciudad Victoria, Tamaulipas",Mx,23.7313195,-99.1494426,Suicide,Suicide,2021,445,257,629,51,1,46,46,,,10.3,0.00079
+3902,Brazil,2021.0,214326223.0,Luciana Sandreli Alves,,2021-01-17,"Colatina, Espirito Santo",Br,-19.54786,-40.62637,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3,0.0042
+3906,Brazil,2021.0,214326223.0,Name Unknown,,2021-01-23,Pernambuco,Br,-8.412748,-38.308792,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3,0.0042
+3925,France,2021.0,64531444.0,Nicolas,,2021-02-07,"Le Havre, Seine-Maritime",Fr,49.4957894,0.0611447,Suicide,Suicide,2021,445,257,33,10,7,46,46,,,10.3,0.01085
+3927,USA,2021.0,336997624.0,Alexander Blake VanDalsen,,2021-02-09,"Lafayette, Indiana",Us,40.3935819,-86.9070575,Suicide,Possible suicide,2021,445,257,609,78,8,46,3,,,10.3,0.00237
+3929,India,2021.0,1407563842.0,Sneha,,2021-02-09,"Kannur, Kerala",In,11.842895,75.4117186,Suicide,Suicide,2021,445,257,107,16,3,46,46,,,10.3,0.00021
+3941,Brazil,2021.0,214326223.0,Lucca Gomes Souto,,2021-02-17,"Naque, Minas Gerais",Br,-19.202654,-42.293403,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3,0.0042
+3955,Netherlands,2021.0,17501696.0,Xingshun Zhou,1997-02-10,2021-02-26,"Echt, Limburg",Nl,51.0995071,5.840764,Suicide,Suicide,2021,445,257,7,1,1,46,46,1997,24,10.3,0.00571
+3958,Argentina,2021.0,45276780.0,Nicolas,,2021-03-02,"Rio Grande, Tierra del Fuego",Ar,-53.7880929,-67.770198,Suicide,Suicide,2021,445,257,136,14,2,46,46,,,10.3,0.00442
+3959,South Korea,,,Byun Hee-soo,,2021-03-03,"Cheongju, North Chungcheong",Kr,36.6439,127.5012,Suicide,Suicide,2021,445,257,2,1,1,46,46,,,10.3,
+3966,Australia,2021.0,25921089.0,Name Unknown,,2021-03-04,"Perth, Western Australia",Au,-31.952712,115.86048,Suicide,Suicide,2021,445,257,12,1,1,46,46,,,10.3,0.00386
+3971,France,2021.0,64531444.0,Sté,,2021-03-09,"Rennes, Ille-et-Vilaine",Fr,48.111359,-1.680009,Suicide,Suicide,2021,445,257,33,10,7,46,46,,,10.3,0.01085
+3975,United Kingdom,2021.0,67281039.0,Milo Turner,,2021-03-10,"Plymouth, Devon",Gb,40.7657164,29.9259042,Suicide,Suicide,2021,445,257,49,5,4,46,46,,,10.3,0.00595
+3983,Brazil,2021.0,214326223.0,Luana Katrina,,2021-03-20,,Br,-32.557663,-53.389907,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3,0.0042
+3986,USA,2021.0,336997624.0,Piper Autumn Rivers (Tegan Toxik/Tegan Last),1994-02-12,2021-03-22,"Las Vegas, Nevada",Us,36.169202,-115.140597,Suicide,Suicide,2021,445,257,609,78,8,46,46,1994,27,10.3,0.00237
+3987,Brazil,2021.0,214326223.0,Name Unknown,,2021-03-22,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3,0.0042
+4049,USA,2021.0,336997624.0,"Danielle Boachie (""""Dani"""")/Mistress Velvet",,2021-05-08,"Chicago, Illinois",Us,41.8333925,-88.0121485,Suicide,Suicide,2021,445,257,609,78,8,46,46,,,10.3,0.00237
+4051,India,2021.0,1407563842.0,Aliya,,2021-05-09,"Jamshedpur, Jharkhand",In,22.801519,86.202958,Suicide,Suicide,2021,445,257,107,16,3,46,46,,,10.3,0.00021
+4064,Brazil,2021.0,214326223.0,Name Unknown,,2021-05-18,Rio Grande do Norte,Br,-5.678118,-36.478178,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3,0.0042
+4072,United Kingdom,2021.0,67281039.0,Sophie Gwen Williams,,2021-05-22,London,Gb,51.528308,-0.3817793,Suicide,Suicide,2021,445,257,49,5,4,46,46,,,10.3,0.00595
+4074,USA,2021.0,336997624.0,Haven A Bailey,1995-07-27,2021-05-24,"Villa Park, Illinois",Us,41.8879067,-88.0157129,Suicide,Suicide,2021,445,257,609,78,8,46,46,1995,26,10.3,0.00237
+4093,Sweden,2021.0,10467097.0,Samir Seif Bouabadali,1993-08-06,2021-06-02,Stockholm,Se,59.3260668,17.8419712,Suicide,Suicide,2021,445,257,4,1,1,46,46,1993,28,10.3,0.00955
+4094,Argentina,2021.0,45276780.0,Santiago Cancinos,,2021-06-03,"Vaqueros, Salta",Ar,-24.689345,-65.3936157,Suicide,Possible suicide,2021,445,257,136,14,2,46,3,,,10.3,0.00442
+4099,Italy,2021.0,59240329.0,Name Unknown,,2021-06-06,"Rome, Lazio",It,41.8922073,12.5166194,Suicide,Suicide,2021,445,257,71,4,1,46,46,,,10.3,0.00169
+4101,Myanmar,2021.0,53798084.0,Name Unknown,,2021-06-07,Yangon,Mm,16.80988,96.158713,Suicide,Suicide,2021,445,257,6,6,1,46,46,,,10.3,0.00186
+4110,United Kingdom,2021.0,67281039.0,Nila Gupta,,2021-06-12,London,Gb,51.528308,-0.3817793,Suicide,Suicide,2021,445,257,49,5,4,46,46,,,10.3,0.00595
+4117,El Salvador,2021.0,6314167.0,Josselin Alejandra Hernández,,2021-06-17,"San Francisco Menéndez, Ahuachapán",Sv,13.8415181,-90.0202164,Suicide,Suicide,2021,445,257,61,4,1,46,46,,,10.3,0.01584
+4133,Japan,2021.0,124612530.0,Near (Byuu),1983-02-21,2021-06-27,"Arakawa, Tokyo",Jp,35.7397999,139.7645413,Suicide,Suicide,2021,445,257,3,1,1,46,46,1983,38,10.3,0.0008
+4143,Brazil,2021.0,214326223.0,Maha Moretto,,2021-07-06,São Paulo,Br,-23.550651,-46.633382,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3,0.0042
+4152,Germany,2021.0,83408554.0,Amélia Ada Louise Chavot,,2021-07-10,Berlin,De,52.517037,13.38886,Suicide,Suicide,2021,445,257,6,2,2,46,46,,,10.3,0.0024
+4160,France,2021.0,64531444.0,Tristan Frémont,2002-02-02,2021-07-19,"Saint-Xandre, Charente-Maritime",Fr,46.2131255,-1.1273867,Suicide,Suicide,2021,445,257,33,10,7,46,46,2002,19,10.3,0.01085
+4162,India,2021.0,1407563842.0,Anannyah Kumari Alex,,2021-07-20,"Kochi, Kerala",In,9.9823426,76.1605078,Suicide,Suicide,2021,445,257,107,16,3,46,46,,,10.3,0.00021
+4175,Brazil,2021.0,214326223.0,Dr Patrícia Targino Dutra,,2021-08-02,"Natal, Rio Grande do Norte",Br,-5.805398,-35.208091,Suicide,Possible suicide,2021,445,257,1818,132,9,46,3,,,10.3,0.0042
+4207,United Kingdom,2021.0,67281039.0,Jane McQueen,,2021-08-24,Manchester,Gb,53.479147,-2.244745,Suicide,Suicide,2021,445,257,49,5,4,46,46,,,10.3,0.00595
+4217,France,2021.0,64531444.0,Jay Hoarau,2005-03-17,2021-09-03,"Saint-Denis, Réunion",Fr,-20.8965415,55.4350018,Suicide,Suicide,2021,445,257,33,10,7,46,46,2005,16,10.3,0.01085
+4224,Germany,2021.0,83408554.0,Ella Nik Bayan,,2021-09-14,Berlin,De,52.5226313,13.4073152,Suicide,Suicide,2021,445,257,6,2,2,46,46,,,10.3,0.0024
+4228,France,2021.0,64531444.0,Sasha,,2021-09-18,Paris,Fr,48.8588495,2.3119299,Suicide,Suicide,2021,445,257,33,10,7,46,46,,,10.3,0.01085
+4232,France,2021.0,64531444.0,Samuel Boutry,,2021-09-22,Tarn-et-Garonne,Fr,46.623974,2.462247,Suicide,Suicide,2021,445,257,33,10,7,46,46,,,10.3,0.01085
+4248,Brazil,2021.0,214326223.0,Karol Souza,,2021-10-08,"Rio Branco, Acre",Br,-9.9948112,-68.9834841,Suicide,Suicide,2021,445,257,1818,132,9,46,46,,,10.3,0.0042
+4251,Israel,2021.0,8900059.0,Zehava,,2021-10-10,Haifa,Il,32.8329376,34.9835629,Suicide,Suicide,2021,445,257,3,1,1,46,46,,,10.3,0.01124
+4256,USA,2021.0,336997624.0,Tayda Lebón,,2021-10-14,New York,Us,40.6451594,-74.0850817,Suicide,Suicide,2021,445,257,609,78,8,46,46,,,10.3,0.00237
+4266,France,2021.0,64531444.0,Tal Piterbraut-Merx,1992-08-23,2021-10-25,Paris,Fr,48.8588336,2.2769952,Suicide,Suicide,2021,445,257,33,10,7,46,46,1992,29,10.3,0.01085
+4267,USA,2021.0,336997624.0,"Joey Spencer (""""JoJo"""")",1991-01-20,2021-10-27,"Mount Airy, North Carolina",Us,36.5022418,-80.6773952,Suicide,Suicide,2021,445,257,609,78,8,46,46,1991,30,10.3,0.00237
+4280,USA,2021.0,336997624.0,Haley Gabriella Feldmann,2002-11-18,2021-11-12,"Beach, North Dakota",Us,46.9159866,-104.0251951,Suicide,Suicide,2021,445,257,609,78,8,46,46,2002,19,10.3,0.00237
+4290,Pakistan,2021.0,231402117.0,Name Unknown,,2021-11-26,"Mingora, Swat",Pk,34.328686,73.199313,Suicide,Suicide,2021,445,257,97,20,1,46,46,,,10.3,0.00043
+4321,USA,2021.0,336997624.0,Amelia Furniss Leonhart,,2021-12-30,Idaho Falls,Us,43.4926827,-112.1037471,Suicide,Suicide,2021,445,257,609,78,8,46,46,,,10.3,0.00237
+4334,United Kingdom,2022.0,67508936.0,Blair Envy,,2022-01-05,"Brighton, East Sussex",Gb,50.8374127,-0.1412091,Suicide,Suicide,2022,364,257,49,8,6,48,45,,,13.2,0.00889
+4338,Brazil,2022.0,215313498.0,Kauê Vestemberg,,2022-01-09,"Guarapuava, Paraná",Br,-25.2482625,-51.5542756,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4345,Brazil,2022.0,215313498.0,Gael Pandinho,,2022-01-16,"Macapá, Amapá",Br,0.1017722,-51.167072,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4347,United Kingdom,2022.0,67508936.0,Emma Boland,2006-06-13,2022-01-17,"Bampton, Oxfordshire",Gb,51.7260098,-1.5879024,Suicide,Suicide,2022,364,257,49,8,6,48,45,2006,16,13.2,0.00889
+4355,Brazil,2022.0,215313498.0,Babalu Vendraminy,,2022-01-25,"São Gonçalo, Rio de Janeiro",Br,-22.8216378,-43.0734924,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4362,Turkey,,,Zirve Soylu,,2022-02-01,Istanbul,Tr,41.0049823,28.7319944,Suicide,Suicide,2022,364,257,67,2,1,48,45,,,13.2,
+4367,Iran,,,Hanar,,2022-02-06,"Mariwan, Kurdistan",Ir,35.5168281,46.1608599,Suicide,Suicide,2022,364,257,1,1,1,48,45,,,13.2,
+4368,United Kingdom,2022.0,67508936.0,Name Unknown,,2022-02-06,"Milton Keynes, Buckinghamshire",Gb,52.038137,-0.7751537,Suicide,Suicide,2022,364,257,49,8,6,48,45,,,13.2,0.00889
+4371,Brazil,2022.0,215313498.0,Nicoly,,2022-02-08,"Varginha, Minas Gerais",Br,-21.5715403,-45.4702102,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4372,USA,2022.0,338289857.0,Destinee Lashaee,,2022-02-09,"Houston, Texas",Us,29.760803,-95.369506,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2,0.00296
+4374,United Kingdom,2022.0,67508936.0,Shay Patten Walker,1998-03-07,2022-02-09,London,Gb,51.5285578,-0.2420219,Suicide,Suicide,2022,364,257,49,8,6,48,45,1998,24,13.2,0.00889
+4376,United Kingdom,2022.0,67508936.0,Iggy Rose,,2022-02-10,"Cardiff, Wales",Gb,51.5022199,-3.2750897,Suicide,Possible suicide,2022,364,257,49,8,6,48,5,,,13.2,0.00889
+4403,France,2022.0,64626628.0,Adrien Baptiste Luckas,,2022-03-01,"Nice, Alpes-Maritimes",Fr,43.7031739,7.1827721,Suicide,Suicide,2022,364,257,33,7,5,48,45,,,13.2,0.00774
+4404,France,2022.0,64626628.0,Gwenn Agathe Linski,1994-08-02,2022-03-02,"Toulouse, Haute-Garonne",Fr,43.6006819,1.3628026,Suicide,Suicide,2022,364,257,33,7,5,48,45,1994,28,13.2,0.00774
+4407,USA,2022.0,338289857.0,Milo Winslow,,2022-03-03,"Lincoln, Nebraska",Us,40.8005877,-96.7609391,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2,0.00296
+4415,Brazil,2022.0,215313498.0,"Paulo Vaz (""""Popó Vaz"""")",,2022-03-14,São Paulo,Br,-23.6821604,-46.8754924,Suicide,Possible suicide,2022,364,257,1818,107,10,48,5,,,13.2,0.00464
+4422,Argentina,2022.0,45510318.0,"Celene Gabriela Colantinio (""""Nati"""")",,2022-03-21,"Mina Clavero, Córdoba",Ar,-31.7290303,-65.0200183,Suicide,Possible suicide,2022,364,257,136,11,1,48,5,,,13.2,0.0022
+4428,USA,2022.0,338289857.0,Quinn Mowrer Gustin,2002-01-13,2022-03-24,"Salt Lake City, Utah",Us,40.7765233,-112.0605692,Suicide,Suicide,2022,364,257,609,56,10,48,45,2002,20,13.2,0.00296
+4432,USA,2022.0,338289857.0,Kai Khan,2003-06-04,2022-03-27,"Great Bend, Kansas",Us,38.4037674,-98.7353353,Suicide,Suicide,2022,364,257,609,56,10,48,45,2003,19,13.2,0.00296
+4434,France,2022.0,64626628.0,"Mirza-Hélène Deneuve (""""Julles"""")",,2022-03-28,"Le Havre, Seine-Maritime",Fr,49.4957998,0.0611543,Suicide,Suicide,2022,364,257,33,7,5,48,45,,,13.2,0.00774
+4436,Brazil,2022.0,215313498.0,Marcela Gomes Fonseca,,2022-03-30,"Juína, Mato Grosso",Br,-11.4292145,-58.8034417,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4438,Canada,2022.0,38454327.0,Ezra Amos,,2022-03-31,"Hamilton, Ontario",Ca,43.665132,-79.4133967,Suicide,Possible suicide,2022,364,257,18,4,2,48,5,,,13.2,0.0052
+4447,Brazil,2022.0,215313498.0,Amani Frieden,,2022-04-05,"Aracaju, Sergipe",Br,-10.9586177,-37.0572057,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4453,Moldova,,,Felis Joy,,2022-04-11,Chișinău,Md,47.0522107,28.8621463,Suicide,Suicide,2022,364,257,1,1,1,48,45,,,13.2,
+4463,USA,2022.0,338289857.0,Kenna Leigh Gillock,,2022-04-17,"Gold Hill, Oregon",Us,42.4385582,-123.0655577,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2,0.00296
+4469,USA,2022.0,338289857.0,Asher Garcia,2008-04-03,2022-04-21,"Frazee, Minnesota",Us,46.7279197,-95.7105177,Suicide,Suicide,2022,364,257,609,56,10,48,45,2008,14,13.2,0.00296
+4476,India,2022.0,1417173173.0,Name Unknown,,2022-05-01,"Puri, Odisha",In,19.8048196,85.8157301,Suicide,Suicide,2022,364,257,107,9,2,48,45,,,13.2,0.00014
+4488,USA,2022.0,338289857.0,Ruby Taverner,,2022-05-09,"Independence Township, Michigan",Us,42.763599,-83.391098,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2,0.00296
+4493,France,2022.0,64626628.0,Name Unknown,,2022-05-13,"Le Mans, Sarthe",Fr,47.9818833,0.1256613,Suicide,Suicide,2022,364,257,33,7,5,48,45,,,13.2,0.00774
+4497,India,2022.0,1417173173.0,Sherin Celin Mathew,,2022-05-17,"Kochi, Kerala",In,9.9897354,76.3132072,Suicide,Suicide,2022,364,257,107,9,2,48,45,,,13.2,0.00014
+4501,USA,2022.0,338289857.0,Maddie Dickens,1993-09-11,2022-05-20,"Roseville, Minnesota",Us,45.0138176,-93.1920118,Suicide,Possible suicide,2022,364,257,609,56,10,48,5,1993,29,13.2,0.00296
+4505,Brazil,2022.0,215313498.0,Danna Nunes,,2022-05-25,"Bagé, Rio Grande do Sul",Br,-31.2433456,-54.6259411,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4506,United Kingdom,2022.0,67508936.0,Alice Litman,,2022-05-26,"Brighton, Sussex",Gb,50.8375054,-0.1762301,Suicide,Suicide,2022,364,257,49,8,6,48,45,,,13.2,0.00889
+4518,USA,2022.0,338289857.0,Rexy Que,1996-10-01,2022-06-03,"Wichita, Kansas",Us,37.6647979,-97.583725,Suicide,Suicide,2022,364,257,609,56,10,48,45,1996,26,13.2,0.00296
+4526,Italy,2022.0,59037474.0,Cloe Bianco,,2022-06-11,Belluno,It,46.1476932,12.1691511,Suicide,Suicide,2022,364,257,71,8,3,48,45,,,13.2,0.00508
+4528,Italy,2022.0,59037474.0,Sasha,,2022-06-11,"Catania, Sicily",It,37.4908267,15.0074777,Suicide,Suicide,2022,364,257,71,8,3,48,45,,,13.2,0.00508
+4563,Mexico,2022.0,127504125.0,Valis Ortíz,,2022-07-17,Cuidad de México,Mx,19.3910038,-99.2836989,Suicide,Suicide,2022,364,257,629,58,1,48,45,,,13.2,0.00078
+4568,Brazil,2022.0,215313498.0,Name Unknown,,2022-07-22,Rio de Janeiro,Br,-22.9005256,-43.1956281,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4587,Spain,2022.0,47558630.0,Monicalorenzi Lorenzi,,2022-08-14,"Barcelona, Catalonia",Es,41.3927755,2.0701491,Suicide,Suicide,2022,364,257,18,1,1,48,45,,,13.2,0.0021
+4605,Australia,2022.0,26177413.0,Ingram Gordon,,2022-09-05,"Ipswich, Queensland",Au,-27.6233577,152.7512225,Suicide,Suicide,2022,364,257,12,1,1,48,45,,,13.2,0.00382
+4606,Brazil,2022.0,215313498.0,Luise Fernandes Cazé,,2022-09-06,"São Luís, Maranhão",Br,-2.589425,-44.2087954,Suicide,Suicide,2022,364,257,1818,107,10,48,45,,,13.2,0.00464
+4611,Canada,2022.0,38454327.0,Alex Bastien,,2022-09-09,"Saint-Jérôme, Quebec",Ca,45.7964574,-74.1139161,Suicide,Suicide,2022,364,257,18,4,2,48,45,,,13.2,0.0052
+4613,France,2022.0,64626628.0,Bobby Melon,1998-02-15,2022-09-11,"Rennes, Ille-et-Vilaine",Fr,48.115913,-1.7586551,Suicide,Suicide,2022,364,257,33,7,5,48,45,1998,24,13.2,0.00774
+4619,El Salvador,2022.0,6336392.0,Chocolatito Anzora,,2022-09-24,"Conchagua, La Unión",Sv,13.3045204,-87.8704119,Suicide,Suicide,2022,364,257,61,2,1,48,45,,,13.2,0.01578
+4620,USA,2022.0,338289857.0,Serena Brenneman,,2022-09-24,"Salem, Oregon",Us,44.93297,-123.0982474,Suicide,Suicide,2022,364,257,609,56,10,48,45,,,13.2,0.00296
+4641,Colombia,2022.0,51874024.0,J. C. Gómez,,2022-10-16,"Cartago, Valle del Cauca",Co,4.7516185,-75.9201787,Suicide,Suicide,2022,364,257,219,25,1,48,45,,,13.2,0.00193
+4648,Italy,2022.0,59037474.0,Chiara Colombini,,2022-10-24,"Naples, Campania",It,40.84014,14.25226,Suicide,Suicide,2022,364,257,71,8,3,48,45,,,13.2,0.00508
+4650,Bolivia,,,Luciana Desiré Vaca,,2022-10-26,La Paz,Bo,16.49908,-68.13378,Suicide,Suicide,2022,364,257,16,2,1,48,45,,,13.2,

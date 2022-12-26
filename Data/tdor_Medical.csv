@@ -1,93 +1,93 @@
 ,Country,Year,Population,Name,Birthdate,Date,Location,Country_Code,Latitude,Longitude,Category,Cause_of_the_death,year,nb_victims_year,nb_victims_Category,nb_victims_country,nb_victims_country_year,nb_victims_category_country_year,nb_victims_Category_year,nb_victims_cause_year,year_birthdays,age,percentage_category,ratio
-1,USA,1999.0,279181581.0,Robert Eads,1945-12-18,1999-01-17,"Atlanta, Georgia",Us,33.748547,-84.391502,Medical,Cancer,1999,15,92,609,14,1,1,1,1945,54,6.7,0.0
-208,USA,2007.0,302743399.0,Maribelle Reyes,,2007-08-30,"Houston, Texas",Us,29.760803,-95.369506,Medical,Clinical neglect,2007,22,92,609,8,1,1,1,,,4.5,0.0
-231,Brazil,2008.0,192672317.0,Bianca Pereira Guedes,,2008-07-11,"Ipameri, Goiás",Br,-17.721544,-48.158118,Medical,Cosmetic filler complications,2008,53,92,1818,14,1,1,1,,,1.9,0.001
-292,Brazil,2009.0,194517549.0,Name Unknown,,2009-02-18,"Franca, São Paulo",Br,-20.5381097,-47.3992032,Medical,Cosmetic filler poisoning,2009,192,92,1818,56,1,1,1,,,0.5,0.001
-779,Malaysia,2011.0,29184133.0,Aleesha Farhana,,2011-07-30,Kuala Terengganu,My,5.323906,103.148485,Medical,Angina and cardiogenic shock,2011,231,92,16,2,1,1,1,,,0.4,0.003
-953,Brazil,2012.0,199977707.0,Júlia,,2012-04-04,"Goiânia, Goiás",Br,-16.7094166,-49.2576322,Medical,Cosmetic filler complications,2012,276,92,1818,128,1,1,1,,,0.4,0.001
-1284,Brazil,2013.0,201721767.0,Ellen Pereira Borges,,2013-07-09,"Ribeirão Preto, São Paulo",Br,-21.178333,-47.806667,Medical,Cosmetic filler complications,2013,260,92,1818,105,1,4,1,,,1.5,0.0
-1315,Colombia,2013.0,46237930.0,Alex Camel Valencia,,2013-08-09,"Manizales, Caldas",Co,5.0634692,-75.5126888,Medical,Cosmetic filler poisoning,2013,260,92,219,11,1,4,3,,,1.5,0.002
-1391,Chile,2013.0,17509925.0,Jhendelyn,,2013-11-27,"Santiago, Región Metropolitana",Cl,-33.4557152,-70.6454735,Medical,Cosmetic filler poisoning,2013,260,92,35,2,1,4,3,,,1.5,0.006
-1392,Peru,2013.0,30038809.0,Tyra Nicole Rengifo del Águila,,2013-11-30,"Surquillo, Lima",Pe,-12.121498,-77.025906,Medical,Cosmetic filler poisoning,2013,260,92,43,4,1,4,3,,,1.5,0.003
-1456,Colombia,2014.0,46677947.0,Jessica Gaviria,,2014-02-17,Antioquia,Co,7.000009,-75.500009,Medical,Cosmetic filler poisoning,2014,259,92,219,8,1,3,3,,,1.2,0.002
-1488,Argentina,2014.0,42824054.0,"Cecilia Báez Barboza (""""Caramelito"""")",,2014-03-22,"Bahía Blanca, Buenos Aires",Ar,-38.7210746,-62.3265839,Medical,Cosmetic filler poisoning,2014,259,92,136,11,1,3,3,,,1.2,0.002
-1613,Chile,2014.0,17687108.0,Darinka Ivonnet,,2014-10-27,Iquique,Cl,-20.213962,-70.152472,Medical,Cosmetic filler poisoning,2014,259,92,35,2,1,3,3,,,1.2,0.006
-1689,USA,2015.0,324607776.0,Katya De La Riva,,2015-01-21,"Irvine, California",Us,33.685908,-117.824719,Medical,Cosmetic fillter poisoning,2015,261,92,609,26,1,1,1,,,0.4,0.0
-2254,Argentina,2017.0,44054616.0,Pamela Macedo Panduro,,2017-01-01,"Le Plata, Buenos Aires",Ar,-34.88135,-57.95802,Medical,Died in custody,2017,396,92,136,10,1,9,5,,,2.3,0.002
-2264,USA,2017.0,329791231.0,Symone Marie Jones,,2017-01-12,"Fayetteville, North Carolina",Us,35.054417,-78.883659,Medical,Cosmetic filler poisoning,2017,396,92,609,36,2,9,4,,,2.3,0.001
-2282,USA,2017.0,329791231.0,"Yescia Bloom (""""La Sirena Real"""")",,2017-01-30,"Miami, Florida",Us,25.775084,-80.194702,Medical,Cosmetic filler poisoning,2017,396,92,609,36,2,9,4,,,2.3,0.001
-2286,Brazil,2017.0,208504960.0,Gabriele Almeida,,2017-02-08,"Montes Claros, Minas Gerais",Br,-16.727354,-43.871768,Medical,Cosmetic filler complications,2017,396,92,1818,199,4,9,1,,,2.3,0.002
-2345,Brazil,2017.0,208504960.0,Sayra Hills,,2017-04-03,São Paulo,Br,-23.550651,-46.633382,Medical,Cosmetic filler poisoning,2017,396,92,1818,199,4,9,4,,,2.3,0.002
-2569,Thailand,2017.0,70898202.0,Jiratchaya Kampoon,,2017-10-29,"Pattaya, Chonburi",Th,12.931859,100.900691,Medical,Clinical neglect,2017,396,92,19,5,1,9,3,,,2.3,0.001
-2589,Brazil,2017.0,208504960.0,Carlos Brandão,,2017-11-13,Rio de Janeiro,Br,-22.911014,-43.209373,Medical,Clinical neglect,2017,396,92,1818,199,4,9,3,,,2.3,0.002
-2604,Brazil,2017.0,208504960.0,Name Unknown,,2017-11-27,"Cristinápolis, Sergipe",Br,-11.475512,-37.756026,Medical,Cosmetic filler poisoning,2017,396,92,1818,199,4,9,4,,,2.3,0.002
-2641,Colombia,2017.0,48351671.0,Erika Alexandra Londoño Noreña,,2017-12-27,"Bogotá, Distrito Capital",Co,4.598048,-74.076087,Medical,Clinical neglect,2017,396,92,219,19,1,9,3,,,2.3,0.002
-2788,Colombia,2018.0,49276961.0,Taliana Rodríguez Rómulo,,2018-04-25,"Suba, Bogotá, Distrito Capital",Co,4.7003,-74.07783,Medical,Cosmetic filler poisoning,2018,392,92,219,17,2,6,5,,,1.5,0.004
-2825,Brazil,2018.0,210166592.0,Adrielly Oliveira,,2018-06-02,São Paulo,Br,-23.550651,-46.633382,Medical,Cosmetic filler poisoning,2018,392,92,1818,177,3,6,5,,,1.5,0.001
-2837,Brazil,2018.0,210166592.0,Robertha Sousa,,2018-06-17,"Campo Grande, Rio de Janeiro",Br,-22.90267,-43.56343,Medical,Cosmetic filler poisoning,2018,392,92,1818,177,3,6,5,,,1.5,0.001
-2841,Argentina,2018.0,44413596.0,Daniela Gutiérrez,,2018-06-19,Santiago del Estero,Ar,-31.14101,-64.28503,Medical,Clinical neglect,2018,392,92,136,13,1,6,1,,,1.5,0.002
-2937,Brazil,2018.0,210166592.0,Natasha Cardoso Leite,,2018-09-08,"Aparecida de Goiânia, Goiás",Br,-16.822674,-49.245255,Medical,Cosmetic filler poisoning,2018,392,92,1818,177,3,6,5,,,1.5,0.001
-2962,Colombia,2018.0,49276961.0,M. García,,2018-10-03,"Villavicencio, Meta",Co,4.131511,-73.620667,Medical,Cosmetic filler poisoning,2018,392,92,219,17,2,6,5,,,1.5,0.004
-3163,Brazil,2019.0,211782878.0,Name Unknown,,2019-04-21,"Juazeiro do Norte, Ceará",Br,-7.217004,-39.317639,Medical,Cosmetic filler poisoning,2019,375,92,1818,139,2,5,5,,,1.3,0.001
+1,USA,1999.0,279181581.0,Robert Eads,1945-12-18,1999-01-17,"Atlanta, Georgia",Us,33.748547,-84.391502,Medical,Cancer,1999,15,92,609,14,1,1,1,1945,54,6.7,0.00036
+208,USA,2007.0,302743399.0,Maribelle Reyes,,2007-08-30,"Houston, Texas",Us,29.760803,-95.369506,Medical,Clinical neglect,2007,22,92,609,8,1,1,1,,,4.5,0.00033
+231,Brazil,2008.0,192672317.0,Bianca Pereira Guedes,,2008-07-11,"Ipameri, Goiás",Br,-17.721544,-48.158118,Medical,Cosmetic filler complications,2008,53,92,1818,14,1,1,1,,,1.9,0.00052
+292,Brazil,2009.0,194517549.0,Name Unknown,,2009-02-18,"Franca, São Paulo",Br,-20.5381097,-47.3992032,Medical,Cosmetic filler poisoning,2009,192,92,1818,56,1,1,1,,,0.5,0.00051
+779,Malaysia,2011.0,29184133.0,Aleesha Farhana,,2011-07-30,Kuala Terengganu,My,5.323906,103.148485,Medical,Angina and cardiogenic shock,2011,231,92,16,2,1,1,1,,,0.4,0.00343
+953,Brazil,2012.0,199977707.0,Júlia,,2012-04-04,"Goiânia, Goiás",Br,-16.7094166,-49.2576322,Medical,Cosmetic filler complications,2012,276,92,1818,128,1,1,1,,,0.4,0.0005
+1284,Brazil,2013.0,201721767.0,Ellen Pereira Borges,,2013-07-09,"Ribeirão Preto, São Paulo",Br,-21.178333,-47.806667,Medical,Cosmetic filler complications,2013,260,92,1818,105,1,4,1,,,1.5,0.0005
+1315,Colombia,2013.0,46237930.0,Alex Camel Valencia,,2013-08-09,"Manizales, Caldas",Co,5.0634692,-75.5126888,Medical,Cosmetic filler poisoning,2013,260,92,219,11,1,4,3,,,1.5,0.00216
+1391,Chile,2013.0,17509925.0,Jhendelyn,,2013-11-27,"Santiago, Región Metropolitana",Cl,-33.4557152,-70.6454735,Medical,Cosmetic filler poisoning,2013,260,92,35,2,1,4,3,,,1.5,0.00571
+1392,Peru,2013.0,30038809.0,Tyra Nicole Rengifo del Águila,,2013-11-30,"Surquillo, Lima",Pe,-12.121498,-77.025906,Medical,Cosmetic filler poisoning,2013,260,92,43,4,1,4,3,,,1.5,0.00333
+1456,Colombia,2014.0,46677947.0,Jessica Gaviria,,2014-02-17,Antioquia,Co,7.000009,-75.500009,Medical,Cosmetic filler poisoning,2014,259,92,219,8,1,3,3,,,1.2,0.00214
+1488,Argentina,2014.0,42824054.0,"Cecilia Báez Barboza (""""Caramelito"""")",,2014-03-22,"Bahía Blanca, Buenos Aires",Ar,-38.7210746,-62.3265839,Medical,Cosmetic filler poisoning,2014,259,92,136,11,1,3,3,,,1.2,0.00234
+1613,Chile,2014.0,17687108.0,Darinka Ivonnet,,2014-10-27,Iquique,Cl,-20.213962,-70.152472,Medical,Cosmetic filler poisoning,2014,259,92,35,2,1,3,3,,,1.2,0.00565
+1689,USA,2015.0,324607776.0,Katya De La Riva,,2015-01-21,"Irvine, California",Us,33.685908,-117.824719,Medical,Cosmetic fillter poisoning,2015,261,92,609,26,1,1,1,,,0.4,0.00031
+2254,Argentina,2017.0,44054616.0,Pamela Macedo Panduro,,2017-01-01,"Le Plata, Buenos Aires",Ar,-34.88135,-57.95802,Medical,Died in custody,2017,396,92,136,10,1,9,5,,,2.3,0.00227
+2264,USA,2017.0,329791231.0,Symone Marie Jones,,2017-01-12,"Fayetteville, North Carolina",Us,35.054417,-78.883659,Medical,Cosmetic filler poisoning,2017,396,92,609,36,2,9,4,,,2.3,0.00061
+2282,USA,2017.0,329791231.0,"Yescia Bloom (""""La Sirena Real"""")",,2017-01-30,"Miami, Florida",Us,25.775084,-80.194702,Medical,Cosmetic filler poisoning,2017,396,92,609,36,2,9,4,,,2.3,0.00061
+2286,Brazil,2017.0,208504960.0,Gabriele Almeida,,2017-02-08,"Montes Claros, Minas Gerais",Br,-16.727354,-43.871768,Medical,Cosmetic filler complications,2017,396,92,1818,199,4,9,1,,,2.3,0.00192
+2345,Brazil,2017.0,208504960.0,Sayra Hills,,2017-04-03,São Paulo,Br,-23.550651,-46.633382,Medical,Cosmetic filler poisoning,2017,396,92,1818,199,4,9,4,,,2.3,0.00192
+2569,Thailand,2017.0,70898202.0,Jiratchaya Kampoon,,2017-10-29,"Pattaya, Chonburi",Th,12.931859,100.900691,Medical,Clinical neglect,2017,396,92,19,5,1,9,3,,,2.3,0.00141
+2589,Brazil,2017.0,208504960.0,Carlos Brandão,,2017-11-13,Rio de Janeiro,Br,-22.911014,-43.209373,Medical,Clinical neglect,2017,396,92,1818,199,4,9,3,,,2.3,0.00192
+2604,Brazil,2017.0,208504960.0,Name Unknown,,2017-11-27,"Cristinápolis, Sergipe",Br,-11.475512,-37.756026,Medical,Cosmetic filler poisoning,2017,396,92,1818,199,4,9,4,,,2.3,0.00192
+2641,Colombia,2017.0,48351671.0,Erika Alexandra Londoño Noreña,,2017-12-27,"Bogotá, Distrito Capital",Co,4.598048,-74.076087,Medical,Clinical neglect,2017,396,92,219,19,1,9,3,,,2.3,0.00207
+2788,Colombia,2018.0,49276961.0,Taliana Rodríguez Rómulo,,2018-04-25,"Suba, Bogotá, Distrito Capital",Co,4.7003,-74.07783,Medical,Cosmetic filler poisoning,2018,392,92,219,17,2,6,5,,,1.5,0.00406
+2825,Brazil,2018.0,210166592.0,Adrielly Oliveira,,2018-06-02,São Paulo,Br,-23.550651,-46.633382,Medical,Cosmetic filler poisoning,2018,392,92,1818,177,3,6,5,,,1.5,0.00143
+2837,Brazil,2018.0,210166592.0,Robertha Sousa,,2018-06-17,"Campo Grande, Rio de Janeiro",Br,-22.90267,-43.56343,Medical,Cosmetic filler poisoning,2018,392,92,1818,177,3,6,5,,,1.5,0.00143
+2841,Argentina,2018.0,44413596.0,Daniela Gutiérrez,,2018-06-19,Santiago del Estero,Ar,-31.14101,-64.28503,Medical,Clinical neglect,2018,392,92,136,13,1,6,1,,,1.5,0.00225
+2937,Brazil,2018.0,210166592.0,Natasha Cardoso Leite,,2018-09-08,"Aparecida de Goiânia, Goiás",Br,-16.822674,-49.245255,Medical,Cosmetic filler poisoning,2018,392,92,1818,177,3,6,5,,,1.5,0.00143
+2962,Colombia,2018.0,49276961.0,M. García,,2018-10-03,"Villavicencio, Meta",Co,4.131511,-73.620667,Medical,Cosmetic filler poisoning,2018,392,92,219,17,2,6,5,,,1.5,0.00406
+3163,Brazil,2019.0,211782878.0,Name Unknown,,2019-04-21,"Juazeiro do Norte, Ceará",Br,-7.217004,-39.317639,Medical,Cosmetic filler poisoning,2019,375,92,1818,139,2,5,5,,,1.3,0.00094
 3261,Venezuela,,,Sasha María Rivas Martínez,,2019-07-28,"Caracas, Distrito Capital",Ve,10.5162169,-66.9135789,Medical,Cosmetic filler poisoning,2019,375,92,119,4,1,5,5,,,1.3,
-3352,Ecuador,2019.0,17343740.0,Antonella Espinoza Mendoza,,2019-10-17,"Guayaquil, Guayas",Ec,-2.24005,-79.90224,Medical,Cosmetic filler poisoning,2019,375,92,61,10,1,5,5,,,1.3,0.006
-3388,Colombia,2019.0,50187406.0,"Catalina Rodríguez (""""Cata"""")",,2019-12-02,"Bogotá, Distrito Capital",Co,4.5029527,-74.1304803,Medical,Cosmetic filler poisoning,2019,375,92,219,17,1,5,5,,,1.3,0.002
-3398,Brazil,2019.0,211782878.0,Nicolle Muniz Ferreira Souza,,2019-12-13,"Marilia, São Paulo",Br,-22.2270257,-49.93794,Medical,Cosmetic filler poisoning,2019,375,92,1818,139,2,5,5,,,1.3,0.001
-3459,Dominican Republic,2020.0,10999664.0,Wilianny Rosenvert,1994-01-30,2020-01-30,"San Francisco de Macrorís, Duarte",Do,19.32528,-70.27519,Medical,Medical complications,2020,463,92,29,3,1,24,1,1994,26,5.2,0.009
-3464,Brazil,2020.0,213196304.0,Maisa Andrade,,2020-02-05,"João Pessoa, Paraíba",Br,-7.1166099,-34.845583,Medical,Cosmetic filler poisoning,2020,463,92,1818,190,9,24,3,,,5.2,0.004
-3525,USA,2020.0,335942003.0,Oliver Sasser,1998-03-30,2020-03-23,"Louisville, Georgia",Us,32.9978567,-82.4159209,Medical,Not reported,2020,463,92,609,66,5,24,21,1998,22,5.2,0.001
-3533,USA,2020.0,335942003.0,Lorena Borjas,,2020-03-30,"Queens, New York",Us,40.759776,-73.817302,Medical,Covid-19,2020,463,92,609,66,5,24,12,,,5.2,0.001
-3539,USA,2020.0,335942003.0,Henrietta Robinson,,2020-04-03,"Miami, Florida",Us,25.80811,-80.13656,Medical,Covid-19,2020,463,92,609,66,5,24,12,,,5.2,0.001
-3545,Brazil,2020.0,213196304.0,Marcela Bittonti,,2020-04-07,São Paulo,Br,-23.550651,-46.633382,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.004
-3549,Colombia,2020.0,50930662.0,Name Unknown,,2020-04-08,"Medellín, Antioquia",Co,6.244338,-75.573553,Medical,Cosmetic filler poisoning,2020,463,92,219,23,3,24,3,,,5.2,0.006
-3582,India,2020.0,1396387127.0,Name Unknown,,2020-05-10,"Bhopal, Madhya Pradesh ",In,23.260663,77.39406,Medical,Covid-19,2020,463,92,107,15,1,24,12,,,5.2,0.0
-3591,Brazil,2020.0,213196304.0,Aghatha Lima (Maria Aghata Jeremias de Souza Lima),,2020-05-17,"Ribeirão Preto, São Paulo",Br,-21.178333,-47.806667,Medical,Cosmetic filler complications,2020,463,92,1818,190,9,24,3,,,5.2,0.004
+3352,Ecuador,2019.0,17343740.0,Antonella Espinoza Mendoza,,2019-10-17,"Guayaquil, Guayas",Ec,-2.24005,-79.90224,Medical,Cosmetic filler poisoning,2019,375,92,61,10,1,5,5,,,1.3,0.00577
+3388,Colombia,2019.0,50187406.0,"Catalina Rodríguez (""""Cata"""")",,2019-12-02,"Bogotá, Distrito Capital",Co,4.5029527,-74.1304803,Medical,Cosmetic filler poisoning,2019,375,92,219,17,1,5,5,,,1.3,0.00199
+3398,Brazil,2019.0,211782878.0,Nicolle Muniz Ferreira Souza,,2019-12-13,"Marilia, São Paulo",Br,-22.2270257,-49.93794,Medical,Cosmetic filler poisoning,2019,375,92,1818,139,2,5,5,,,1.3,0.00094
+3459,Dominican Republic,2020.0,10999664.0,Wilianny Rosenvert,1994-01-30,2020-01-30,"San Francisco de Macrorís, Duarte",Do,19.32528,-70.27519,Medical,Medical complications,2020,463,92,29,3,1,24,1,1994,26,5.2,0.00909
+3464,Brazil,2020.0,213196304.0,Maisa Andrade,,2020-02-05,"João Pessoa, Paraíba",Br,-7.1166099,-34.845583,Medical,Cosmetic filler poisoning,2020,463,92,1818,190,9,24,3,,,5.2,0.00422
+3525,USA,2020.0,335942003.0,Oliver Sasser,1998-03-30,2020-03-23,"Louisville, Georgia",Us,32.9978567,-82.4159209,Medical,Not reported,2020,463,92,609,66,5,24,21,1998,22,5.2,0.00149
+3533,USA,2020.0,335942003.0,Lorena Borjas,,2020-03-30,"Queens, New York",Us,40.759776,-73.817302,Medical,Covid-19,2020,463,92,609,66,5,24,12,,,5.2,0.00149
+3539,USA,2020.0,335942003.0,Henrietta Robinson,,2020-04-03,"Miami, Florida",Us,25.80811,-80.13656,Medical,Covid-19,2020,463,92,609,66,5,24,12,,,5.2,0.00149
+3545,Brazil,2020.0,213196304.0,Marcela Bittonti,,2020-04-07,São Paulo,Br,-23.550651,-46.633382,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.00422
+3549,Colombia,2020.0,50930662.0,Name Unknown,,2020-04-08,"Medellín, Antioquia",Co,6.244338,-75.573553,Medical,Cosmetic filler poisoning,2020,463,92,219,23,3,24,3,,,5.2,0.00589
+3582,India,2020.0,1396387127.0,Name Unknown,,2020-05-10,"Bhopal, Madhya Pradesh ",In,23.260663,77.39406,Medical,Covid-19,2020,463,92,107,15,1,24,12,,,5.2,7e-05
+3591,Brazil,2020.0,213196304.0,Aghatha Lima (Maria Aghata Jeremias de Souza Lima),,2020-05-17,"Ribeirão Preto, São Paulo",Br,-21.178333,-47.806667,Medical,Cosmetic filler complications,2020,463,92,1818,190,9,24,3,,,5.2,0.00422
 3597,Russia,,,Yenifer León,,2020-05-27,Moscow,Ru,55.751634,37.618704,Medical,Covid-19,2020,463,92,16,4,1,24,12,,,5.2,
-3598,Brazil,2020.0,213196304.0,Cristiane Sousa,,2020-05-28,São Paulo,Br,-23.550651,-46.633382,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.004
-3600,Colombia,2020.0,50930662.0,Alejandra Ortega (Alejandra Monocuco),,2020-05-29,"Santa Fe, Bogotá, Distrito Capital",Co,4.61658,-74.07754,Medical,Covid-19 and clinical neglect,2020,463,92,219,23,3,24,1,,,5.2,0.006
+3598,Brazil,2020.0,213196304.0,Cristiane Sousa,,2020-05-28,São Paulo,Br,-23.550651,-46.633382,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.00422
+3600,Colombia,2020.0,50930662.0,Alejandra Ortega (Alejandra Monocuco),,2020-05-29,"Santa Fe, Bogotá, Distrito Capital",Co,4.61658,-74.07754,Medical,Covid-19 and clinical neglect,2020,463,92,219,23,3,24,1,,,5.2,0.00589
 3601,Bolivia,,,Fernanda Antelo,,2020-05-31,Santa Cruz de la Sierra,Bo,-17.78369,-63.182104,Medical,Clinical neglect,2020,463,92,16,2,1,24,3,,,5.2,
-3623,Brazil,2020.0,213196304.0,Amanda Marfree,,2020-06-23,São Paulo,Br,-23.550651,-46.633382,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.004
-3634,Brazil,2020.0,213196304.0,Thina Rodrigues,,2020-06-29,"Fortaleza, Ceará",Br,-3.7339074,-38.5372848,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.004
-3649,Colombia,2020.0,50930662.0,Hillary Mendoza Pérez,,2020-07-05,"Ibagué, Tolima",Co,4.4449723,-75.2225837,Medical,Cosmetic filler poisoning,2020,463,92,219,23,3,24,3,,,5.2,0.006
-3651,USA,2020.0,335942003.0,Angela Martinez Gómez,,2020-07-06,"Santa Monica, California",Us,34.010932,-118.491512,Medical,Covid-19,2020,463,92,609,66,5,24,12,,,5.2,0.001
-3662,Brazil,2020.0,213196304.0,Vitoria Maia,,2020-07-14,"Brasília, Distrito Federal",Br,-15.7934,-47.882293,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.004
-3694,Argentina,2020.0,45036032.0,Rocío Ailén Samaniego,,2020-08-11,"Garupá, Misiones",Ar,-26.81932,-55.01815,Medical,Clinical neglect,2020,463,92,136,16,2,24,3,,,5.2,0.004
-3730,Brazil,2020.0,213196304.0,Mélani Aguiar,,2020-08-31,"Santa Cruz do Sul, Rio Grande do Sul",Br,-29.717352,-52.431562,Medical,Cosmetic filler complications,2020,463,92,1818,190,9,24,3,,,5.2,0.004
-3750,USA,2020.0,335942003.0,Gia Valentina Romualdo Rodríguez,,2020-09-15,"Miami, Florida",Us,25.7309962,-80.3882421,Medical,Cosmetic filler complications,2020,463,92,609,66,5,24,3,,,5.2,0.001
-3756,Argentina,2020.0,45036032.0,Brenda Sanchez,,2020-09-23,"La Plata, Buenos Aires",Ar,-34.9205233,-57.9881898,Medical,Clinical neglect,2020,463,92,136,16,2,24,3,,,5.2,0.004
-3823,Belgium,2020.0,11561717.0,Maya Borg,1990-09-24,2020-11-18,"Tournai, Hainaut",Be,50.6205239,3.3402694,Medical,Hypothermia,2020,463,92,1,1,1,24,1,1990,30,5.2,0.009
-3831,Brazil,2020.0,213196304.0,Camille Rocha,,2020-11-29,"Patos de Minas, Minas Gerais",Br,-18.60892961,-46.50823704,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.004
-3909,USA,2021.0,336997624.0,"Sandie Crisp (""""Goddess Bunny"""")",1960-01-13,2021-01-27,"Los Angeles, California",Us,34.052238,-118.243344,Medical,Covid-19,2021,445,92,609,78,2,26,15,1960,61,5.8,0.001
-3910,Brazil,2021.0,214326223.0,Ygona Moura,,2021-01-27,São Paulo,Br,-23.550651,-46.633382,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.005
-3911,Chile,2021.0,19493184.0,"Valentina Vera López (""""Kim"""")",,2021-01-27,"Puerto Montt, Los Lagos",Cl,-41.47774,-72.97817,Medical,Pulmonary embolism,2021,445,92,35,3,2,26,2,,,5.8,0.01
-3920,Brazil,2021.0,214326223.0,"Úrsula A. S. (""""Maravilhosa"""")",,2021-02-04,"Porto Velho, Rondônia",Br,-8.7841511,-63.8587697,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.005
-3921,Brazil,2021.0,214326223.0,Giselle Sakai,,2021-02-05,"João Pessoa, Paraíba",Br,-7.1037935,-34.8348469,Medical,Pulmonary embolism,2021,445,92,1818,132,11,26,2,,,5.8,0.005
-3948,Brazil,2021.0,214326223.0,Lorena Muniz,,2021-02-21,São Paulo,Br,-23.5535043,-46.6366639,Medical,Clinical neglect,2021,445,92,1818,132,11,26,3,,,5.8,0.005
-3965,Colombia,2021.0,51516562.0,Natali Sofía Martínez Grabados,,2021-03-04,"Bogotá, Distrito Capital",Co,4.58003,-74.02034,Medical,Cosmetic surgery complications,2021,445,92,219,32,2,26,1,,,5.8,0.004
-4016,Brazil,2021.0,214326223.0,"Larissa Dieckmann (""""Lara"""")",,2021-04-13,"Niterói, Rio de Janeiro",Br,-22.883237,-43.115455,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.005
-4020,Peru,2021.0,33715471.0,Luisa Revilla Urcia,1971-10-12,2021-04-15,"Trujillo, La Libertad",Pe,-8.1062344,-79.0369581,Medical,Covid-19,2021,445,92,43,5,2,26,15,1971,50,5.8,0.006
-4025,Brazil,2021.0,214326223.0,Juliana Santos,,2021-04-19,"Porto Vehlo, Rondônia",Br,-8.7550767,-63.830941,Medical,Cosmetic filler complications,2021,445,92,1818,132,11,26,5,,,5.8,0.005
-4035,Colombia,2021.0,51516562.0,Silvana Gómez Galeano,,2021-04-25,"Neiva, Huila",Co,2.9376189,-75.3074082,Medical,Cosmetic filler complications,2021,445,92,219,32,2,26,5,,,5.8,0.004
-4057,Peru,2021.0,33715471.0,S. Saira Mamani,,2021-05-13,Arequipa,Pe,-16.4024407,-71.5300704,Medical,Cosmetic filler complications,2021,445,92,43,5,2,26,5,,,5.8,0.006
-4058,Brazil,2021.0,214326223.0,"Rany Merces (""""Nynha"""")",,2021-05-13,"Belo Horizonte, Minas Gerais",Br,-19.9026615,-44.1041374,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.005
+3623,Brazil,2020.0,213196304.0,Amanda Marfree,,2020-06-23,São Paulo,Br,-23.550651,-46.633382,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.00422
+3634,Brazil,2020.0,213196304.0,Thina Rodrigues,,2020-06-29,"Fortaleza, Ceará",Br,-3.7339074,-38.5372848,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.00422
+3649,Colombia,2020.0,50930662.0,Hillary Mendoza Pérez,,2020-07-05,"Ibagué, Tolima",Co,4.4449723,-75.2225837,Medical,Cosmetic filler poisoning,2020,463,92,219,23,3,24,3,,,5.2,0.00589
+3651,USA,2020.0,335942003.0,Angela Martinez Gómez,,2020-07-06,"Santa Monica, California",Us,34.010932,-118.491512,Medical,Covid-19,2020,463,92,609,66,5,24,12,,,5.2,0.00149
+3662,Brazil,2020.0,213196304.0,Vitoria Maia,,2020-07-14,"Brasília, Distrito Federal",Br,-15.7934,-47.882293,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.00422
+3694,Argentina,2020.0,45036032.0,Rocío Ailén Samaniego,,2020-08-11,"Garupá, Misiones",Ar,-26.81932,-55.01815,Medical,Clinical neglect,2020,463,92,136,16,2,24,3,,,5.2,0.00444
+3730,Brazil,2020.0,213196304.0,Mélani Aguiar,,2020-08-31,"Santa Cruz do Sul, Rio Grande do Sul",Br,-29.717352,-52.431562,Medical,Cosmetic filler complications,2020,463,92,1818,190,9,24,3,,,5.2,0.00422
+3750,USA,2020.0,335942003.0,Gia Valentina Romualdo Rodríguez,,2020-09-15,"Miami, Florida",Us,25.7309962,-80.3882421,Medical,Cosmetic filler complications,2020,463,92,609,66,5,24,3,,,5.2,0.00149
+3756,Argentina,2020.0,45036032.0,Brenda Sanchez,,2020-09-23,"La Plata, Buenos Aires",Ar,-34.9205233,-57.9881898,Medical,Clinical neglect,2020,463,92,136,16,2,24,3,,,5.2,0.00444
+3823,Belgium,2020.0,11561717.0,Maya Borg,1990-09-24,2020-11-18,"Tournai, Hainaut",Be,50.6205239,3.3402694,Medical,Hypothermia,2020,463,92,1,1,1,24,1,1990,30,5.2,0.00865
+3831,Brazil,2020.0,213196304.0,Camille Rocha,,2020-11-29,"Patos de Minas, Minas Gerais",Br,-18.60892961,-46.50823704,Medical,Covid-19,2020,463,92,1818,190,9,24,12,,,5.2,0.00422
+3909,USA,2021.0,336997624.0,"Sandie Crisp (""""Goddess Bunny"""")",1960-01-13,2021-01-27,"Los Angeles, California",Us,34.052238,-118.243344,Medical,Covid-19,2021,445,92,609,78,2,26,15,1960,61,5.8,0.00059
+3910,Brazil,2021.0,214326223.0,Ygona Moura,,2021-01-27,São Paulo,Br,-23.550651,-46.633382,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.00513
+3911,Chile,2021.0,19493184.0,"Valentina Vera López (""""Kim"""")",,2021-01-27,"Puerto Montt, Los Lagos",Cl,-41.47774,-72.97817,Medical,Pulmonary embolism,2021,445,92,35,3,2,26,2,,,5.8,0.01026
+3920,Brazil,2021.0,214326223.0,"Úrsula A. S. (""""Maravilhosa"""")",,2021-02-04,"Porto Velho, Rondônia",Br,-8.7841511,-63.8587697,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.00513
+3921,Brazil,2021.0,214326223.0,Giselle Sakai,,2021-02-05,"João Pessoa, Paraíba",Br,-7.1037935,-34.8348469,Medical,Pulmonary embolism,2021,445,92,1818,132,11,26,2,,,5.8,0.00513
+3948,Brazil,2021.0,214326223.0,Lorena Muniz,,2021-02-21,São Paulo,Br,-23.5535043,-46.6366639,Medical,Clinical neglect,2021,445,92,1818,132,11,26,3,,,5.8,0.00513
+3965,Colombia,2021.0,51516562.0,Natali Sofía Martínez Grabados,,2021-03-04,"Bogotá, Distrito Capital",Co,4.58003,-74.02034,Medical,Cosmetic surgery complications,2021,445,92,219,32,2,26,1,,,5.8,0.00388
+4016,Brazil,2021.0,214326223.0,"Larissa Dieckmann (""""Lara"""")",,2021-04-13,"Niterói, Rio de Janeiro",Br,-22.883237,-43.115455,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.00513
+4020,Peru,2021.0,33715471.0,Luisa Revilla Urcia,1971-10-12,2021-04-15,"Trujillo, La Libertad",Pe,-8.1062344,-79.0369581,Medical,Covid-19,2021,445,92,43,5,2,26,15,1971,50,5.8,0.00593
+4025,Brazil,2021.0,214326223.0,Juliana Santos,,2021-04-19,"Porto Vehlo, Rondônia",Br,-8.7550767,-63.830941,Medical,Cosmetic filler complications,2021,445,92,1818,132,11,26,5,,,5.8,0.00513
+4035,Colombia,2021.0,51516562.0,Silvana Gómez Galeano,,2021-04-25,"Neiva, Huila",Co,2.9376189,-75.3074082,Medical,Cosmetic filler complications,2021,445,92,219,32,2,26,5,,,5.8,0.00388
+4057,Peru,2021.0,33715471.0,S. Saira Mamani,,2021-05-13,Arequipa,Pe,-16.4024407,-71.5300704,Medical,Cosmetic filler complications,2021,445,92,43,5,2,26,5,,,5.8,0.00593
+4058,Brazil,2021.0,214326223.0,"Rany Merces (""""Nynha"""")",,2021-05-13,"Belo Horizonte, Minas Gerais",Br,-19.9026615,-44.1041374,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.00513
 4070,Bolivia,,,Rayza Torriani,,2021-05-20,"Tiquipaya, Cochabamba",Bo,-17.3316558,-66.2282466,Medical,Covid-19,2021,445,92,16,2,1,26,15,,,5.8,
-4085,Uruguay,2021.0,3426260.0,Gloria Florencia Álvez Mariño,,2021-05-30,Montevideo,Uy,-34.821018,-56.3765244,Medical,Covid-19,2021,445,92,13,1,1,26,15,,,5.8,0.029
-4100,Brazil,2021.0,214326223.0,Safire de Martinelly,1960-07-08,2021-06-07,"Itaipuaçu, Rio de Janeiro",Br,-22.926997,-42.8722385,Medical,Covid-19,2021,445,92,1818,132,11,26,15,1960,61,5.8,0.005
-4139,Mexico,2021.0,126705138.0,Fanny Argüello Jaqueline Sánchez Sampirolly,,2021-07-02,"Villa Comaltitlán, Chiapas",Mx,15.2195005,-92.5936809,Medical,Covid-19,2021,445,92,629,51,2,26,15,,,5.8,0.002
-4168,Brazil,2021.0,214326223.0,Prof Fran Demétrio,,2021-07-28,"Salvador, Bahia",Br,-12.981636,-38.482077,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.005
-4170,Brazil,2021.0,214326223.0,Bru Waldorf,,2021-07-29,Rio de Janeiro,Br,-22.911014,-43.209373,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.005
-4176,Chile,2021.0,19493184.0,Malu Mejías,,2021-08-02,Concepción,Cl,-36.8205406,-73.0537502,Medical,Cosmetic filler complications,2021,445,92,35,3,2,26,5,,,5.8,0.01
-4183,Brazil,2021.0,214326223.0,Karla Ariella,,2021-08-09,"Goiânia, Goiás",Br,-16.680882,-49.253269,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.005
-4191,Mexico,2021.0,126705138.0,Mérida Irlanda,,2021-08-13,"La Paz, Baja California Sur",Mx,24.07941533,-110.2929479,Medical,Covid-19,2021,445,92,629,51,2,26,15,,,5.8,0.002
-4211,USA,2021.0,336997624.0,Claire Monserrat Jackson,1975-12-12,2021-08-27,"Troy, Ohio",Us,40.041657,-84.208058,Medical,Covid-19,2021,445,92,609,78,2,26,15,1975,46,5.8,0.001
-4310,Pakistan,2021.0,231402117.0,Sherly,,2021-12-16,"Karachi, Sindh",Pk,24.86678,67.031129,Medical,Clinical neglect,2021,445,92,97,20,2,26,3,,,5.8,0.001
-4311,Pakistan,2021.0,231402117.0,Toffe,,2021-12-16,"Karachi, Sindh",Pk,24.8592236,67.0067927,Medical,Clinical neglect,2021,445,92,97,20,2,26,3,,,5.8,0.001
-4313,Ecuador,2021.0,17797737.0,Melina Zurita Plaza,,2021-12-20,"Guayaquil, Guayas",Ec,2.2840098,-79.8868991,Medical,Cosmetic filler complications,2021,445,92,61,6,1,26,5,,,5.8,0.006
-4341,Italy,2022.0,59037474.0,Natasha Simonini,,2022-01-12,"Viareggio, Lucca",It,43.8702675,10.2193508,Medical,Covid-19,2022,364,92,71,8,1,8,2,,,2.2,0.002
-4344,Mexico,2022.0,127504125.0,Karina López,1981-10-25,2022-01-14,"Xalapa, Veracruz",Mx,19.5706521,-96.925315,Medical,Asphyxiation,2022,364,92,629,58,1,8,1,1981,41,2.2,0.001
-4350,Colombia,2022.0,51874024.0,Arelis Cabezas Sierra,,2022-01-20,"Bogotá, Distrito Capital",Co,4.761433,-74.153033,Medical,Cosmetic procedure complications,2022,364,92,219,25,2,8,1,,,2.2,0.004
-4365,Ecuador,2022.0,18001000.0,Bella Analía Vera,,2022-02-05,"Babahoyo, Los Ríos",Ec,-1.806905,-79.5316933,Medical,Cosmetic filler complications,2022,364,92,61,11,1,8,3,,,2.2,0.006
-4387,Indonesia,2022.0,275501339.0,Dorce Gamalama,1963-07-21,2022-02-16,Jakarta,Id,-6.2399349,106.7910124,Medical,Covid-19,2022,364,92,9,2,1,8,2,1963,59,2.2,0.0
-4489,USA,2022.0,338289857.0,Michelle S Tarrio,,2022-05-10,New York,Us,40.6976701,-74.2598667,Medical,Cosmetic filler complications,2022,364,92,609,56,1,8,3,,,2.2,0.0
-4522,Brazil,2022.0,215313498.0,Lorrayne Alves,,2022-06-08,"Anápolis, Goiás",Br,-16.2989916,-48.9447564,Medical,Cosmetic filler complications,2022,364,92,1818,107,1,8,3,,,2.2,0.0
-4593,Colombia,2022.0,51874024.0,Diana Navarro,,2022-08-21,"Bogotá, Distrito Capital",Co,4.61316437,-74.1356747,Medical,Not reported,2022,364,92,219,25,2,8,20,,,2.2,0.004
+4085,Uruguay,2021.0,3426260.0,Gloria Florencia Álvez Mariño,,2021-05-30,Montevideo,Uy,-34.821018,-56.3765244,Medical,Covid-19,2021,445,92,13,1,1,26,15,,,5.8,0.02919
+4100,Brazil,2021.0,214326223.0,Safire de Martinelly,1960-07-08,2021-06-07,"Itaipuaçu, Rio de Janeiro",Br,-22.926997,-42.8722385,Medical,Covid-19,2021,445,92,1818,132,11,26,15,1960,61,5.8,0.00513
+4139,Mexico,2021.0,126705138.0,Fanny Argüello Jaqueline Sánchez Sampirolly,,2021-07-02,"Villa Comaltitlán, Chiapas",Mx,15.2195005,-92.5936809,Medical,Covid-19,2021,445,92,629,51,2,26,15,,,5.8,0.00158
+4168,Brazil,2021.0,214326223.0,Prof Fran Demétrio,,2021-07-28,"Salvador, Bahia",Br,-12.981636,-38.482077,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.00513
+4170,Brazil,2021.0,214326223.0,Bru Waldorf,,2021-07-29,Rio de Janeiro,Br,-22.911014,-43.209373,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.00513
+4176,Chile,2021.0,19493184.0,Malu Mejías,,2021-08-02,Concepción,Cl,-36.8205406,-73.0537502,Medical,Cosmetic filler complications,2021,445,92,35,3,2,26,5,,,5.8,0.01026
+4183,Brazil,2021.0,214326223.0,Karla Ariella,,2021-08-09,"Goiânia, Goiás",Br,-16.680882,-49.253269,Medical,Covid-19,2021,445,92,1818,132,11,26,15,,,5.8,0.00513
+4191,Mexico,2021.0,126705138.0,Mérida Irlanda,,2021-08-13,"La Paz, Baja California Sur",Mx,24.07941533,-110.2929479,Medical,Covid-19,2021,445,92,629,51,2,26,15,,,5.8,0.00158
+4211,USA,2021.0,336997624.0,Claire Monserrat Jackson,1975-12-12,2021-08-27,"Troy, Ohio",Us,40.041657,-84.208058,Medical,Covid-19,2021,445,92,609,78,2,26,15,1975,46,5.8,0.00059
+4310,Pakistan,2021.0,231402117.0,Sherly,,2021-12-16,"Karachi, Sindh",Pk,24.86678,67.031129,Medical,Clinical neglect,2021,445,92,97,20,2,26,3,,,5.8,0.00086
+4311,Pakistan,2021.0,231402117.0,Toffe,,2021-12-16,"Karachi, Sindh",Pk,24.8592236,67.0067927,Medical,Clinical neglect,2021,445,92,97,20,2,26,3,,,5.8,0.00086
+4313,Ecuador,2021.0,17797737.0,Melina Zurita Plaza,,2021-12-20,"Guayaquil, Guayas",Ec,2.2840098,-79.8868991,Medical,Cosmetic filler complications,2021,445,92,61,6,1,26,5,,,5.8,0.00562
+4341,Italy,2022.0,59037474.0,Natasha Simonini,,2022-01-12,"Viareggio, Lucca",It,43.8702675,10.2193508,Medical,Covid-19,2022,364,92,71,8,1,8,2,,,2.2,0.00169
+4344,Mexico,2022.0,127504125.0,Karina López,1981-10-25,2022-01-14,"Xalapa, Veracruz",Mx,19.5706521,-96.925315,Medical,Asphyxiation,2022,364,92,629,58,1,8,1,1981,41,2.2,0.00078
+4350,Colombia,2022.0,51874024.0,Arelis Cabezas Sierra,,2022-01-20,"Bogotá, Distrito Capital",Co,4.761433,-74.153033,Medical,Cosmetic procedure complications,2022,364,92,219,25,2,8,1,,,2.2,0.00386
+4365,Ecuador,2022.0,18001000.0,Bella Analía Vera,,2022-02-05,"Babahoyo, Los Ríos",Ec,-1.806905,-79.5316933,Medical,Cosmetic filler complications,2022,364,92,61,11,1,8,3,,,2.2,0.00556
+4387,Indonesia,2022.0,275501339.0,Dorce Gamalama,1963-07-21,2022-02-16,Jakarta,Id,-6.2399349,106.7910124,Medical,Covid-19,2022,364,92,9,2,1,8,2,1963,59,2.2,0.00036
+4489,USA,2022.0,338289857.0,Michelle S Tarrio,,2022-05-10,New York,Us,40.6976701,-74.2598667,Medical,Cosmetic filler complications,2022,364,92,609,56,1,8,3,,,2.2,0.0003
+4522,Brazil,2022.0,215313498.0,Lorrayne Alves,,2022-06-08,"Anápolis, Goiás",Br,-16.2989916,-48.9447564,Medical,Cosmetic filler complications,2022,364,92,1818,107,1,8,3,,,2.2,0.00046
+4593,Colombia,2022.0,51874024.0,Diana Navarro,,2022-08-21,"Bogotá, Distrito Capital",Co,4.61316437,-74.1356747,Medical,Not reported,2022,364,92,219,25,2,8,20,,,2.2,0.00386
