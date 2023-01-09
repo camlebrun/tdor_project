@@ -1,414 +1,415 @@
-,Country,Year,Population,Name,Birthdate,Date,Location,Country_Code,Latitude,Longitude,Category,Cause_of_the_death,year,nb_victims_year,nb_victims_Category,nb_victims_country,nb_victims_country_year,nb_victims_category_country_year,nb_victims_Category_year,nb_victims_cause_year,year_birthdays,age,percentage_category,ratio
-58,Venezuela,,,Anjie Milano (Andy Rafael Milano),,2002-03-31,"Valencia, Carabobo",Ve,10.13516,-68.05268,Uncategorised,Not reported,2002,33,413,119,3,1,1,1,,,3.0,
-115,USA,2003.0,291109820.0,Reshae McCauley,,2003-12-07,"Largo, Florida",Us,27.91829,-82.774936,Uncategorised,Not reported,2003,34,413,609,16,1,1,1,,,2.9,0.00034
-147,Argentina,2005.0,39070501.0,Name Unknown,,2005-01-12,"Paraná, Entre Ríos",Ar,-31.74283,-60.48467,Uncategorised,Not reported,2005,30,413,136,4,2,3,3,,,10.0,0.00512
-150,Argentina,2005.0,39070501.0,Name Unknown,,2005-02-22,Neuquén,Ar,-38.95493,-68.059257,Uncategorised,Not reported,2005,30,413,136,4,2,3,3,,,10.0,0.00512
-153,USA,2005.0,296842670.0,Alisha Sandoval,,2005-03-18,"Lodi, California",Us,38.135674,-121.279196,Uncategorised,Not reported,2005,30,413,609,17,1,3,3,,,10.0,0.00034
-217,USA,2008.0,305694910.0,Stacy Brown,,2008-01-08,"Baltimore, Maryland",Us,39.290443,-76.612333,Uncategorised,Not reported,2008,53,413,609,19,4,16,16,,,30.2,0.00131
-239,USA,2008.0,305694910.0,Ruby Molina,,2008-09-21,"Sacramento, California",Us,38.582087,-121.50012,Uncategorised,Drowned,2008,53,413,609,19,4,16,1,,,30.2,0.00131
-241,USA,2008.0,305694910.0,Aimee Wilcoxson,,2008-11-03,"Aurora, Colorado",Us,39.711213,-104.819356,Uncategorised,Not reported,2008,53,413,609,19,4,16,16,,,30.2,0.00131
-248,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-249,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-250,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-251,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-252,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-253,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-254,USA,2008.0,305694910.0,Jennifer Gale,,2008-12-17,"Austin, Texas",Us,30.264979,-97.746598,Uncategorised,Not reported,2008,53,413,609,19,4,16,16,,,30.2,0.00131
-260,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-261,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-262,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-263,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-264,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-265,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,413,1818,14,12,16,16,,,30.2,0.00623
-283,Mexico,2009.0,111049428.0,Cita Solorzano (muxé),,2009-01-25,"Asunción Ixtaltepec, Oaxaca",Mx,20.812754,-89.452772,Uncategorised,Not reported,2009,192,413,629,11,2,6,43,,,3.1,0.0018
-285,Mexico,2009.0,111049428.0,Daisy,,2009-01-31,"San Cristobal, Chiapas",Mx,16.735377,-92.63873,Uncategorised,Not reported,2009,192,413,629,11,2,6,43,,,3.1,0.0018
-321,Brazil,2009.0,194517549.0,Fernanda Botelho,,2009-05-04,"Curitiba, Paraná",Br,-25.428693,-49.272373,Uncategorised,Not reported,2009,192,413,1818,56,3,6,43,,,3.1,0.00154
-424,Brazil,2009.0,194517549.0,Name Unknown,,2009-11-03,"Londrina, Paraná",Br,-23.311288,-51.159502,Uncategorised,Not reported,2009,192,413,1818,56,3,6,43,,,3.1,0.00154
-441,Ecuador,2009.0,14742766.0,Name Unknown,,2009-12-06,"Guayaquil, Guayas",Ec,-2.247865,-79.903534,Uncategorised,Not reported,2009,192,413,61,2,1,6,43,,,3.1,0.00678
-442,Brazil,2009.0,194517549.0,Filhinha,,2009-12-08,"Uberaba, Minas Gerais",Br,-19.750833,-47.936666,Uncategorised,Not reported,2009,192,413,1818,56,3,6,43,,,3.1,0.00154
-514,Ecuador,2010.0,14989585.0,China,,2010-04-01,"Cuenca, Azuay",Ec,-2.897375,-79.004449,Uncategorised,Not reported,2010,185,413,61,5,1,3,20,,,1.6,0.00667
-518,Brazil,2010.0,196353492.0,Pitanga Malta da Silva,,2010-04-10,"Porto Alegre, Rio Grande do Sul",Br,-30.028268,-51.22843,Uncategorised,Not reported,2010,185,413,1818,92,1,3,20,,,1.6,0.00051
-622,Colombia,2010.0,44816108.0,Valentina (Oscar Andres Triana Lozano),,2010-11-29,"Ibague, Tolima",Co,4.443549,-75.241132,Uncategorised,Not reported,2010,185,413,219,7,1,3,20,,,1.6,0.00223
-673,Brazil,2011.0,198185302.0,Geruza,,2011-02-01,"Joao Pessoa, Paraíba",Br,-7.114784,-34.889798,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-676,Brazil,2011.0,198185302.0,Lorraine,,2011-02-04,"Senador Canedo, Goiás",Br,-16.701323,-49.091492,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-692,Mexico,2011.0,114150481.0,Name Unknown,,2011-02-22,Sinaloa,Mx,25.823077,-108.22294,Uncategorised,Not reported,2011,231,413,629,29,1,15,19,,,6.5,0.00088
-716,Colombia,2011.0,45308899.0,Name Unknown,,2011-03-24,"Bello, Medellin, Antioquia",Co,6.36076,-75.61317,Uncategorised,Not reported,2011,231,413,219,15,2,15,19,,,6.5,0.00441
-718,Colombia,2011.0,45308899.0,Leidy Garcia,,2011-03-27,"Bogota, Distrito Capital",Co,4.598048,-74.076087,Uncategorised,Not reported,2011,231,413,219,15,2,15,19,,,6.5,0.00441
-720,Brazil,2011.0,198185302.0,Name Unknown,,2011-03-31,"Manaus, Amazonas",Br,-3.132862,-59.986529,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-721,Brazil,2011.0,198185302.0,Name Unknown,,2011-03-31,"Anama, Amazonas",Br,-3.579736,-61.405,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-722,Brazil,2011.0,198185302.0,Name Unknown,,2011-03-31,"Anori, Amazonas",Br,-3.743525,-61.66052,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-766,Brazil,2011.0,198185302.0,Name Unknown,,2011-06-21,"Natal, Rio Grande do Norte",Br,-5.805398,-35.208091,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-767,Brazil,2011.0,198185302.0,Name Unknown,,2011-06-21,"Natal, Rio Grande do Norte",Br,-5.805398,-35.208091,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-783,Brazil,2011.0,198185302.0,Name Unknown,,2011-08-06,"Piedade, Rio de Janeiro",Br,-22.8941,-43.31413,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-813,Brazil,2011.0,198185302.0,Paloma (Joaquim) Rodrigues da Cunha,,2011-10-05,"Rua Perimetral, Fortaleza, Ceará",Br,-3.80477,-38.58475,Uncategorised,Run over,2011,231,413,1818,96,11,15,1,,,6.5,0.00555
-827,Brazil,2011.0,198185302.0,Dudu (Eduardo) Paixão de Jesus,,2011-10-23,"Camaçari, Bahia",Br,-12.69529,-38.33952,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-839,Pakistan,2011.0,198602738.0,Muneer,,2011-11-04,"Bhaati Gate, Lahore, Punjab",Pk,31.56192,74.34808,Uncategorised,Not reported,2011,231,413,97,6,1,15,19,,,6.5,0.0005
-846,Brazil,2011.0,198185302.0,Name Unknown,,2011-11-18,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2011,231,413,1818,96,11,15,19,,,6.5,0.00555
-878,Dominican Republic,2012.0,10030882.0,La Princesa (Freddy) Payams Severino,,2012-01-03,Puerto Plata,Do,19.789398,-70.694052,Uncategorised,Not reported,2012,276,413,29,1,1,10,17,,,3.6,0.00997
-931,Mexico,2012.0,115755909.0,Javier,,2012-03-18,"Salamanca, Guanajuato",Mx,20.571411,-101.192482,Uncategorised,Not reported,2012,276,413,629,49,2,10,17,,,3.6,0.00173
-958,Brazil,2012.0,199977707.0,Cláudia (Sebastiao Francisco) Vila Nova,,2012-04-09,"Bezerros, Pernambuco",Br,-8.236323,-35.749947,Uncategorised,Not reported,2012,276,413,1818,128,3,10,17,,,3.6,0.0015
-976,Mexico,2012.0,115755909.0,Name Unknown,,2012-05-06,"Puente Nacional, Veracruz",Mx,19.326944,-96.483333,Uncategorised,Not reported,2012,276,413,629,49,2,10,17,,,3.6,0.00173
-1033,Pakistan,2012.0,202205861.0,Name Unknown,,2012-07-30,"Karachi, Sindh",Pk,24.86678,67.031129,Uncategorised,Not reported,2012,276,413,97,5,1,10,17,,,3.6,0.00049
-1035,Brazil,2012.0,199977707.0,Name Unknown,,2012-07-31,"Rod. Contorno, Serra, Espírito Santo",Br,-20.20996,-40.26537,Uncategorised,Not reported,2012,276,413,1818,128,3,10,17,,,3.6,0.0015
-1064,Italy,2012.0,60190145.0,Name Unknown,,2012-09-05,Migliarino Pisano,It,43.7665828,10.3265021,Uncategorised,Not reported,2012,276,413,71,5,1,10,17,,,3.6,0.00166
-1070,Honduras,2012.0,8792367.0,Name Unknown,,2012-09-08,,Hn,14.818892,-86.600739,Uncategorised,Not reported,2012,276,413,96,7,1,10,17,,,3.6,0.01137
-1129,India,2012.0,1274487215.0,Name Unknown,,2012-11-22,"Vidisha, Madhya Pradesh",In,23.5222,77.8036,Uncategorised,Not reported,2012,276,413,107,8,1,10,17,,,3.6,8e-05
-1151,Brazil,2012.0,199977707.0,Raissa Quevedo da Fonseca,,2012-12-31,"Campo Grande, Mato Grosso do Sul",Br,-20.47053,-54.624352,Uncategorised,Not reported,2012,276,413,1818,128,3,10,17,,,3.6,0.0015
-1153,Honduras,2013.0,8960657.0,Name Unknown,,2013-01-01,,Hn,14.818892,-86.600739,Uncategorised,Not reported,2013,260,413,96,11,5,45,63,,,17.3,0.0558
-1154,Honduras,2013.0,8960657.0,Name Unknown,,2013-01-01,,Hn,14.818892,-86.600739,Uncategorised,Not reported,2013,260,413,96,11,5,45,63,,,17.3,0.0558
-1160,Argentina,2013.0,42388269.0,Ale  (Gustavo) Yagualca,,2013-01-09,Buenos Aires,Ar,-34.612869,-58.445979,Uncategorised,Not reported,2013,260,413,136,5,1,45,63,,,17.3,0.00236
-1185,El Salvador,2013.0,6185642.0,Perla Rivas,,2013-01-31,La Paz,Sv,13.46858,-88.97081,Uncategorised,Not reported,2013,260,413,61,5,4,45,63,,,17.3,0.06467
-1186,El Salvador,2013.0,6185642.0,Mónica (Adolfo) N,,2013-01-31,,Sv,13.9726,-89.21818,Uncategorised,Not reported,2013,260,413,61,5,4,45,63,,,17.3,0.06467
-1197,Mexico,2013.0,117290686.0,Luis Ángel de la Luz Albino,,2013-02-12,"Santa Isabel Cholula, Puebla",Mx,18.996667,-98.379444,Uncategorised,Not reported,2013,260,413,629,43,6,45,63,,,17.3,0.00512
-1211,Brazil,2013.0,201721767.0,Name Unknown,,2013-02-28,"Caxias do Sul, Rio Grande do Sul",Br,-29.16848,-51.179386,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1214,Brazil,2013.0,201721767.0,Emilly Sallimeni,,2013-03-06,"Porto Alegre, Rio Grande do Sul",Br,-30.028268,-51.22843,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1241,Colombia,2013.0,46237930.0,Name Unknown,,2013-04-21,"Popalito, Antioquia",Co,6.4772833,-75.2774772,Uncategorised,Not reported,2013,260,413,219,11,3,45,63,,,17.3,0.00649
-1247,El Salvador,2013.0,6185642.0,Tania (Edwin) Santos Vázquez,,2013-05-04,,Sv,13.9726,-89.21818,Uncategorised,Not reported,2013,260,413,61,5,4,45,63,,,17.3,0.06467
-1255,Venezuela,,,Yhonatan Alexander Guédez Bermúdez,,2013-05-15,Cojedes,Ve,9.333333,-68.333333,Uncategorised,Not reported,2013,260,413,119,17,3,45,63,,,17.3,
-1263,Honduras,2013.0,8960657.0,Vanesa (Juan Carlos) Betancourt Murillo,,2013-05-30,"Choloma, Cortés",Hn,15.611218,-87.950795,Uncategorised,Not reported,2013,260,413,96,11,5,45,63,,,17.3,0.0558
-1265,El Salvador,2013.0,6185642.0,Soraya Hernández,,2013-05-31,,Sv,13.9726,-89.21818,Uncategorised,Not reported,2013,260,413,61,5,4,45,63,,,17.3,0.06467
-1281,Colombia,2013.0,46237930.0,Laura Mar (Jesus Alberto) Luna,,2013-07-03,Huila,Co,2.473899,-75.590011,Uncategorised,Not reported,2013,260,413,219,11,3,45,63,,,17.3,0.00649
-1308,Venezuela,,,Hernán Rafael Duno,,2013-07-27,Zamora,Ve,10.19959,-71.32707,Uncategorised,Not reported,2013,260,413,119,17,3,45,63,,,17.3,
-1327,Brazil,2013.0,201721767.0,Raissa Silva,,2013-08-26,"Recife, Pernambuco",Br,-8.058108,-34.897905,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1353,Colombia,2013.0,46237930.0,Name Unknown,,2013-09-28,"Barranquilla, Atlántico",Co,10.979932,-74.795738,Uncategorised,Not reported,2013,260,413,219,11,3,45,63,,,17.3,0.00649
-1355,Brazil,2013.0,201721767.0,(Hércules) de Paula Santana,,2013-09-30,"Maringá, Paraná",Br,-23.42732,-51.93696,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1360,Mexico,2013.0,117290686.0,Name Unknown,,2013-10-08,"Los Mochis, Sinaloa",Mx,25.792806,-108.990188,Uncategorised,Not reported,2013,260,413,629,43,6,45,63,,,17.3,0.00512
-1369,Mexico,2013.0,117290686.0,Karla,,2013-10-15,"Lázaro Cárdenas, Michoacán",Mx,17.959774,-102.198535,Uncategorised,Not reported,2013,260,413,629,43,6,45,63,,,17.3,0.00512
-1370,Mexico,2013.0,117290686.0,Name Unknown,,2013-10-15,Chihuahua,Mx,28.654323,-106.083947,Uncategorised,Not reported,2013,260,413,629,43,6,45,63,,,17.3,0.00512
-1373,Honduras,2013.0,8960657.0,Xiomara (Edwin David) Cálix López,,2013-10-21,"Tegucigalpa, Distrito Central",Hn,14.093192,-87.201263,Uncategorised,Not reported,2013,260,413,96,11,5,45,63,,,17.3,0.0558
-1374,Uruguay,2013.0,3381180.0,Name Unknown,,2013-10-21,Montevideo,Uy,-34.905904,-56.191357,Uncategorised,Not reported,2013,260,413,13,2,1,45,63,,,17.3,0.02958
-1375,Chile,2013.0,17509925.0,Katherine Jannett Droguett Silva,,2013-10-22,Valparaiso,Cl,-33.046248,-71.619803,Uncategorised,Not reported,2013,260,413,35,2,1,45,63,,,17.3,0.00571
-1381,Mexico,2013.0,117290686.0,Cinthia (Aldo),,2013-11-08,Puebla,Mx,19.043671,-98.198727,Uncategorised,Not reported,2013,260,413,629,43,6,45,63,,,17.3,0.00512
-1383,Brazil,2013.0,201721767.0,Joan (José Bartolomeu) dos Santos,,2013-11-08,"Bom Conselho, Pernambuco",Br,-9.169191,-36.685683,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1385,Brazil,2013.0,201721767.0,Lady Butterfly,,2013-11-17,"Porto Seguro, Bahia",Br,-16.443473,-39.064251,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1386,Pakistan,2013.0,205337562.0,Sahlil,,2013-11-17,"Karachi, Sindh",Pk,24.86678,67.031129,Uncategorised,Not reported,2013,260,413,97,1,1,45,63,,,17.3,0.00049
-1387,United Kingdom,2013.0,64302297.0,Jacqueline Cowdrey,,2013-11-19,"Worthing, West Sussex",Gb,50.81169,-0.370395,Uncategorised,Not reported,2013,260,413,49,1,1,45,63,,,17.3,0.00156
-1388,Brazil,2013.0,201721767.0,Name Unknown,,2013-11-20,"Manaus, Amazonas",Br,-3.132862,-59.986529,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1390,Brazil,2013.0,201721767.0,Karina,,2013-11-26,"Sapé, Goiás",Br,-7.093591,-35.227975,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1393,Brazil,2013.0,201721767.0,Rebeca (Tallyson Jonatha) Alves Da Silva,,2013-12-04,"Patu, Rio Grande do Norte",Br,-6.100621,-37.638515,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1397,Brazil,2013.0,201721767.0,Thays Brito de Oliveira,,2013-12-08,"Bauru, São Paulo",Br,-22.32181,-49.070586,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1398,Brazil,2013.0,201721767.0,Pamela,,2013-12-10,Minas Gerais,Br,-18.7631,-45.451801,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1399,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-10,"Brasilia, Distrito Federal",Br,-15.7934,-47.882293,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1400,Brazil,2013.0,201721767.0,Gabriely Spanic (Ruan Cleiton) Madureira de Matos,,2013-12-12,"Campinas, São Paulo",Br,-22.90556,-47.06083,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1401,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-12,"Fortaleza, Ceará",Br,-3.730451,-38.521799,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1402,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-14,"Videira, Santa Catarina",Br,-27.00544,-51.153373,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1403,Mexico,2013.0,117290686.0,Jonathan,,2013-12-15,Morelos,Mx,18.177222,-94.95,Uncategorised,Not reported,2013,260,413,629,43,6,45,63,,,17.3,0.00512
-1405,Brazil,2013.0,201721767.0,Larissa,,2013-12-16,"João Pessoa, Paraíba",Br,-6.656765,-69.866161,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1406,India,2013.0,1291132063.0,Name Unknown,,2013-12-21,Faridabad,In,28.402837,77.308563,Uncategorised,Not reported,2013,260,413,107,6,1,45,63,,,17.3,8e-05
-1409,Honduras,2013.0,8960657.0,Juana,,2013-12-26,"San Francisco, California",Hn,14.094903,-88.000803,Uncategorised,Not reported,2013,260,413,96,11,5,45,63,,,17.3,0.0558
-1410,Venezuela,,,Haydee Georgina Leon Dreyer,,2013-12-28,"Catia La Mar, Vargas",Ve,10.598115,-67.038638,Uncategorised,Not reported,2013,260,413,119,17,3,45,63,,,17.3,
-1411,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-29,"Castanhal, Pará",Br,-1.292703,-47.92239,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1412,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-31,"Itapissuma, Pernambuco",Br,-7.767983,-34.897136,Uncategorised,Not reported,2013,260,413,1818,105,18,45,63,,,17.3,0.00892
-1414,Peru,2014.0,30353951.0,Name Unknown,,2014-01-05,"Trujillo, La Libertad",Pe,-8.14,-79.0578,Uncategorised,Not reported,2014,259,413,43,6,5,120,123,,,46.3,0.01647
-1415,Peru,2014.0,30353951.0,Name Unknown,,2014-01-05,"Trujillo, La Libertad",Pe,-8.14,-79.0578,Uncategorised,Not reported,2014,259,413,43,6,5,120,123,,,46.3,0.01647
-1416,Brazil,2014.0,203459650.0,Michele (Juscelino) Coelho de Morais,,2014-01-06,"Marataízes, Espírito Santo",Br,-15.77938,-47.92574,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1421,Brazil,2014.0,203459650.0,Luana Professora (Romulo Carlos Ferreira Lopes),,2014-01-10,"Ipiranga, São Paulo",Br,-25.022962,-50.585668,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1425,Brazil,2014.0,203459650.0,Toni Gretchen (Antonio Carlos dos Santos),,2014-01-16,"São Benedito, Nordeste",Br,-4.041147,-40.863175,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1427,Colombia,2014.0,46677947.0,Catalina ramirez,,2014-01-19,"Cali, Valle del Cauca",Co,3.431933,-76.511305,Uncategorised,Not reported,2014,259,413,219,8,2,120,123,,,46.3,0.00428
-1428,Brazil,2014.0,203459650.0,Cristal (Alexandre) Nascimento de Araújo,,2014-01-19,"Potengi, Nordeste",Br,-7.091521,-40.026824,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1430,Brazil,2014.0,203459650.0,Buxexa,,2014-01-23,"Messejana, Fortaleza, Ceará",Br,-3.8333,-38.483299,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1435,Brazil,2014.0,203459650.0,Tissia,,2014-01-28,"Itaguaí, Rio de Janeiro",Br,-22.86296,-43.775322,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1439,Brazil,2014.0,203459650.0,Sarita de Almeida Oliveira,,2014-01-29,"Itabela, Nordeste",Br,-16.574339,-39.561961,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1442,Brazil,2014.0,203459650.0,Name Unknown,,2014-01-29,"Messejana, Fortaleza, Ceará",Br,-3.8333,-38.483299,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1443,Argentina,2014.0,42824054.0,Name Unknown,,2014-01-30,Buenos Aires,Ar,-34.612869,-58.445979,Uncategorised,Not reported,2014,259,413,136,11,6,120,123,,,46.3,0.01401
-1444,Brazil,2014.0,203459650.0,Paola (Ivanildo) Alves Pererira,,2014-01-31,"Piacabucu, Alagoas",Br,-10.40669,-36.433654,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1445,Peru,2014.0,30353951.0,Nahomi (Brayan Kevin) Lui Inuma,,2014-01-31,"Iquitos, Maynas",Pe,-3.748998,-73.245837,Uncategorised,Not reported,2014,259,413,43,6,5,120,123,,,46.3,0.01647
-1446,Venezuela,,,Name Unknown,,2014-01-31,Sucre,Ve,10.160354,-67.448911,Uncategorised,Not reported,2014,259,413,119,6,1,120,123,,,46.3,
-1448,Mexico,2014.0,118755887.0,Alison (Juan Bernardo) Reyes López,,2014-02-04,Tijuana,Mx,32.52882,-117.036835,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1449,Brazil,2014.0,203459650.0,Tatty,,2014-02-07,Belo Horizonte,Br,-19.922732,-43.945095,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1452,Peru,2014.0,30353951.0,Noiser Java Paima,,2014-02-11,Miraflores,Pe,-12.274175,-75.850256,Uncategorised,Not reported,2014,259,413,43,6,5,120,123,,,46.3,0.01647
-1463,Brazil,2014.0,203459650.0,Name Unknown,,2014-02-23,Nova Serrana,Br,-19.875834,-44.984166,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1464,Argentina,2014.0,42824054.0,Name Unknown,,2014-02-26,Tandil,Ar,-37.321373,-59.13342,Uncategorised,Not reported,2014,259,413,136,11,6,120,123,,,46.3,0.01401
-1466,Brazil,2014.0,203459650.0,Name Unknown,,2014-02-27,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1467,Brazil,2014.0,203459650.0,Name Unknown,,2014-02-28,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1468,Brazil,2014.0,203459650.0,Kitana,,2014-02-28,Aracaju,Br,-10.916206,-37.077466,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1474,Brazil,2014.0,203459650.0,Marimar,,2014-03-03,Itaitinga,Br,-3.965768,-38.529763,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1475,Brazil,2014.0,203459650.0,Mile,,2014-03-03,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1477,Canada,2014.0,35404608.0,Coco,,2014-03-08,Edmonton,Ca,53.546135,-113.491213,Uncategorised,Not reported,2014,259,413,18,1,1,120,123,,,46.3,0.00282
-1479,Brazil,2014.0,203459650.0,Name Unknown,,2014-03-09,Aparecida de Goiania,Br,-16.822674,-49.245255,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1483,Brazil,2014.0,203459650.0,Name Unknown,,2014-03-14,Luziano,Br,-21.676475,-50.327871,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1484,Brazil,2014.0,203459650.0,Dani,,2014-03-16,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Beaten and shot,2014,259,413,1818,128,69,120,2,,,46.3,0.03391
-1485,Brazil,2014.0,203459650.0,Paulete Lima dos Santos,,2014-03-17,Teresina,Br,-5.08964,-42.809588,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1486,Brazil,2014.0,203459650.0,Nicole,,2014-03-18,Vitoria,Br,-20.299683,-40.301633,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1487,Brazil,2014.0,203459650.0,Agamenon,,2014-03-19,Itaberaba,Br,-12.524182,-40.305897,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1490,Brazil,2014.0,203459650.0,Marciana Ricardo da Silva,,2014-03-24,Iguatu,Br,-6.361934,-39.297223,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1492,Colombia,2014.0,46677947.0,Name Unknown,,2014-03-26,"Medellín, Antioquia",Co,6.27593,-75.570081,Uncategorised,Not reported,2014,259,413,219,8,2,120,123,,,46.3,0.00428
-1493,Brazil,2014.0,203459650.0,Giovana Souza Silva,,2014-03-28,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1496,Mexico,2014.0,118755887.0,Name Unknown,,2014-03-31,Guerrero,Mx,19.432778,-97.6875,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1498,Brazil,2014.0,203459650.0,Poly Moreira,,2014-04-07,Fortaleza,Br,-3.730451,-38.521799,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1499,Brazil,2014.0,203459650.0,Mileide,,2014-04-07,Serra,Br,-20.125296,-40.306448,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1500,Brazil,2014.0,203459650.0,Name Unknown,,2014-04-07,Maceio,Br,-9.647684,-35.733926,Uncategorised,Beaten and strangled,2014,259,413,1818,128,69,120,1,,,46.3,0.03391
-1503,Brazil,2014.0,203459650.0,Valquiria Ribeiro Oliveira Brito,,2014-04-20,Rondonopolis,Br,-16.460353,-54.63971,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1505,Brazil,2014.0,203459650.0,Bhrenda Scarpelin,,2014-04-21,"Itaquaquecetuba,  São Paulo",Br,-23.485835,-46.347781,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1510,Brazil,2014.0,203459650.0,Name Unknown,,2014-04-29,Taguatingo,Br,-12.402404,-46.436577,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1511,Peru,2014.0,30353951.0,Madeline,,2014-04-30,"Rimac District, Peru",Pe,-9.94292,-76.23761,Uncategorised,Not reported,2014,259,413,43,6,5,120,123,,,46.3,0.01647
-1516,Brazil,2014.0,203459650.0,Name Unknown,,2014-05-10,Belo Horizonte,Br,-19.922732,-43.945095,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1517,Brazil,2014.0,203459650.0,Name Unknown,,2014-05-10,Belo Horizonte,Br,-19.922732,-43.945095,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1518,Brazil,2014.0,203459650.0,(F. J.) Rodriguez,,2014-05-13,Florianopolis,Br,-27.5973,-48.54961,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1520,Brazil,2014.0,203459650.0,(S. J.) Nascimento Lima,,2014-05-15,Salvador,Br,-12.981636,-38.482077,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1522,Mexico,2014.0,118755887.0,Name Unknown,,2014-05-20,"Acapulco, Guerrero",Mx,16.860291,-99.876832,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1525,Mexico,2014.0,118755887.0,Carmela (Carmelo) Ponciano Fiscal,,2014-05-25,Veracruz,Mx,19.51209,-99.07642,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1526,Mexico,2014.0,118755887.0,Rosse (Fernando Ulises) López Meraz,,2014-05-26,"Ciudad Juarez, Chihuahua",Mx,31.737743,-106.483519,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1529,Mexico,2014.0,118755887.0,Esteban Hernández Arias,,2014-06-01,Tamaulipas,Mx,23.989155,-98.702683,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1533,El Salvador,2014.0,6209526.0,José René Cruz,,2014-06-08,Usulután,Sv,13.343771,-88.438286,Uncategorised,Not reported,2014,259,413,61,3,3,120,123,,,46.3,0.04831
-1534,Mexico,2014.0,118755887.0,Ruvy,,2014-06-10,Coahuila,Mx,27.416899,-101.892395,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1535,Mexico,2014.0,118755887.0,Bertín Hernández Ángeles,,2014-06-14,Hidalgo,Mx,22.233889,-97.830278,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1536,Mexico,2014.0,118755887.0,Reynaldo Hipólito Contreras,,2014-06-15,Veracruz,Mx,19.20022,-96.138569,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1541,Brazil,2014.0,203459650.0,Micheli,,2014-06-19,Araguina,Br,-7.193241,-48.20186,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1542,Brazil,2014.0,203459650.0,(A. L.) Borges Rocha,,2014-06-23,Cuiaba,Br,-15.598669,-56.09913,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1545,El Salvador,2014.0,6209526.0,Name Unknown,,2014-06-30,El Salvador,Sv,13.9726,-89.21818,Uncategorised,Not reported,2014,259,413,61,3,3,120,123,,,46.3,0.04831
-1546,El Salvador,2014.0,6209526.0,Ulises Humberto Rosales,,2014-07-01,San Salvador,Sv,13.696972,-89.19283,Uncategorised,Not reported,2014,259,413,61,3,3,120,123,,,46.3,0.04831
-1551,Honduras,2014.0,9127846.0,Jaime Javier Hernández Martínez,,2014-07-16,San Pedro Sula,Hn,15.505647,-88.024196,Uncategorised,Not reported,2014,259,413,96,6,1,120,123,,,46.3,0.01096
-1555,Mexico,2014.0,118755887.0,Name Unknown,,2014-07-23,Mexico-City,Mx,19.43253,-99.13321,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1560,Mexico,2014.0,118755887.0,Willy,,2014-07-31,Coatzacoalcos,Mx,18.139679,-94.450173,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1562,Mexico,2014.0,118755887.0,Lazaro,,2014-07-31,Morelos,Mx,18.177222,-94.95,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1563,Mexico,2014.0,118755887.0,Name Unknown,,2014-07-31,Nuevo León,Mx,26.238436,-99.8873,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1564,Spain,2014.0,46464551.0,Name Unknown,,2014-08-08,Logrono,Es,42.46612,-2.439668,Uncategorised,Not reported,2014,259,413,18,1,1,120,123,,,46.3,0.00215
-1566,Brazil,2014.0,203459650.0,N.N.,,2014-08-10,Itaquaquecetuba,Br,-23.485835,-46.347781,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1571,Brazil,2014.0,203459650.0,Thifany,,2014-08-29,Carapicuiba,Br,-23.523467,-46.840681,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1572,Mexico,2014.0,118755887.0,Name Unknown,,2014-08-31,Nezahualcoyotl,Mx,19.410015,-99.029987,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1574,Brazil,2014.0,203459650.0,Terezinha de Araujo,,2014-09-06,Uruara,Br,-3.718538,-53.738549,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1578,Brazil,2014.0,203459650.0,(F. L.) da Silva,,2014-09-14,Sao Manuel,Br,-23.394137,-52.645376,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1579,Brazil,2014.0,203459650.0,Name Unknown,,2014-09-14,Guarulhos,Br,-23.44306,-46.524459,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1586,Dominican Republic,2014.0,10282115.0,Alexis,,2014-09-30,Monte Plata,Do,18.810064,-69.787535,Uncategorised,Not reported,2014,259,413,29,3,2,120,123,,,46.3,0.01945
-1587,Mexico,2014.0,118755887.0,Hector García,,2014-09-30,Nayarit,Mx,22.0,-105.0,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1592,Brazil,2014.0,203459650.0,Rafaela Cavalcante da Silva,,2014-10-02,Fortaleza,Br,-3.730451,-38.521799,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1597,Turkey,,,Cingene Gul,,2014-10-09,Istanbul,Tr,41.017058,28.985568,Uncategorised,Not reported,2014,259,413,67,3,1,120,123,,,46.3,
-1604,Brazil,2014.0,203459650.0,Name Unknown,,2014-10-16,Manaus,Br,-3.132862,-59.986529,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1605,Mexico,2014.0,118755887.0,(José Juan) Sena Sánchez,,2014-10-20,Quintana Roo,Mx,20.869055,-88.631656,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1610,Brazil,2014.0,203459650.0,Paulinha B. F.,,2014-10-26,Itaquaquecetuba,Br,-23.485835,-46.347781,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1612,Mexico,2014.0,118755887.0,Daniela (Daniel) Guerrero León,,2014-10-27,Sonora,Mx,29.333333,-110.666667,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1614,Ecuador,2014.0,15957994.0,Jefa (Cristian) Vallejo Murillo,,2014-10-29,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2014,259,413,61,8,3,120,123,,,46.3,0.0188
-1618,Brazil,2014.0,203459650.0,Maicon,,2014-11-01,Porto Velho,Br,-8.749453,-63.873544,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1619,Brazil,2014.0,203459650.0,Raissa,,2014-11-02,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1620,Brazil,2014.0,203459650.0,Raquel Cardoso de Oliveira,,2014-11-04,Parnamirim,Br,-5.915333,-35.267991,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1622,Brazil,2014.0,203459650.0,Layla Bursa,,2014-11-08,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1624,Dominican Republic,2014.0,10282115.0,(Omer Jeison) Batista Guzmán,,2014-11-10,Santo Domingo,Do,18.463916,-69.894664,Uncategorised,Not reported,2014,259,413,29,3,2,120,123,,,46.3,0.01945
-1627,Mexico,2014.0,118755887.0,(Edgar) Tolentino,,2014-11-14,Estado de México,Mx,19.29212,-99.65578,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1628,Brazil,2014.0,203459650.0,(Leucima) Pereia dos Santos,,2014-11-14,Colatina,Br,-19.54786,-40.62637,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1629,Argentina,2014.0,42824054.0,(José) Carrizo,,2014-11-15,Pilar,Ar,-34.457092,-58.914161,Uncategorised,Not reported,2014,259,413,136,11,6,120,123,,,46.3,0.01401
-1630,Brazil,2014.0,203459650.0,Name Unknown,,2014-11-15,Jundiai,Br,-23.188226,-46.88381,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1631,Brazil,2014.0,203459650.0,Leley Medeiro dos Santos,,2014-11-16,Valenca,Br,-13.372358,-39.069424,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1632,Brazil,2014.0,203459650.0,Ramona dos Santos,,2014-11-16,Valenca,Br,-13.372358,-39.069424,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1633,Brazil,2014.0,203459650.0,Name Unknown,,2014-11-16,Ceilandia,Br,-15.817339,-48.104577,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1634,Italy,2014.0,60322791.0,Tiara Franco,,2014-11-17,Roma,It,41.893344,12.483072,Uncategorised,Not reported,2014,259,413,71,1,1,120,123,,,46.3,0.00166
-1635,Argentina,2014.0,42824054.0,(Alvaro) Galván,,2014-11-18,Adrogue,Ar,-34.801942,-58.395678,Uncategorised,Not reported,2014,259,413,136,11,6,120,123,,,46.3,0.01401
-1636,Brazil,2014.0,203459650.0,(Jose Mauricio),,2014-11-20,Fortaleza,Br,-3.730451,-38.521799,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1637,Brazil,2014.0,203459650.0,Pamela,,2014-11-20,Campo Grande,Br,-20.47053,-54.624352,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1638,Ecuador,2014.0,15957994.0,Melissa (Juan David) Cevallos Montenegro,,2014-11-25,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2014,259,413,61,8,3,120,123,,,46.3,0.0188
-1640,Brazil,2014.0,203459650.0,Patricia Silvestre,,2014-11-29,Mossoro,Br,-5.190433,-37.344387,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1641,Brazil,2014.0,203459650.0,Name Unknown,,2014-11-29,Goianinha,Br,-6.266354,-35.209245,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1642,Brazil,2014.0,203459650.0,Joana Veloso de Oliveira,,2014-11-30,Recife,Br,-8.058108,-34.897905,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1643,Mexico,2014.0,118755887.0,Name Unknown,,2014-11-30,Nayarit,Mx,22.0,-105.0,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1645,Mexico,2014.0,118755887.0,Vamesa (Wuillys Jhosen) Araujo Cobiz,,2014-12-02,"Valera, Venezuela",Mx,22.95848,-102.70623,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1646,Netherlands,2014.0,16954081.0,Sonny Angila,,2014-12-02,Groningen,Nl,53.219065,6.568008,Uncategorised,Not reported,2014,259,413,7,2,1,120,123,,,46.3,0.0059
-1647,Brazil,2014.0,203459650.0,Jamile Macedo da Silva,,2014-12-03,Manaus,Br,-3.132862,-59.986529,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1648,Argentina,2014.0,42824054.0,Pamela Maité Moreno,,2014-12-03,Argentina,Ar,-29.53703,-62.264735,Uncategorised,Not reported,2014,259,413,136,11,6,120,123,,,46.3,0.01401
-1652,Mexico,2014.0,118755887.0,(Jesús Esaú) Soriano Lizárraga,,2014-12-09,Sinaloa,Mx,25.823077,-108.22294,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1653,Brazil,2014.0,203459650.0,Rafaela da Silva Souza,,2014-12-10,Goiana,Br,-16.680882,-49.253269,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1654,Brazil,2014.0,203459650.0,Joaquinha Gomes Policarpo,,2014-12-12,Pocinhos,Br,-7.076073,-36.060447,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1655,Brazil,2014.0,203459650.0,(Danilo Roger) Ramos Silvero,,2014-12-12,Lucas do Rio Verde,Br,-13.064556,-55.921043,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1656,Brazil,2014.0,203459650.0,Nikelly,,2014-12-13,Nova Iguacu,Br,-22.759218,-43.450873,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1657,Brazil,2014.0,203459650.0,(Gildasio Rodrigues) dos Santos,,2014-12-14,Belem,Br,-1.45056,-48.468245,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1660,Brazil,2014.0,203459650.0,Vanessa,,2014-12-14,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1661,Brazil,2014.0,203459650.0,(Claudinei) Paes de Oliveira,,2014-12-15,Cuiaba,Br,-15.598669,-56.09913,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1662,Brazil,2014.0,203459650.0,(Paulo Sergio) Gomes da Silva,,2014-12-16,Goiana,Br,-16.680882,-49.253269,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1663,Mexico,2014.0,118755887.0,Angel Gaby (Jose Gabriel) Robles Salmeron,,2014-12-17,"Mexico City, DF",Mx,19.30445,-99.07581,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1664,Ecuador,2014.0,15957994.0,Marisol (Juan Luis) Morales Almeida,,2014-12-25,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2014,259,413,61,8,3,120,123,,,46.3,0.0188
-1665,Brazil,2014.0,203459650.0,Name Unknown,,2014-12-25,Caucaia,Br,-3.730056,-38.659308,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1666,Argentina,2014.0,42824054.0,Name Unknown,,2014-12-25,Salta,Ar,-24.789382,-65.410193,Uncategorised,Not reported,2014,259,413,136,11,6,120,123,,,46.3,0.01401
-1667,Brazil,2014.0,203459650.0,(Roberto) Elizeu Nobre,,2014-12-26,Pacajus,Br,-4.171073,-38.464988,Uncategorised,Not reported,2014,259,413,1818,128,69,120,123,,,46.3,0.03391
-1671,Mexico,2014.0,118755887.0,Name Unknown,,2014-12-31,Oaxaca,Mx,17.060466,-96.725358,Uncategorised,Not reported,2014,259,413,629,34,23,120,123,,,46.3,0.01937
-1674,Mexico,2015.0,120149897.0,Name Unknown,,2015-01-03,Jalisco,Mx,20.333333,-103.666667,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1677,Mexico,2015.0,120149897.0,Anahi Cruz Cruz,,2015-01-09,Puebla,Mx,19.043671,-98.198727,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1678,Colombia,2015.0,47119728.0,Carla Segundo Flores,,2015-01-09,,Co,3.376697,-74.802667,Uncategorised,Not reported,2015,261,413,219,19,5,67,70,,,25.7,0.01061
-1682,Chile,2015.0,17870124.0,(Joselito -José Luis-) Salazar Almeida,,2015-01-12,"Lo Espejo, Santiago",Cl,-33.519771,-70.68957,Uncategorised,Not reported,2015,261,413,35,2,1,67,70,,,25.7,0.0056
-1683,Brazil,2015.0,205188205.0,Bruna,,2015-01-12,"Varzea Grande, Mato Grosso",Br,-15.645816,-56.132218,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1684,Brazil,2015.0,205188205.0,Bia,,2015-01-16,São Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1690,Mexico,2015.0,120149897.0,Dani (Daniel) Díaz Ramos,,2015-01-22,Veracruz,Mx,19.51209,-99.07642,Uncategorised,Run over,2015,261,413,629,33,15,67,4,,,25.7,0.01248
-1692,Mexico,2015.0,120149897.0,Mia,,2015-01-24,Ciudad de México,Mx,19.43253,-99.13321,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1697,Mexico,2015.0,120149897.0,(Axel Poleth) Montes Niclisin,,2015-01-31,Michoacan,Mx,19.207098,-101.878113,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1699,Brazil,2015.0,205188205.0,(Murilo Henrique) Lopes,,2015-01-31,"Sorocaba, São Paulo",Br,-23.501667,-47.458056,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1700,Colombia,2015.0,47119728.0,Camila (Enrique) Flóres,,2015-01-31,,Co,3.904655,-73.076401,Uncategorised,Not reported,2015,261,413,219,19,5,67,70,,,25.7,0.01061
-1703,Brazil,2015.0,205188205.0,Millena Lucas de Lacerda,,2015-02-07,"Cubatão, São Paulo",Br,-23.885798,-46.424187,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1707,Mexico,2015.0,120149897.0,Name Unknown,,2015-02-10,Coahuila,Mx,27.416899,-101.892395,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1710,Mexico,2015.0,120149897.0,Name Unknown,,2015-02-11,Durango,Mx,24.024437,-104.670259,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1711,Ecuador,2015.0,16195902.0,Name Unknown,,2015-02-12,Quito,Ec,-0.220169,-78.512091,Uncategorised,Hanged,2015,261,413,61,7,3,67,1,,,25.7,0.01852
-1715,Brazil,2015.0,205188205.0,Name Unknown,,2015-02-13,"Mariápolis, São Paulo",Br,-21.796671,-51.183148,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1716,Mexico,2015.0,120149897.0,(José Ezequiel) Estrada Sotelo,,2015-02-15,Morelos,Mx,20.777672,-100.808733,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1718,Italy,2015.0,60232906.0,Name Unknown,,2015-02-15,"Villa d'Adda, Lombardy",It,45.71398,9.461649,Uncategorised,Not reported,2015,261,413,71,1,1,67,70,,,25.7,0.00166
-1722,Canada,2015.0,35732126.0,"Sumaya Dalmar (""""Sumaya Ysl"""")",,2015-02-22,"Toronto, Ontario",Ca,43.651893,-79.381713,Uncategorised,Not reported,2015,261,413,18,1,1,67,70,,,25.7,0.0028
-1728,Brazil,2015.0,205188205.0,Name Unknown,,2015-02-27,"Monsenhor Paulo, Minas Gerais",Br,-21.757778,-45.541111,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1729,Venezuela,,,Estrellita (Nelsón Enrique) Barboza Ochoa,,2015-02-28,Zulia,Ve,10.043756,-72.219118,Uncategorised,Not reported,2015,261,413,119,7,4,67,70,,,25.7,
-1732,Brazil,2015.0,205188205.0,Lorena Bhals,,2015-03-01,"Mandaguaçu, Paraná",Br,-23.348508,-52.096622,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1734,Mexico,2015.0,120149897.0,Barbie Billant (Luis Alberto) Hernandez Gonzalez,,2015-03-02,Puebla,Mx,19.043671,-98.198727,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1737,Panama,2015.0,3957099.0,Name Unknown,,2015-03-13,"Punta Paitilla, Ciudad de Panamá",Pa,8.97464,-79.5153,Uncategorised,Not reported,2015,261,413,4,1,1,67,70,,,25.7,0.02527
-1739,Colombia,2015.0,47119728.0,Yorley Alexandra Bustamante Niño,,2015-03-14,"Cúcuta, Norte de Santander",Co,7.92073,-72.4952,Uncategorised,Not reported,2015,261,413,219,19,5,67,70,,,25.7,0.01061
-1740,Ecuador,2015.0,16195902.0,Kristal Kristal Zavinovithc Boroski,,2015-03-17,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2015,261,413,61,7,3,67,70,,,25.7,0.01852
-1745,Brazil,2015.0,205188205.0,Michele,,2015-03-22,"Jundiaí, São Paulo",Br,-23.188226,-46.88381,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1746,Brazil,2015.0,205188205.0,Bodinha,,2015-03-24,"Catende, Pernambuco",Br,-8.675086,-35.702386,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1751,Mexico,2015.0,120149897.0,Name Unknown,,2015-03-31,Ciudad de México,Mx,19.43253,-99.13321,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1752,Colombia,2015.0,47119728.0,Shirley,,2015-03-31,"Medellin, Antioquia",Co,6.244338,-75.573553,Uncategorised,Not reported,2015,261,413,219,19,5,67,70,,,25.7,0.01061
-1753,Mexico,2015.0,120149897.0,Name Unknown,,2015-03-31,Santiago de Querétaro,Mx,20.587837,-100.38799,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1764,Brazil,2015.0,205188205.0,Jean,,2015-04-17,"Fortaleza, Ceará",Br,-3.730451,-38.521799,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1769,Brazil,2015.0,205188205.0,Mikal Bebel Brithman,,2015-04-21,"Belo Horizonte, Minas Gerais",Br,-19.922732,-43.945095,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1771,Ecuador,2015.0,16195902.0,Katty Flores Correa,,2015-04-26,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2015,261,413,61,7,3,67,70,,,25.7,0.01852
-1773,Uruguay,2015.0,3402818.0,G.P.A.,,2015-04-30,,Uy,33.694796,73.064527,Uncategorised,Not reported,2015,261,413,13,2,1,67,70,,,25.7,0.02939
-1775,India,2015.0,1322866505.0,Palanisamy,,2015-04-30,"Tiruppur, Tamil Nadu",In,-1.454042,-78.36792,Uncategorised,Not reported,2015,261,413,107,6,3,67,70,,,25.7,0.00023
-1778,Venezuela,,,Name Unknown,,2015-05-07,"Maracaibo, Zulia",Ve,10.665156,-71.623075,Uncategorised,Not reported,2015,261,413,119,7,4,67,70,,,25.7,
-1780,El Salvador,2015.0,6231066.0,Anlly Ferrety,,2015-05-09,,Sv,13.9726,-89.21818,Uncategorised,Not reported,2015,261,413,61,7,5,67,70,,,25.7,0.08024
-1781,Pakistan,2015.0,210969298.0,Saima Shahzadi,,2015-05-09,Islamabad,Pk,33.694796,73.064527,Uncategorised,Not reported,2015,261,413,97,6,4,67,70,,,25.7,0.0019
-1782,Pakistan,2015.0,210969298.0,Billi Yasin,,2015-05-09,Islamabad,Pk,33.694796,73.064527,Uncategorised,Not reported,2015,261,413,97,6,4,67,70,,,25.7,0.0019
-1783,Pakistan,2015.0,210969298.0,Shahzaib Tanveer,,2015-05-09,Islamabad,Pk,33.694796,73.064527,Uncategorised,Not reported,2015,261,413,97,6,4,67,70,,,25.7,0.0019
-1785,Venezuela,,,Yenilet,,2015-05-11,,Ve,10.50278,-66.91905,Uncategorised,Not reported,2015,261,413,119,7,4,67,70,,,25.7,
-1795,Brazil,2015.0,205188205.0,Regina Teixeira da Silva,,2015-05-31,"Fortaleza, Ceará",Br,-3.730451,-38.521799,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1797,Brazil,2015.0,205188205.0,Name Unknown,,2015-06-03,"Içara, Santa Catarina",Br,-28.711655,-49.297144,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1802,Colombia,2015.0,47119728.0,Paloma,,2015-06-18,Sucre,Co,9.21085,-75.12232,Uncategorised,Not reported,2015,261,413,219,19,5,67,70,,,25.7,0.01061
-1803,El Salvador,2015.0,6231066.0,Yasmín Zavala,,2015-06-18,San Salvador,Sv,13.696972,-89.19283,Uncategorised,Not reported,2015,261,413,61,7,5,67,70,,,25.7,0.08024
-1804,Mexico,2015.0,120149897.0,Name Unknown,,2015-06-18,Tlaxcala,Mx,19.417,-98.16692,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1814,Honduras,2015.0,9294505.0,Jesús García Hernández,,2015-07-03,"Tegucigalpa, Distrito Central",Hn,14.093192,-87.201263,Uncategorised,Not reported,2015,261,413,96,2,1,67,70,,,25.7,0.01076
-1816,Pakistan,2015.0,210969298.0,Muhammad Irfan,,2015-07-03,Islamabad,Pk,33.694796,73.064527,Uncategorised,Not reported,2015,261,413,97,6,4,67,70,,,25.7,0.0019
-1819,France,2015.0,63809769.0,Name Unknown,,2015-07-09,"Troyes, Aube",Fr,48.297163,4.074626,Uncategorised,Not reported,2015,261,413,33,1,1,67,70,,,25.7,0.00157
-1820,Brazil,2015.0,205188205.0,Bruna Toro,,2015-07-09,"Campo Grande, Mato Grosso do Sul ",Br,-20.47053,-54.624352,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1828,Brazil,2015.0,205188205.0,Guilhermina Vítor Flor,,2015-07-16,"São João Batista do Glória, Minas Gerais",Br,-20.641391,-46.505287,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1829,Brazil,2015.0,205188205.0,Thuanny Geovanna,,2015-07-16,"Catalão, Goiás",Br,-18.177233,-47.941726,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1831,Brazil,2015.0,205188205.0,Gabi,,2015-07-17,"Passo Fundo, Rio Grande do Sul",Br,-28.261614,-52.408905,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1833,Brazil,2015.0,205188205.0,Janaina do Nascimento Silva,,2015-07-19,"Lagoa do Itaenga, Pernambuco",Br,-7.930053,-35.287387,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1842,El Salvador,2015.0,6231066.0,Grettel,,2015-07-26,Usulután,Sv,13.343771,-88.438286,Uncategorised,Not reported,2015,261,413,61,7,5,67,70,,,25.7,0.08024
-1843,Brazil,2015.0,205188205.0,Patrícia,,2015-07-27,"Piracicaba, São Paulo",Br,-22.72528,-47.64917,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1848,El Salvador,2015.0,6231066.0,Sirenita,,2015-07-31,Usulután,Sv,13.343771,-88.438286,Uncategorised,Not reported,2015,261,413,61,7,5,67,70,,,25.7,0.08024
-1862,India,2015.0,1322866505.0,Dipa Bandyopadhyay,,2015-09-11,"Shyampur, West Bengal",In,12.72615,75.89602,Uncategorised,Not reported,2015,261,413,107,6,3,67,70,,,25.7,0.00023
-1866,Mexico,2015.0,120149897.0,Name Unknown,,2015-09-20,"Culiacán, Sinaloa",Mx,24.801719,-107.393051,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1867,Mexico,2015.0,120149897.0,Name Unknown,,2015-09-22,"Culiacan, Sinaloa",Mx,24.801719,-107.393051,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1869,El Salvador,2015.0,6231066.0,Alexia,,2015-09-24,"Ciudad Arce, La Libertad",Sv,13.84093,-89.44671,Uncategorised,Not reported,2015,261,413,61,7,5,67,70,,,25.7,0.08024
-1871,Brazil,2015.0,205188205.0,Alvari,,2015-10-01,"Vitória, Espírito Santo",Br,-20.299683,-40.301633,Uncategorised,Not reported,2015,261,413,1818,112,21,67,70,,,25.7,0.01023
-1876,Mexico,2015.0,120149897.0,Yajaira/Scarlet Martinez Flores,,2015-10-11,"Culiacán, Sinaloa",Mx,24.801719,-107.393051,Uncategorised,Not reported,2015,261,413,629,33,15,67,70,,,25.7,0.01248
-1888,India,2015.0,1322866505.0,Anusha,,2015-10-24,"Visakhapatnam, Andhra Pradesh",In,17.723128,83.301284,Uncategorised,Not reported,2015,261,413,107,6,3,67,70,,,25.7,0.00023
-1915,Brazil,2015.0,205188205.0,Alecia dos Santos de Jesus,,2015-12-06,"Lagarto, Sergipe",Br,-10.914179,-37.671531,Uncategorised,Run over,2015,261,413,1818,112,21,67,4,,,25.7,0.01023
-1922,Venezuela,,,Name Unknown,,2015-12-17,"La Patilla, Caracas, Distrito Capital",Ve,10.51908,-66.94539,Uncategorised,Not reported,2015,261,413,119,7,4,67,70,,,25.7,
-1934,Honduras,2016.0,9460798.0,Name Unknown,,2016-01-01,,Hn,14.10576,-87.2042,Uncategorised,Not reported,2016,320,413,96,6,2,19,24,,,5.9,0.02114
-1935,Honduras,2016.0,9460798.0,Name Unknown,,2016-01-01,,Hn,14.10576,-87.2042,Uncategorised,Not reported,2016,320,413,96,6,2,19,24,,,5.9,0.02114
-1950,Brazil,2016.0,206859578.0,Márcia Cabrita,,2016-01-17,"Senhor do Bonfim, Bahia",Br,-10.460251,-40.189151,Uncategorised,Not reported,2016,320,413,1818,137,7,19,24,,,5.9,0.00338
-2040,Mexico,2016.0,121519221.0,Name Unknown,,2016-04-30,"Celaya, Guanajuato",Mx,20.521835,-100.814002,Uncategorised,Run over,2016,320,413,629,51,5,19,5,,,5.9,0.00411
-2054,Mexico,2016.0,121519221.0,Name Unknown,,2016-05-14,"Culiacán, Sinaloa",Mx,24.801719,-107.393051,Uncategorised,Not reported,2016,320,413,629,51,5,19,24,,,5.9,0.00411
-2070,Mexico,2016.0,121519221.0,Olga Nely Lopez Jimenez,,2016-06-02,"Monterrey, Nuevo León",Mx,25.666599,-100.316597,Uncategorised,Not reported,2016,320,413,629,51,5,19,24,,,5.9,0.00411
-2083,Liberia,2016.0,4706097.0,Christina Nimely,,2016-06-11,,Lr,6.7782,-8.9312,Uncategorised,Not reported,2016,320,413,1,1,1,19,24,,,5.9,0.02125
-2093,Brazil,2016.0,206859578.0,Lorran Lorang,,2016-06-22,"Petrópolis, Rio de Janeiro",Br,-22.519963,-43.192613,Uncategorised,Hanged,2016,320,413,1818,137,7,19,2,,,5.9,0.00338
-2102,Mexico,2016.0,121519221.0,Name Unknown,,2016-07-01,Morelos,Mx,18.177222,-94.95,Uncategorised,Not reported,2016,320,413,629,51,5,19,24,,,5.9,0.00411
-2109,Brazil,2016.0,206859578.0,Name Unknown,,2016-07-11,"São Luiz, Roraima",Br,1.010193,-60.041894,Uncategorised,Not reported,2016,320,413,1818,137,7,19,24,,,5.9,0.00338
-2144,Italy,2016.0,60118626.0,Marta Baroni,,2016-08-24,"Brescia, Lombardia",It,45.539835,10.219534,Uncategorised,Not reported,2016,320,413,71,7,2,19,24,,,5.9,0.00333
-2150,USA,2016.0,327210198.0,Sofia Gonzales,,2016-09-06,"Queens, New York",Us,40.759776,-73.817302,Uncategorised,Not reported,2016,320,413,609,28,1,19,24,,,5.9,0.00031
-2185,Turkey,,,Başak,,2016-10-14,"Küçükçekmece Gölü, Istanbul",Tr,40.9925,28.78714,Uncategorised,Not reported,2016,320,413,67,5,1,19,24,,,5.9,
-2192,Brazil,2016.0,206859578.0,W. M.,,2016-10-24,"São José dos Campos, São Paulo",Br,-23.180636,-45.890662,Uncategorised,Not reported,2016,320,413,1818,137,7,19,24,,,5.9,0.00338
-2201,Brazil,2016.0,206859578.0,Bellah Soosa,,2016-10-30,"Cariré, Ceará",Br,-3.948584,-40.476028,Uncategorised,Run over,2016,320,413,1818,137,7,19,5,,,5.9,0.00338
-2211,Mexico,2016.0,121519221.0,Name Unknown,,2016-11-07,"Ciudad de Mexico, Distrito Federal",Mx,25.859417,-99.941748,Uncategorised,Run-over by car,2016,320,413,629,51,5,19,1,,,5.9,0.00411
-2219,Brazil,2016.0,206859578.0,Munich Oliveira Moreno,,2016-11-18,"Osasco, São Paulo",Br,-23.532486,-46.79168,Uncategorised,Not reported,2016,320,413,1818,137,7,19,24,,,5.9,0.00338
-2236,Italy,2016.0,60118626.0,Carolina Romero Gurimendi,,2016-12-13,"Genoa, Liguria",It,44.418442,8.9157286,Uncategorised,Not reported,2016,320,413,71,7,2,19,24,,,5.9,0.00333
-2252,Brazil,2016.0,206859578.0,Flávia Victoria Lima,,2016-12-31,"Sorocaba, São Paulo",Br,-23.501667,-47.458056,Uncategorised,Not reported,2016,320,413,1818,137,7,19,24,,,5.9,0.00338
-2380,Mexico,2017.0,122839258.0,Mendez Cuevas,,2017-05-05,Durango,Mx,24.024437,-104.670259,Uncategorised,Not reported,2017,396,413,629,66,5,15,13,,,3.8,0.00407
-2384,Brazil,2017.0,208504960.0,R. C. Silva Pereira,,2017-05-07,"Barretos, São Paulo",Br,-20.553144,-48.569751,Uncategorised,Run over,2017,396,413,1818,199,6,15,4,,,3.8,0.00288
-2422,Brazil,2017.0,208504960.0,Bárbara,,2017-06-18,"Maceió, Alagoas",Br,-9.647684,-35.733926,Uncategorised,Run over,2017,396,413,1818,199,6,15,4,,,3.8,0.00288
-2423,Mexico,2017.0,122839258.0,Kenya,,2017-06-18,Estado de Mexico,Mx,19.483945,-99.689972,Uncategorised,Not reported,2017,396,413,629,66,5,15,13,,,3.8,0.00407
-2452,Mexico,2017.0,122839258.0,Claudia Muñoz García,,2017-07-15,"Altamirano, Chiapas",Mx,16.735049,-92.037794,Uncategorised,Run-over,2017,396,413,629,66,5,15,1,,,3.8,0.00407
-2521,Mexico,2017.0,122839258.0,Name Unknown,,2017-09-16,Estado de Mexico ,Mx,19.483945,-99.689972,Uncategorised,Not reported,2017,396,413,629,66,5,15,13,,,3.8,0.00407
-2537,Brazil,2017.0,208504960.0,Name Unknown,,2017-10-05,"Belo Horizonte, Minas Gerais",Br,-19.922732,-43.945095,Uncategorised,Not reported,2017,396,413,1818,199,6,15,13,,,3.8,0.00288
-2538,Brazil,2017.0,208504960.0,Name Unknown,,2017-10-05,"Belo Horizonte, Minas Gerais",Br,-19.922732,-43.945095,Uncategorised,Not reported,2017,396,413,1818,199,6,15,13,,,3.8,0.00288
-2540,Brazil,2017.0,208504960.0,Name Unknown,,2017-10-11,"Manaus, Amazonas",Br,-3.132862,-59.986529,Uncategorised,Not reported,2017,396,413,1818,199,6,15,13,,,3.8,0.00288
-2598,Mexico,2017.0,122839258.0,Kendrika Itzel D Espino,,2017-11-24,Chihuahua,Mx,28.654323,-106.083947,Uncategorised,Not reported,2017,396,413,629,66,5,15,13,,,3.8,0.00407
-2607,Canada,2017.0,36554348.0,Alloura Wells,,2017-11-30,"Toronto, Ontario",Ca,43.651893,-79.381713,Uncategorised,Not reported,2017,396,413,18,2,1,15,13,,,3.8,0.00274
-2615,France,2017.0,64144086.0,Flávia Luiza,,2017-12-02,Paris,Fr,48.856506,2.352133,Uncategorised,Not reported,2017,396,413,33,1,1,15,13,,,3.8,0.00156
-2621,Brazil,2017.0,208504960.0,Sabrina,,2017-12-07,"Uberaba, Minas Gerais",Br,-19.750833,-47.936666,Uncategorised,Not reported,2017,396,413,1818,199,6,15,13,,,3.8,0.00288
-2638,India,2017.0,1354195680.0,Devudamma Surya Narayana,,2017-12-24,"Anakapalle, Andhra Pradesh",In,17.689475,83.003959,Uncategorised,Electrocuted,2017,396,413,107,4,1,15,1,,,3.8,7e-05
-2647,Bangladesh,2017.0,161793964.0,Sonia Akter,,2017-12-31,"Morrelganj, Khulna",Bd,23.70731,90.41548,Uncategorised,Not reported,2017,396,413,5,1,1,15,13,,,3.8,0.00062
-2660,Mexico,2018.0,124013861.0,Jessica González,,2018-01-16,"Córdoba, Veracruz",Mx,18.8944,-96.935206,Uncategorised,Not reported,2018,392,413,629,66,2,10,16,,,2.6,0.00161
-2663,Mexico,2018.0,124013861.0,Name Unknown,,2018-01-18,"Coetzala, Veracruz",Mx,18.78578,-96.91572,Uncategorised,Not reported,2018,392,413,629,66,2,10,16,,,2.6,0.00161
-2713,Brazil,2018.0,210166592.0,Eduarda Brasil,,2018-02-19,"Arraras, São Paulo",Br,-21.788671,-48.17731,Uncategorised,Not reported,2018,392,413,1818,177,5,10,16,,,2.6,0.00238
-2835,Brazil,2018.0,210166592.0,Jessica Mattos,,2018-06-15,"Venâncio Aires, Rio Grande do Sul",Br,-29.614306,-52.193159,Uncategorised,Asphyxiated,2018,392,413,1818,177,5,10,1,,,2.6,0.00238
-2881,Argentina,2018.0,44413596.0,M. L. Brites,,2018-07-22,"Pilar, Buenos Aires",Ar,-34.47142,-58.89753,Uncategorised,Not reported,2018,392,413,136,13,2,10,16,,,2.6,0.0045
-2926,Argentina,2018.0,44413596.0,Yanelis Rodríguez,,2018-08-31,,Ar,-29.53703,-62.264735,Uncategorised,Not reported,2018,392,413,136,13,2,10,16,,,2.6,0.0045
-2927,Colombia,2018.0,49276961.0,Name Unknown,,2018-08-31,Córdoba,Co,4.391679,-75.686942,Uncategorised,Not reported,2018,392,413,219,17,1,10,16,,,2.6,0.00203
-2935,Brazil,2018.0,210166592.0,Name Unknown,,2018-09-06,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2018,392,413,1818,177,5,10,16,,,2.6,0.00238
-2954,Brazil,2018.0,210166592.0,J. Oliveira de Araújo,,2018-09-24,"Martins, Rio Grande do Norte",Br,-6.089284,-37.911468,Uncategorised,Not reported,2018,392,413,1818,177,5,10,16,,,2.6,0.00238
-2964,Brazil,2018.0,210166592.0,Gabriela Ramos Menezes,,2018-10-07,"Manaus, Amazonas",Br,-3.132862,-59.986529,Uncategorised,Not reported,2018,392,413,1818,177,5,10,16,,,2.6,0.00238
-3064,Argentina,2019.0,44745520.0,"Jésica Benavídez (""""Nicky"""")",,2019-01-24,"Paraná, Entre Ríos",Ar,-31.7659,-60.40351,Uncategorised,Not reported,2019,375,413,136,14,2,18,18,,,4.8,0.00447
-3138,Italy,2019.0,59727932.0,Vittoria,,2019-03-30,"Rome, Lazio",It,41.895728,12.5751975,Uncategorised,Not reported,2019,375,413,71,2,2,18,18,,,4.8,0.00335
-3239,USA,2019.0,334319671.0,Cecelia Cranko,,2019-07-05,"South Orange, New Jersey",Us,40.7414919,-74.2537773,Uncategorised,Not reported,2019,375,413,609,44,7,18,18,,,4.8,0.00209
-3251,Argentina,2019.0,44745520.0,S. Medina,,2019-07-18,Salta,Ar,-24.789382,-65.410193,Uncategorised,Not reported,2019,375,413,136,14,2,18,18,,,4.8,0.00447
-3275,USA,2019.0,334319671.0,Keyiariah Quick,,2019-08-10,North Carolina,Us,35.52603,-79.130883,Uncategorised,Not reported,2019,375,413,609,44,7,18,18,,,4.8,0.00209
-3286,Brazil,2019.0,211782878.0,Kate Maikelly de Jesus Barbosa,,2019-08-21,"Teixeira de Freitas, Bahia",Br,-17.543154,-39.72235,Uncategorised,Not reported,2019,375,413,1818,139,5,18,18,,,4.8,0.00236
-3315,USA,2019.0,334319671.0,"Elisha Chanel Stanley (""""Elisha Diamond"""")",,2019-09-16,"Pittsburgh, Pennsylvania",Us,40.4442902,-79.9970007,Uncategorised,Not reported,2019,375,413,609,44,7,18,18,,,4.8,0.00209
-3316,India,2019.0,1383112050.0,Reena,,2019-09-16,"Bayanpur, Sonipat, Haryana",In,28.9628594,76.9997469,Uncategorised,Not reported,2019,375,413,107,12,2,18,18,,,4.8,0.00014
-3332,India,2019.0,1383112050.0,Chhaya,,2019-09-29,"Durg, Chattisgarh",In,21.189729,81.274647,Uncategorised,Not reported,2019,375,413,107,12,2,18,18,,,4.8,0.00014
-3341,USA,2019.0,334319671.0,Christine Zephier,,2019-10-10,"Mankato, Minnesota",Us,44.166117,-94.005587,Uncategorised,Not reported,2019,375,413,609,44,7,18,18,,,4.8,0.00209
-3356,USA,2019.0,334319671.0,Janette O’Sullivan,,2019-10-25,"East Harlem, New York",Us,40.7960818,-73.9491458,Uncategorised,Not reported,2019,375,413,609,44,7,18,18,,,4.8,0.00209
-3366,Brazil,2019.0,211782878.0,Name Unknown,,2019-11-04,"Juiz de Fora, Minas Gerais",Br,-21.759432,-43.3562401,Uncategorised,Not reported,2019,375,413,1818,139,5,18,18,,,4.8,0.00236
-3370,Brazil,2019.0,211782878.0,Pedrita Alves da Silva,,2019-11-10,"Ribeirão Preto, São Paulo",Br,-21.1797265,-47.8086366,Uncategorised,Not reported,2019,375,413,1818,139,5,18,18,,,4.8,0.00236
-3382,Brazil,2019.0,211782878.0,Rafaela de Salles,,2019-11-22,"Linhares, Espirito Santo",Br,-19.381694,-40.061221,Uncategorised,Run over,2019,375,413,1818,139,5,18,5,,,4.8,0.00236
-3391,Italy,2019.0,59727932.0,Marisol Chacon Vilcacuri,,2019-12-06,"Verona, Veneto",It,45.3987982,10.9270831,Uncategorised,Run over,2019,375,413,71,2,2,18,5,,,4.8,0.00335
-3395,USA,2019.0,334319671.0,Angel Rose Garcia,,2019-12-10,"Hyattsville, Maryland",Us,38.9187958,-76.9237527,Uncategorised,Not reported,2019,375,413,609,44,7,18,18,,,4.8,0.00209
-3402,USA,2019.0,334319671.0,"Alice Carter (""""Baby Alice"""")",,2019-12-18,"Washington, D. C.",Us,38.911125,-77.0390165,Uncategorised,Not reported,2019,375,413,609,44,7,18,18,,,4.8,0.00209
-3411,Brazil,2019.0,211782878.0,Alice Nóbrega,,2019-12-25,"Patos, Paraíba",Br,-7.0136633,-37.2699536,Uncategorised,Not reported,2019,375,413,1818,139,5,18,18,,,4.8,0.00236
-3425,Brazil,2020.0,213196304.0,Andreza Henrique,,2020-01-05,"Curitiba, Paraná",Br,-25.441963,-49.3176365,Uncategorised,Not reported,2020,463,413,1818,190,7,19,21,,,4.1,0.00328
-3445,Italy,2020.0,59500579.0,Name Unknown,,2020-01-16,"Frosinone, Lazio",It,41.62213,13.3249,Uncategorised,Not reported,2020,463,413,71,7,2,19,21,,,4.1,0.00336
-3479,Brazil,2020.0,213196304.0,Isabelle Oliveira,,2020-02-14,"Augustinópolis, Tocantins",Br,-5.466572,-47.8843877,Uncategorised,Not reported,2020,463,413,1818,190,7,19,21,,,4.1,0.00328
-3488,Brazil,2020.0,213196304.0,Gaby,,2020-02-20,"Anápolis, Góias",Br,-16.333283,-48.952576,Uncategorised,Not reported,2020,463,413,1818,190,7,19,21,,,4.1,0.00328
-3506,Turkey,,,Eda Hancı,,2020-03-09,"Mersin, Ili",Tr,36.81275,34.630542,Uncategorised,Not reported,2020,463,413,67,5,1,19,21,,,4.1,
-3538,USA,2020.0,335942003.0,Ashley Moore,,2020-04-01,"Newark, New Jersey",Us,40.741235,-74.17074,Uncategorised,Not reported,2020,463,413,609,66,7,19,21,,,4.1,0.00208
-3543,Brazil,2020.0,213196304.0,Name Unknown,,2020-04-05,"Natal, Rio Grande do Norte",Br,-5.7468717,-35.2061727,Uncategorised,Not reported,2020,463,413,1818,190,7,19,21,,,4.1,0.00328
-3553,Mexico,2020.0,125998302.0,Julia,,2020-04-11,Puebla,Mx,19.0497655,-98.1957989,Uncategorised,Not reported,2020,463,413,629,63,1,19,21,,,4.1,0.00079
-3608,USA,2020.0,335942003.0,Koko Nia Labeija,2001-05-29,2020-06-06,"Chicago, Illinois",Us,41.7501057,-87.6633753,Uncategorised,Not reported,2020,463,413,609,66,7,19,21,2001,19,4.1,0.00208
-3636,USA,2020.0,335942003.0,Draya McCarty,,2020-06-30,"Baton Rouge, Louisiana",Us,30.443319,-91.187488,Uncategorised,Not reported,2020,463,413,609,66,7,19,21,,,4.1,0.00208
-3666,Italy,2020.0,59500579.0,Steffany Dior,,2020-07-21,"Rome, Lazio",It,41.8972661,12.5753578,Uncategorised,Not reported,2020,463,413,71,7,2,19,21,,,4.1,0.00336
-3685,Brazil,2020.0,213196304.0,Name Unknown,,2020-08-04,"Santo Antonio de Jesus, Bahia",Br,-12.9675298,-39.2457114,Uncategorised,Not reported,2020,463,413,1818,190,7,19,21,,,4.1,0.00328
-3714,Pakistan,2020.0,227196741.0,Gurya,,2020-08-24,Islamabad,Pk,33.662373,72.9908386,Uncategorised,Not reported,2020,463,413,97,11,1,19,21,,,4.1,0.00044
-3728,USA,2020.0,335942003.0,Elie Che,,2020-08-31,"The Bronx, New York",Us,40.8658168,-73.7941399,Uncategorised,Drowned,2020,463,413,609,66,7,19,1,,,4.1,0.00208
-3738,USA,2020.0,335942003.0,Isabella Mia Lofton,,2020-09-07,"Brooklyn, New York",Us,40.661112,-73.9212187,Uncategorised,Cause unknown,2020,463,413,609,66,7,19,1,,,4.1,0.00208
-3805,Brazil,2020.0,213196304.0,Barbie dos Santos,,2020-11-03,"Limeira, São Paulo",Br,-22.563285,-47.4284298,Uncategorised,Not reported,2020,463,413,1818,190,7,19,21,,,4.1,0.00328
-3864,Brazil,2020.0,213196304.0,Name Unknown,,2020-12-19,"Boituva, São Paulo",Br,-23.289145,-47.6921821,Uncategorised,Not reported,2020,463,413,1818,190,7,19,21,,,4.1,0.00328
-3874,USA,2020.0,335942003.0,"Kimberely Patricia Cope (""""Kim"""")",,2020-12-27,"Athens, Georgia",Us,33.9492769,-83.3881179,Uncategorised,Not reported,2020,463,413,609,66,7,19,21,,,4.1,0.00208
-3878,USA,2020.0,335942003.0,"Bonaire Black (""""Bonni"""")",2002-01-07,2020-12-31,"Atlanta, Georgia",Us,33.7726604,-84.3865425,Uncategorised,Not reported,2020,463,413,609,66,7,19,21,2002,18,4.1,0.00208
-3888,USA,2021.0,336997624.0,"Tobias Palmer (""""Benji"""")",,2021-01-09,"Somerville, Massachusetts",Us,42.3930959,-71.0905923,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-3892,USA,2021.0,336997624.0,Natasha Kieanna,,2021-01-12,"Detroit, Michigan",Us,42.4441319,-83.2035714,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-3904,Italy,2021.0,59240329.0,Gianna Lombardi,,2021-01-18,"Andria, Barletta-Andria-Trani",It,41.227674,16.294755,Uncategorised,Not reported,2021,445,413,71,4,2,25,30,,,5.6,0.00338
-3969,Brazil,2021.0,214326223.0,Tainá,,2021-03-07,"Vitória da Conquista, Bahia",Br,-14.856749,-40.84148,Uncategorised,Not reported,2021,445,413,1818,132,5,25,30,,,5.6,0.00233
-3979,Brazil,2021.0,214326223.0,Kerollyn Moroe Shampherllay,,2021-03-17,"Dourados, Mato Grosso do Sul",Br,-22.22570524,-54.80820164,Uncategorised,Not reported,2021,445,413,1818,132,5,25,30,,,5.6,0.00233
-3981,USA,2021.0,336997624.0,Aidelen Evans,,2021-03-18,"Port Arthur, Texas",Us,29.9032916,-93.9689487,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-3992,USA,2021.0,336997624.0,Kim Ramirez,,2021-03-28,New York,Us,40.7578734,-73.977791,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-4014,Argentina,2021.0,45276780.0,Josefina Cruceño,,2021-04-12,Ciudad de Mendoza,Ar,-32.86158,-68.7995687,Uncategorised,Drowned,2021,445,413,136,14,1,25,1,,,5.6,0.00221
-4054,Italy,2021.0,59240329.0,Name Unknown,,2021-05-11,Piacenza,It,45.0437765,9.7516851,Uncategorised,Not reported,2021,445,413,71,4,2,25,30,,,5.6,0.00338
-4056,USA,2021.0,336997624.0,Nona Moselle Conner,,2021-05-13,"Washington, D.C.",Us,38.8935128,-77.1546611,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-4063,USA,2021.0,336997624.0,Giselle Hartzog/Giselle Hilton,,2021-05-18,"Washington, D.C.",Us,38.8935128,-77.1546611,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-4067,Mexico,2021.0,126705138.0,Name Unknown,,2021-05-19,"Tlaquepaque, Jalisco",Mx,20.5969337,-103.4082488,Uncategorised,Not reported,2021,445,413,629,51,1,25,30,,,5.6,0.00079
-4078,Colombia,2021.0,51516562.0,Claudia Madonna Ramírez,,2021-05-26,"Jamundí, Valle del Cauca",Co,3.261176,-76.5405907,Uncategorised,Not reported,2021,445,413,219,32,2,25,30,,,5.6,0.00388
-4098,USA,2021.0,336997624.0,Dee Dee Thomas,,2021-06-06,New York,Us,40.79291061,-73.93424842,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-4108,United Kingdom,2021.0,67281039.0,Leeze Lawrence,,2021-06-11,"Stirling, Scotland",Gb,56.1187003,-3.9747177,Uncategorised,Not reported,2021,445,413,49,5,1,25,30,,,5.6,0.00149
-4127,Brazil,2021.0,214326223.0,Name Unknown,,2021-06-21,"Russas, Ceará",Br,-4.8353076,-38.2843889,Uncategorised,Not reported,2021,445,413,1818,132,5,25,30,,,5.6,0.00233
-4135,Russia,,,Name Unknown,,2021-06-27,Moscow,Ru,55.77711844,37.41718246,Uncategorised,Not reported,2021,445,413,16,1,1,25,30,,,5.6,
-4144,Colombia,2021.0,51516562.0,Tatiana,,2021-07-06,"Rionegro, Antioquia",Co,6.15412564,-75.36498702,Uncategorised,Not reported,2021,445,413,219,32,2,25,30,,,5.6,0.00388
-4158,USA,2021.0,336997624.0,Jessica Smith,,2021-07-18,"Lodi, California",Us,38.1272259,-121.2649021,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-4242,Brazil,2021.0,214326223.0,"Gabriella Irente (""""Hanna"""")",1997-10-03,2021-10-03,"Suzano, São Paulo",Br,-23.5389439,-46.3244869,Uncategorised,Not reported,2021,445,413,1818,132,5,25,30,1997,24,5.6,0.00233
-4244,Brazil,2021.0,214326223.0,Robertinha da Silva,,2021-10-04,"Serro Azul, Pernambuco",Br,-8.5869929,-35.6759799,Uncategorised,Not reported,2021,445,413,1818,132,5,25,30,,,5.6,0.00233
-4245,Turkey,,,Nefes Balkan,,2021-10-05,"İzmit, Kocaeli",Tr,40.7648279,29.9260995,Uncategorised,Fell from a window,2021,445,413,67,6,2,25,1,,,5.6,
-4249,USA,2021.0,336997624.0,El Cho,,2021-10-09,"Yucca Valley, California",Us,34.0956829,-116.482345,Uncategorised,Not reported,2021,445,413,609,78,9,25,30,,,5.6,0.00267
-4284,Paraguay,2021.0,6703799.0,"Gabriela Cabrera (""""Gabi"""")",,2021-11-13,"San Lorenzo, Central",Py,-25.3537447,-57.5889614,Uncategorised,Not reported,2021,445,413,10,1,1,25,30,,,5.6,0.01492
-4295,Turkey,,,Derya,,2021-12-04,Ankara,Tr,39.927744,32.8525018,Uncategorised,Not reported,2021,445,413,67,6,2,25,30,,,5.6,
-4370,Chile,2022.0,19603733.0,Valentín Quezada Saldías,,2022-02-07,"Chillán, Diguillín",Cl,-36.6467,-72.1474867,Uncategorised,Not reported,2022,364,413,35,5,1,20,20,,,5.5,0.0051
-4391,Mexico,2022.0,127504125.0,Pamela,,2022-02-20,Ciudad de México,Mx,19.4450499,-99.110241,Uncategorised,Fell from a vehicle,2022,364,413,629,58,10,20,1,,,5.5,0.00784
-4418,USA,2022.0,338289857.0,Elise Malary,,2022-03-17,"Evanston, Illinois",Us,42.0272606,-87.66856342,Uncategorised,Drowned,2022,364,413,609,56,4,20,2,,,5.5,0.00118
-4459,USA,2022.0,338289857.0,Ace Scott,,2022-04-15,"Kansas City, Missouri",Us,39.1044508,-94.6093466,Uncategorised,Not reported,2022,364,413,609,56,4,20,20,,,5.5,0.00118
-4468,Italy,2022.0,59037474.0,Morgana,,2022-04-20,"Rome, Lazio",It,41.9302935,12.4624298,Uncategorised,Not reported,2022,364,413,71,8,1,20,20,,,5.5,0.00169
-4473,Canada,2022.0,38454327.0,Damien Fraser,,2022-04-23,"Sydney Mines, Nova Scotia",Ca,46.2305632,-60.226023,Uncategorised,Not reported,2022,364,413,18,4,1,20,20,,,5.5,0.0026
-4482,Mexico,2022.0,127504125.0,"Ángel Rogríguez Hernández (""""Ximena"""")",,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,364,413,629,58,10,20,5,,,5.5,0.00784
-4483,Mexico,2022.0,127504125.0,Melany Fox,,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,364,413,629,58,10,20,5,,,5.5,0.00784
-4484,Mexico,2022.0,127504125.0,"Paris (""""Victoría Secrett"""")",,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,364,413,629,58,10,20,5,,,5.5,0.00784
-4485,Mexico,2022.0,127504125.0,Pepa Álvarez,,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,364,413,629,58,10,20,5,,,5.5,0.00784
-4487,Mexico,2022.0,127504125.0,Trini,,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,364,413,629,58,10,20,5,,,5.5,0.00784
-4502,Brazil,2022.0,215313498.0,Larah Skalwalker,,2022-05-22,"Maceió, Alagoas",Br,-9.6753378,-35.7314179,Uncategorised,Drowned,2022,364,413,1818,107,3,20,2,,,5.5,0.00139
-4516,Mexico,2022.0,127504125.0,Name Unknown,,2022-06-01,"Piedrea Negras, Coahuila",Mx,28.6910517,-100.5801829,Uncategorised,Not reported,2022,364,413,629,58,10,20,20,,,5.5,0.00784
-4531,USA,2022.0,338289857.0,Paris Rich,,2022-06-13,"San Diego, California",Us,32.7630516,-117.160419,Uncategorised,Not reported,2022,364,413,609,56,4,20,20,,,5.5,0.00118
-4559,Mexico,2022.0,127504125.0,Tamara Campos,,2022-07-13,"Piedras Negras, Coahuila",Mx,28.7105406,-100.5143127,Uncategorised,Not reported,2022,364,413,629,58,10,20,20,,,5.5,0.00784
-4562,USA,2022.0,338289857.0,Toi Davis,,2022-07-16,"Milwaukee, Wisconsin",Us,43.0577836,-88.2545218,Uncategorised,Not reported,2022,364,413,609,56,4,20,20,,,5.5,0.00118
-4579,Brazil,2022.0,215313498.0,Amanda Îaûara Ka'aeté,,2022-08-03,São Paulo,Br,-23.6821604,-46.8754873,Uncategorised,Not reported,2022,364,413,1818,107,3,20,20,,,5.5,0.00139
-4595,Mexico,2022.0,127504125.0,Violeta Marujoz,1996-05-03,2022-08-26,San Luis Potosí,Mx,22.1128637,-101.0261099,Uncategorised,Not reported,2022,364,413,629,58,10,20,20,1996,26,5.5,0.00784
-4639,Brazil,2022.0,215313498.0,Danieli Medeiros Gonçalves,,2022-10-14,"Cabo Frio, Rio de Janeiro",Br,-22.85484847,-42.04091568,Uncategorised,Run over,2022,364,413,1818,107,3,20,3,,,5.5,0.00139
-4652,Mexico,2022.0,127504125.0,Liz Hernández,,2022-11-01,"Padilla, Tamaulipas",Mx,24.01053392,-98.77647268,Uncategorised,Not reported,2022,364,413,629,58,10,20,20,,,5.5,0.00784
+,Country,Year,Population,Name,Birthdate,Date,Location,Country_Code,Latitude,Longitude,Category,Cause_of_the_death,year,nb_victims_year,nb_victims_Category,nb_victims_country,nb_victims_country_year,nb_victims_category_country,nb_victims_category_country_year,nb_victims_Category_year,nb_victims_cause_year,year_birthdays,age,percentage_category,ratio
+58,Venezuela,,,Anjie Milano (Andy Rafael Milano),,2002-03-31,"Valencia, Carabobo",Ve,10.13516,-68.05268,Uncategorised,Not reported,2002,33,414,119,3,9,1,1,1,,,3.0,
+115,USA,2003.0,291109820.0,Reshae McCauley,,2003-12-07,"Largo, Florida",Us,27.91829,-82.774936,Uncategorised,Not reported,2003,34,414,609,16,34,1,1,1,,,2.9,0.00034
+147,Argentina,2005.0,39070501.0,Name Unknown,,2005-01-12,"Paraná, Entre Ríos",Ar,-31.74283,-60.48467,Uncategorised,Not reported,2005,30,414,137,4,14,2,3,3,,,10.0,0.00512
+150,Argentina,2005.0,39070501.0,Name Unknown,,2005-02-22,Neuquén,Ar,-38.95493,-68.059257,Uncategorised,Not reported,2005,30,414,137,4,14,2,3,3,,,10.0,0.00512
+153,USA,2005.0,296842670.0,Alisha Sandoval,,2005-03-18,"Lodi, California",Us,38.135674,-121.279196,Uncategorised,Not reported,2005,30,414,609,17,34,1,3,3,,,10.0,0.00034
+217,USA,2008.0,305694910.0,Stacy Brown,,2008-01-08,"Baltimore, Maryland",Us,39.290443,-76.612333,Uncategorised,Not reported,2008,53,414,609,19,34,4,16,16,,,30.2,0.00131
+239,USA,2008.0,305694910.0,Ruby Molina,,2008-09-21,"Sacramento, California",Us,38.582087,-121.50012,Uncategorised,Drowned,2008,53,414,609,19,34,4,16,1,,,30.2,0.00131
+241,USA,2008.0,305694910.0,Aimee Wilcoxson,,2008-11-03,"Aurora, Colorado",Us,39.711213,-104.819356,Uncategorised,Not reported,2008,53,414,609,19,34,4,16,16,,,30.2,0.00131
+248,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+249,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+250,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+251,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+252,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+253,Brazil,2008.0,192672317.0,Name Unknown,,2008-11-30,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+254,USA,2008.0,305694910.0,Jennifer Gale,,2008-12-17,"Austin, Texas",Us,30.264979,-97.746598,Uncategorised,Not reported,2008,53,414,609,19,34,4,16,16,,,30.2,0.00131
+260,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+261,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+262,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+263,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+264,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+265,Brazil,2008.0,192672317.0,Name Unknown,,2008-12-31,,Br,-10.861639,-53.104038,Uncategorised,Not reported,2008,53,414,1821,14,176,12,16,16,,,30.2,0.00623
+283,Mexico,2009.0,111049428.0,Cita Solorzano (muxé),,2009-01-25,"Asunción Ixtaltepec, Oaxaca",Mx,20.812754,-89.452772,Uncategorised,Not reported,2009,192,414,632,11,74,2,6,43,,,3.1,0.0018
+285,Mexico,2009.0,111049428.0,Daisy,,2009-01-31,"San Cristobal, Chiapas",Mx,16.735377,-92.63873,Uncategorised,Not reported,2009,192,414,632,11,74,2,6,43,,,3.1,0.0018
+321,Brazil,2009.0,194517549.0,Fernanda Botelho,,2009-05-04,"Curitiba, Paraná",Br,-25.428693,-49.272373,Uncategorised,Not reported,2009,192,414,1821,56,176,3,6,43,,,3.1,0.00154
+424,Brazil,2009.0,194517549.0,Name Unknown,,2009-11-03,"Londrina, Paraná",Br,-23.311288,-51.159502,Uncategorised,Not reported,2009,192,414,1821,56,176,3,6,43,,,3.1,0.00154
+441,Ecuador,2009.0,14742766.0,Name Unknown,,2009-12-06,"Guayaquil, Guayas",Ec,-2.247865,-79.903534,Uncategorised,Not reported,2009,192,414,61,2,8,1,6,43,,,3.1,0.00678
+442,Brazil,2009.0,194517549.0,Filhinha,,2009-12-08,"Uberaba, Minas Gerais",Br,-19.750833,-47.936666,Uncategorised,Not reported,2009,192,414,1821,56,176,3,6,43,,,3.1,0.00154
+514,Ecuador,2010.0,14989585.0,China,,2010-04-01,"Cuenca, Azuay",Ec,-2.897375,-79.004449,Uncategorised,Not reported,2010,185,414,61,5,8,1,3,20,,,1.6,0.00667
+518,Brazil,2010.0,196353492.0,Pitanga Malta da Silva,,2010-04-10,"Porto Alegre, Rio Grande do Sul",Br,-30.028268,-51.22843,Uncategorised,Not reported,2010,185,414,1821,92,176,1,3,20,,,1.6,0.00051
+622,Colombia,2010.0,44816108.0,Valentina (Oscar Andres Triana Lozano),,2010-11-29,"Ibague, Tolima",Co,4.443549,-75.241132,Uncategorised,Not reported,2010,185,414,219,7,16,1,3,20,,,1.6,0.00223
+673,Brazil,2011.0,198185302.0,Geruza,,2011-02-01,"Joao Pessoa, Paraíba",Br,-7.114784,-34.889798,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+676,Brazil,2011.0,198185302.0,Lorraine,,2011-02-04,"Senador Canedo, Goiás",Br,-16.701323,-49.091492,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+692,Mexico,2011.0,114150481.0,Name Unknown,,2011-02-22,Sinaloa,Mx,25.823077,-108.22294,Uncategorised,Not reported,2011,231,414,632,29,74,1,15,19,,,6.5,0.00088
+716,Colombia,2011.0,45308899.0,Name Unknown,,2011-03-24,"Bello, Medellin, Antioquia",Co,6.36076,-75.61317,Uncategorised,Not reported,2011,231,414,219,15,16,2,15,19,,,6.5,0.00441
+718,Colombia,2011.0,45308899.0,Leidy Garcia,,2011-03-27,"Bogota, Distrito Capital",Co,4.598048,-74.076087,Uncategorised,Not reported,2011,231,414,219,15,16,2,15,19,,,6.5,0.00441
+720,Brazil,2011.0,198185302.0,Name Unknown,,2011-03-31,"Manaus, Amazonas",Br,-3.132862,-59.986529,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+721,Brazil,2011.0,198185302.0,Name Unknown,,2011-03-31,"Anama, Amazonas",Br,-3.579736,-61.405,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+722,Brazil,2011.0,198185302.0,Name Unknown,,2011-03-31,"Anori, Amazonas",Br,-3.743525,-61.66052,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+766,Brazil,2011.0,198185302.0,Name Unknown,,2011-06-21,"Natal, Rio Grande do Norte",Br,-5.805398,-35.208091,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+767,Brazil,2011.0,198185302.0,Name Unknown,,2011-06-21,"Natal, Rio Grande do Norte",Br,-5.805398,-35.208091,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+783,Brazil,2011.0,198185302.0,Name Unknown,,2011-08-06,"Piedade, Rio de Janeiro",Br,-22.8941,-43.31413,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+813,Brazil,2011.0,198185302.0,Paloma (Joaquim) Rodrigues da Cunha,,2011-10-05,"Rua Perimetral, Fortaleza, Ceará",Br,-3.80477,-38.58475,Uncategorised,Run over,2011,231,414,1821,96,176,11,15,1,,,6.5,0.00555
+827,Brazil,2011.0,198185302.0,Dudu (Eduardo) Paixão de Jesus,,2011-10-23,"Camaçari, Bahia",Br,-12.69529,-38.33952,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+839,Pakistan,2011.0,198602738.0,Muneer,,2011-11-04,"Bhaati Gate, Lahore, Punjab",Pk,31.56192,74.34808,Uncategorised,Not reported,2011,231,414,98,6,8,1,15,19,,,6.5,0.0005
+846,Brazil,2011.0,198185302.0,Name Unknown,,2011-11-18,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2011,231,414,1821,96,176,11,15,19,,,6.5,0.00555
+878,Dominican Republic,2012.0,10030882.0,La Princesa (Freddy) Payams Severino,,2012-01-03,Puerto Plata,Do,19.789398,-70.694052,Uncategorised,Not reported,2012,276,414,30,1,3,1,10,17,,,3.6,0.00997
+931,Mexico,2012.0,115755909.0,Javier,,2012-03-18,"Salamanca, Guanajuato",Mx,20.571411,-101.192482,Uncategorised,Not reported,2012,276,414,632,49,74,2,10,17,,,3.6,0.00173
+958,Brazil,2012.0,199977707.0,Cláudia (Sebastiao Francisco) Vila Nova,,2012-04-09,"Bezerros, Pernambuco",Br,-8.236323,-35.749947,Uncategorised,Not reported,2012,276,414,1821,128,176,3,10,17,,,3.6,0.0015
+976,Mexico,2012.0,115755909.0,Name Unknown,,2012-05-06,"Puente Nacional, Veracruz",Mx,19.326944,-96.483333,Uncategorised,Not reported,2012,276,414,632,49,74,2,10,17,,,3.6,0.00173
+1033,Pakistan,2012.0,202205861.0,Name Unknown,,2012-07-30,"Karachi, Sindh",Pk,24.86678,67.031129,Uncategorised,Not reported,2012,276,414,98,5,8,1,10,17,,,3.6,0.00049
+1035,Brazil,2012.0,199977707.0,Name Unknown,,2012-07-31,"Rod. Contorno, Serra, Espírito Santo",Br,-20.20996,-40.26537,Uncategorised,Not reported,2012,276,414,1821,128,176,3,10,17,,,3.6,0.0015
+1064,Italy,2012.0,60190145.0,Name Unknown,,2012-09-05,Migliarino Pisano,It,43.7665828,10.3265021,Uncategorised,Not reported,2012,276,414,71,5,12,1,10,17,,,3.6,0.00166
+1070,Honduras,2012.0,8792367.0,Name Unknown,,2012-09-08,,Hn,14.818892,-86.600739,Uncategorised,Not reported,2012,276,414,96,7,10,1,10,17,,,3.6,0.01137
+1129,India,2012.0,1274487215.0,Name Unknown,,2012-11-22,"Vidisha, Madhya Pradesh",In,23.5222,77.8036,Uncategorised,Not reported,2012,276,414,107,8,8,1,10,17,,,3.6,8e-05
+1151,Brazil,2012.0,199977707.0,Raissa Quevedo da Fonseca,,2012-12-31,"Campo Grande, Mato Grosso do Sul",Br,-20.47053,-54.624352,Uncategorised,Not reported,2012,276,414,1821,128,176,3,10,17,,,3.6,0.0015
+1153,Honduras,2013.0,8960657.0,Name Unknown,,2013-01-01,,Hn,14.818892,-86.600739,Uncategorised,Not reported,2013,260,414,96,11,10,5,45,63,,,17.3,0.0558
+1154,Honduras,2013.0,8960657.0,Name Unknown,,2013-01-01,,Hn,14.818892,-86.600739,Uncategorised,Not reported,2013,260,414,96,11,10,5,45,63,,,17.3,0.0558
+1160,Argentina,2013.0,42388269.0,Ale  (Gustavo) Yagualca,,2013-01-09,Buenos Aires,Ar,-34.612869,-58.445979,Uncategorised,Not reported,2013,260,414,137,5,14,1,45,63,,,17.3,0.00236
+1185,El Salvador,2013.0,6185642.0,Perla Rivas,,2013-01-31,La Paz,Sv,13.46858,-88.97081,Uncategorised,Not reported,2013,260,414,61,5,12,4,45,63,,,17.3,0.06467
+1186,El Salvador,2013.0,6185642.0,Mónica (Adolfo) N,,2013-01-31,,Sv,13.9726,-89.21818,Uncategorised,Not reported,2013,260,414,61,5,12,4,45,63,,,17.3,0.06467
+1197,Mexico,2013.0,117290686.0,Luis Ángel de la Luz Albino,,2013-02-12,"Santa Isabel Cholula, Puebla",Mx,18.996667,-98.379444,Uncategorised,Not reported,2013,260,414,632,43,74,6,45,63,,,17.3,0.00512
+1211,Brazil,2013.0,201721767.0,Name Unknown,,2013-02-28,"Caxias do Sul, Rio Grande do Sul",Br,-29.16848,-51.179386,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1214,Brazil,2013.0,201721767.0,Emilly Sallimeni,,2013-03-06,"Porto Alegre, Rio Grande do Sul",Br,-30.028268,-51.22843,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1241,Colombia,2013.0,46237930.0,Name Unknown,,2013-04-21,"Popalito, Antioquia",Co,6.4772833,-75.2774772,Uncategorised,Not reported,2013,260,414,219,11,16,3,45,63,,,17.3,0.00649
+1247,El Salvador,2013.0,6185642.0,Tania (Edwin) Santos Vázquez,,2013-05-04,,Sv,13.9726,-89.21818,Uncategorised,Not reported,2013,260,414,61,5,12,4,45,63,,,17.3,0.06467
+1255,Venezuela,,,Yhonatan Alexander Guédez Bermúdez,,2013-05-15,Cojedes,Ve,9.333333,-68.333333,Uncategorised,Not reported,2013,260,414,119,17,9,3,45,63,,,17.3,
+1263,Honduras,2013.0,8960657.0,Vanesa (Juan Carlos) Betancourt Murillo,,2013-05-30,"Choloma, Cortés",Hn,15.611218,-87.950795,Uncategorised,Not reported,2013,260,414,96,11,10,5,45,63,,,17.3,0.0558
+1265,El Salvador,2013.0,6185642.0,Soraya Hernández,,2013-05-31,,Sv,13.9726,-89.21818,Uncategorised,Not reported,2013,260,414,61,5,12,4,45,63,,,17.3,0.06467
+1281,Colombia,2013.0,46237930.0,Laura Mar (Jesus Alberto) Luna,,2013-07-03,Huila,Co,2.473899,-75.590011,Uncategorised,Not reported,2013,260,414,219,11,16,3,45,63,,,17.3,0.00649
+1308,Venezuela,,,Hernán Rafael Duno,,2013-07-27,Zamora,Ve,10.19959,-71.32707,Uncategorised,Not reported,2013,260,414,119,17,9,3,45,63,,,17.3,
+1327,Brazil,2013.0,201721767.0,Raissa Silva,,2013-08-26,"Recife, Pernambuco",Br,-8.058108,-34.897905,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1353,Colombia,2013.0,46237930.0,Name Unknown,,2013-09-28,"Barranquilla, Atlántico",Co,10.979932,-74.795738,Uncategorised,Not reported,2013,260,414,219,11,16,3,45,63,,,17.3,0.00649
+1355,Brazil,2013.0,201721767.0,(Hércules) de Paula Santana,,2013-09-30,"Maringá, Paraná",Br,-23.42732,-51.93696,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1360,Mexico,2013.0,117290686.0,Name Unknown,,2013-10-08,"Los Mochis, Sinaloa",Mx,25.792806,-108.990188,Uncategorised,Not reported,2013,260,414,632,43,74,6,45,63,,,17.3,0.00512
+1369,Mexico,2013.0,117290686.0,Karla,,2013-10-15,"Lázaro Cárdenas, Michoacán",Mx,17.959774,-102.198535,Uncategorised,Not reported,2013,260,414,632,43,74,6,45,63,,,17.3,0.00512
+1370,Mexico,2013.0,117290686.0,Name Unknown,,2013-10-15,Chihuahua,Mx,28.654323,-106.083947,Uncategorised,Not reported,2013,260,414,632,43,74,6,45,63,,,17.3,0.00512
+1373,Honduras,2013.0,8960657.0,Xiomara (Edwin David) Cálix López,,2013-10-21,"Tegucigalpa, Distrito Central",Hn,14.093192,-87.201263,Uncategorised,Not reported,2013,260,414,96,11,10,5,45,63,,,17.3,0.0558
+1374,Uruguay,2013.0,3381180.0,Name Unknown,,2013-10-21,Montevideo,Uy,-34.905904,-56.191357,Uncategorised,Not reported,2013,260,414,13,2,2,1,45,63,,,17.3,0.02958
+1375,Chile,2013.0,17509925.0,Katherine Jannett Droguett Silva,,2013-10-22,Valparaiso,Cl,-33.046248,-71.619803,Uncategorised,Not reported,2013,260,414,35,2,3,1,45,63,,,17.3,0.00571
+1381,Mexico,2013.0,117290686.0,Cinthia (Aldo),,2013-11-08,Puebla,Mx,19.043671,-98.198727,Uncategorised,Not reported,2013,260,414,632,43,74,6,45,63,,,17.3,0.00512
+1383,Brazil,2013.0,201721767.0,Joan (José Bartolomeu) dos Santos,,2013-11-08,"Bom Conselho, Pernambuco",Br,-9.169191,-36.685683,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1385,Brazil,2013.0,201721767.0,Lady Butterfly,,2013-11-17,"Porto Seguro, Bahia",Br,-16.443473,-39.064251,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1386,Pakistan,2013.0,205337562.0,Sahlil,,2013-11-17,"Karachi, Sindh",Pk,24.86678,67.031129,Uncategorised,Not reported,2013,260,414,98,1,8,1,45,63,,,17.3,0.00049
+1387,United Kingdom,2013.0,64302297.0,Jacqueline Cowdrey,,2013-11-19,"Worthing, West Sussex",Gb,50.81169,-0.370395,Uncategorised,Not reported,2013,260,414,49,1,2,1,45,63,,,17.3,0.00156
+1388,Brazil,2013.0,201721767.0,Name Unknown,,2013-11-20,"Manaus, Amazonas",Br,-3.132862,-59.986529,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1390,Brazil,2013.0,201721767.0,Karina,,2013-11-26,"Sapé, Goiás",Br,-7.093591,-35.227975,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1393,Brazil,2013.0,201721767.0,Rebeca (Tallyson Jonatha) Alves Da Silva,,2013-12-04,"Patu, Rio Grande do Norte",Br,-6.100621,-37.638515,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1397,Brazil,2013.0,201721767.0,Thays Brito de Oliveira,,2013-12-08,"Bauru, São Paulo",Br,-22.32181,-49.070586,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1398,Brazil,2013.0,201721767.0,Pamela,,2013-12-10,Minas Gerais,Br,-18.7631,-45.451801,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1399,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-10,"Brasilia, Distrito Federal",Br,-15.7934,-47.882293,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1400,Brazil,2013.0,201721767.0,Gabriely Spanic (Ruan Cleiton) Madureira de Matos,,2013-12-12,"Campinas, São Paulo",Br,-22.90556,-47.06083,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1401,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-12,"Fortaleza, Ceará",Br,-3.730451,-38.521799,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1402,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-14,"Videira, Santa Catarina",Br,-27.00544,-51.153373,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1403,Mexico,2013.0,117290686.0,Jonathan,,2013-12-15,Morelos,Mx,18.177222,-94.95,Uncategorised,Not reported,2013,260,414,632,43,74,6,45,63,,,17.3,0.00512
+1405,Brazil,2013.0,201721767.0,Larissa,,2013-12-16,"João Pessoa, Paraíba",Br,-6.656765,-69.866161,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1406,India,2013.0,1291132063.0,Name Unknown,,2013-12-21,Faridabad,In,28.402837,77.308563,Uncategorised,Not reported,2013,260,414,107,6,8,1,45,63,,,17.3,8e-05
+1409,Honduras,2013.0,8960657.0,Juana,,2013-12-26,"San Francisco, California",Hn,14.094903,-88.000803,Uncategorised,Not reported,2013,260,414,96,11,10,5,45,63,,,17.3,0.0558
+1410,Venezuela,,,Haydee Georgina Leon Dreyer,,2013-12-28,"Catia La Mar, Vargas",Ve,10.598115,-67.038638,Uncategorised,Not reported,2013,260,414,119,17,9,3,45,63,,,17.3,
+1411,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-29,"Castanhal, Pará",Br,-1.292703,-47.92239,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1412,Brazil,2013.0,201721767.0,Name Unknown,,2013-12-31,"Itapissuma, Pernambuco",Br,-7.767983,-34.897136,Uncategorised,Not reported,2013,260,414,1821,105,176,18,45,63,,,17.3,0.00892
+1414,Peru,2014.0,30353951.0,Name Unknown,,2014-01-05,"Trujillo, La Libertad",Pe,-8.14,-79.0578,Uncategorised,Not reported,2014,259,414,43,6,5,5,120,123,,,46.3,0.01647
+1415,Peru,2014.0,30353951.0,Name Unknown,,2014-01-05,"Trujillo, La Libertad",Pe,-8.14,-79.0578,Uncategorised,Not reported,2014,259,414,43,6,5,5,120,123,,,46.3,0.01647
+1416,Brazil,2014.0,203459650.0,Michele (Juscelino) Coelho de Morais,,2014-01-06,"Marataízes, Espírito Santo",Br,-15.77938,-47.92574,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1421,Brazil,2014.0,203459650.0,Luana Professora (Romulo Carlos Ferreira Lopes),,2014-01-10,"Ipiranga, São Paulo",Br,-25.022962,-50.585668,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1425,Brazil,2014.0,203459650.0,Toni Gretchen (Antonio Carlos dos Santos),,2014-01-16,"São Benedito, Nordeste",Br,-4.041147,-40.863175,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1427,Colombia,2014.0,46677947.0,Catalina ramirez,,2014-01-19,"Cali, Valle del Cauca",Co,3.431933,-76.511305,Uncategorised,Not reported,2014,259,414,219,8,16,2,120,123,,,46.3,0.00428
+1428,Brazil,2014.0,203459650.0,Cristal (Alexandre) Nascimento de Araújo,,2014-01-19,"Potengi, Nordeste",Br,-7.091521,-40.026824,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1430,Brazil,2014.0,203459650.0,Buxexa,,2014-01-23,"Messejana, Fortaleza, Ceará",Br,-3.8333,-38.483299,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1435,Brazil,2014.0,203459650.0,Tissia,,2014-01-28,"Itaguaí, Rio de Janeiro",Br,-22.86296,-43.775322,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1439,Brazil,2014.0,203459650.0,Sarita de Almeida Oliveira,,2014-01-29,"Itabela, Nordeste",Br,-16.574339,-39.561961,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1442,Brazil,2014.0,203459650.0,Name Unknown,,2014-01-29,"Messejana, Fortaleza, Ceará",Br,-3.8333,-38.483299,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1443,Argentina,2014.0,42824054.0,Name Unknown,,2014-01-30,Buenos Aires,Ar,-34.612869,-58.445979,Uncategorised,Not reported,2014,259,414,137,11,14,6,120,123,,,46.3,0.01401
+1444,Brazil,2014.0,203459650.0,Paola (Ivanildo) Alves Pererira,,2014-01-31,"Piacabucu, Alagoas",Br,-10.40669,-36.433654,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1445,Peru,2014.0,30353951.0,Nahomi (Brayan Kevin) Lui Inuma,,2014-01-31,"Iquitos, Maynas",Pe,-3.748998,-73.245837,Uncategorised,Not reported,2014,259,414,43,6,5,5,120,123,,,46.3,0.01647
+1446,Venezuela,,,Name Unknown,,2014-01-31,Sucre,Ve,10.160354,-67.448911,Uncategorised,Not reported,2014,259,414,119,6,9,1,120,123,,,46.3,
+1448,Mexico,2014.0,118755887.0,Alison (Juan Bernardo) Reyes López,,2014-02-04,Tijuana,Mx,32.52882,-117.036835,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1449,Brazil,2014.0,203459650.0,Tatty,,2014-02-07,Belo Horizonte,Br,-19.922732,-43.945095,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1452,Peru,2014.0,30353951.0,Noiser Java Paima,,2014-02-11,Miraflores,Pe,-12.274175,-75.850256,Uncategorised,Not reported,2014,259,414,43,6,5,5,120,123,,,46.3,0.01647
+1463,Brazil,2014.0,203459650.0,Name Unknown,,2014-02-23,Nova Serrana,Br,-19.875834,-44.984166,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1464,Argentina,2014.0,42824054.0,Name Unknown,,2014-02-26,Tandil,Ar,-37.321373,-59.13342,Uncategorised,Not reported,2014,259,414,137,11,14,6,120,123,,,46.3,0.01401
+1466,Brazil,2014.0,203459650.0,Name Unknown,,2014-02-27,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1467,Brazil,2014.0,203459650.0,Name Unknown,,2014-02-28,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1468,Brazil,2014.0,203459650.0,Kitana,,2014-02-28,Aracaju,Br,-10.916206,-37.077466,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1474,Brazil,2014.0,203459650.0,Marimar,,2014-03-03,Itaitinga,Br,-3.965768,-38.529763,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1475,Brazil,2014.0,203459650.0,Mile,,2014-03-03,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1477,Canada,2014.0,35404608.0,Coco,,2014-03-08,Edmonton,Ca,53.546135,-113.491213,Uncategorised,Not reported,2014,259,414,18,1,4,1,120,123,,,46.3,0.00282
+1479,Brazil,2014.0,203459650.0,Name Unknown,,2014-03-09,Aparecida de Goiania,Br,-16.822674,-49.245255,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1483,Brazil,2014.0,203459650.0,Name Unknown,,2014-03-14,Luziano,Br,-21.676475,-50.327871,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1484,Brazil,2014.0,203459650.0,Dani,,2014-03-16,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Beaten and shot,2014,259,414,1821,128,176,69,120,2,,,46.3,0.03391
+1485,Brazil,2014.0,203459650.0,Paulete Lima dos Santos,,2014-03-17,Teresina,Br,-5.08964,-42.809588,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1486,Brazil,2014.0,203459650.0,Nicole,,2014-03-18,Vitoria,Br,-20.299683,-40.301633,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1487,Brazil,2014.0,203459650.0,Agamenon,,2014-03-19,Itaberaba,Br,-12.524182,-40.305897,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1490,Brazil,2014.0,203459650.0,Marciana Ricardo da Silva,,2014-03-24,Iguatu,Br,-6.361934,-39.297223,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1492,Colombia,2014.0,46677947.0,Name Unknown,,2014-03-26,"Medellín, Antioquia",Co,6.27593,-75.570081,Uncategorised,Not reported,2014,259,414,219,8,16,2,120,123,,,46.3,0.00428
+1493,Brazil,2014.0,203459650.0,Giovana Souza Silva,,2014-03-28,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1496,Mexico,2014.0,118755887.0,Name Unknown,,2014-03-31,Guerrero,Mx,19.432778,-97.6875,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1498,Brazil,2014.0,203459650.0,Poly Moreira,,2014-04-07,Fortaleza,Br,-3.730451,-38.521799,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1499,Brazil,2014.0,203459650.0,Mileide,,2014-04-07,Serra,Br,-20.125296,-40.306448,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1500,Brazil,2014.0,203459650.0,Name Unknown,,2014-04-07,Maceio,Br,-9.647684,-35.733926,Uncategorised,Beaten and strangled,2014,259,414,1821,128,176,69,120,1,,,46.3,0.03391
+1503,Brazil,2014.0,203459650.0,Valquiria Ribeiro Oliveira Brito,,2014-04-20,Rondonopolis,Br,-16.460353,-54.63971,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1505,Brazil,2014.0,203459650.0,Bhrenda Scarpelin,,2014-04-21,"Itaquaquecetuba,  São Paulo",Br,-23.485835,-46.347781,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1510,Brazil,2014.0,203459650.0,Name Unknown,,2014-04-29,Taguatingo,Br,-12.402404,-46.436577,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1511,Peru,2014.0,30353951.0,Madeline,,2014-04-30,"Rimac District, Peru",Pe,-9.94292,-76.23761,Uncategorised,Not reported,2014,259,414,43,6,5,5,120,123,,,46.3,0.01647
+1516,Brazil,2014.0,203459650.0,Name Unknown,,2014-05-10,Belo Horizonte,Br,-19.922732,-43.945095,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1517,Brazil,2014.0,203459650.0,Name Unknown,,2014-05-10,Belo Horizonte,Br,-19.922732,-43.945095,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1518,Brazil,2014.0,203459650.0,(F. J.) Rodriguez,,2014-05-13,Florianopolis,Br,-27.5973,-48.54961,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1520,Brazil,2014.0,203459650.0,(S. J.) Nascimento Lima,,2014-05-15,Salvador,Br,-12.981636,-38.482077,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1522,Mexico,2014.0,118755887.0,Name Unknown,,2014-05-20,"Acapulco, Guerrero",Mx,16.860291,-99.876832,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1525,Mexico,2014.0,118755887.0,Carmela (Carmelo) Ponciano Fiscal,,2014-05-25,Veracruz,Mx,19.51209,-99.07642,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1526,Mexico,2014.0,118755887.0,Rosse (Fernando Ulises) López Meraz,,2014-05-26,"Ciudad Juarez, Chihuahua",Mx,31.737743,-106.483519,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1529,Mexico,2014.0,118755887.0,Esteban Hernández Arias,,2014-06-01,Tamaulipas,Mx,23.989155,-98.702683,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1533,El Salvador,2014.0,6209526.0,José René Cruz,,2014-06-08,Usulután,Sv,13.343771,-88.438286,Uncategorised,Not reported,2014,259,414,61,3,12,3,120,123,,,46.3,0.04831
+1534,Mexico,2014.0,118755887.0,Ruvy,,2014-06-10,Coahuila,Mx,27.416899,-101.892395,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1535,Mexico,2014.0,118755887.0,Bertín Hernández Ángeles,,2014-06-14,Hidalgo,Mx,22.233889,-97.830278,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1536,Mexico,2014.0,118755887.0,Reynaldo Hipólito Contreras,,2014-06-15,Veracruz,Mx,19.20022,-96.138569,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1541,Brazil,2014.0,203459650.0,Micheli,,2014-06-19,Araguina,Br,-7.193241,-48.20186,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1542,Brazil,2014.0,203459650.0,(A. L.) Borges Rocha,,2014-06-23,Cuiaba,Br,-15.598669,-56.09913,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1545,El Salvador,2014.0,6209526.0,Name Unknown,,2014-06-30,El Salvador,Sv,13.9726,-89.21818,Uncategorised,Not reported,2014,259,414,61,3,12,3,120,123,,,46.3,0.04831
+1546,El Salvador,2014.0,6209526.0,Ulises Humberto Rosales,,2014-07-01,San Salvador,Sv,13.696972,-89.19283,Uncategorised,Not reported,2014,259,414,61,3,12,3,120,123,,,46.3,0.04831
+1551,Honduras,2014.0,9127846.0,Jaime Javier Hernández Martínez,,2014-07-16,San Pedro Sula,Hn,15.505647,-88.024196,Uncategorised,Not reported,2014,259,414,96,6,10,1,120,123,,,46.3,0.01096
+1555,Mexico,2014.0,118755887.0,Name Unknown,,2014-07-23,Mexico-City,Mx,19.43253,-99.13321,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1560,Mexico,2014.0,118755887.0,Willy,,2014-07-31,Coatzacoalcos,Mx,18.139679,-94.450173,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1562,Mexico,2014.0,118755887.0,Lazaro,,2014-07-31,Morelos,Mx,18.177222,-94.95,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1563,Mexico,2014.0,118755887.0,Name Unknown,,2014-07-31,Nuevo León,Mx,26.238436,-99.8873,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1564,Spain,2014.0,46464551.0,Name Unknown,,2014-08-08,Logrono,Es,42.46612,-2.439668,Uncategorised,Not reported,2014,259,414,19,1,1,1,120,123,,,46.3,0.00215
+1566,Brazil,2014.0,203459650.0,N.N.,,2014-08-10,Itaquaquecetuba,Br,-23.485835,-46.347781,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1571,Brazil,2014.0,203459650.0,Thifany,,2014-08-29,Carapicuiba,Br,-23.523467,-46.840681,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1572,Mexico,2014.0,118755887.0,Name Unknown,,2014-08-31,Nezahualcoyotl,Mx,19.410015,-99.029987,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1574,Brazil,2014.0,203459650.0,Terezinha de Araujo,,2014-09-06,Uruara,Br,-3.718538,-53.738549,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1578,Brazil,2014.0,203459650.0,(F. L.) da Silva,,2014-09-14,Sao Manuel,Br,-23.394137,-52.645376,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1579,Brazil,2014.0,203459650.0,Name Unknown,,2014-09-14,Guarulhos,Br,-23.44306,-46.524459,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1586,Dominican Republic,2014.0,10282115.0,Alexis,,2014-09-30,Monte Plata,Do,18.810064,-69.787535,Uncategorised,Not reported,2014,259,414,30,3,3,2,120,123,,,46.3,0.01945
+1587,Mexico,2014.0,118755887.0,Hector García,,2014-09-30,Nayarit,Mx,22.0,-105.0,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1592,Brazil,2014.0,203459650.0,Rafaela Cavalcante da Silva,,2014-10-02,Fortaleza,Br,-3.730451,-38.521799,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1597,Turkey,,,Cingene Gul,,2014-10-09,Istanbul,Tr,41.017058,28.985568,Uncategorised,Not reported,2014,259,414,67,3,5,1,120,123,,,46.3,
+1604,Brazil,2014.0,203459650.0,Name Unknown,,2014-10-16,Manaus,Br,-3.132862,-59.986529,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1605,Mexico,2014.0,118755887.0,(José Juan) Sena Sánchez,,2014-10-20,Quintana Roo,Mx,20.869055,-88.631656,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1610,Brazil,2014.0,203459650.0,Paulinha B. F.,,2014-10-26,Itaquaquecetuba,Br,-23.485835,-46.347781,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1612,Mexico,2014.0,118755887.0,Daniela (Daniel) Guerrero León,,2014-10-27,Sonora,Mx,29.333333,-110.666667,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1614,Ecuador,2014.0,15957994.0,Jefa (Cristian) Vallejo Murillo,,2014-10-29,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2014,259,414,61,8,8,3,120,123,,,46.3,0.0188
+1618,Brazil,2014.0,203459650.0,Maicon,,2014-11-01,Porto Velho,Br,-8.749453,-63.873544,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1619,Brazil,2014.0,203459650.0,Raissa,,2014-11-02,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1620,Brazil,2014.0,203459650.0,Raquel Cardoso de Oliveira,,2014-11-04,Parnamirim,Br,-5.915333,-35.267991,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1622,Brazil,2014.0,203459650.0,Layla Bursa,,2014-11-08,Sao Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1624,Dominican Republic,2014.0,10282115.0,(Omer Jeison) Batista Guzmán,,2014-11-10,Santo Domingo,Do,18.463916,-69.894664,Uncategorised,Not reported,2014,259,414,30,3,3,2,120,123,,,46.3,0.01945
+1627,Mexico,2014.0,118755887.0,(Edgar) Tolentino,,2014-11-14,Estado de México,Mx,19.29212,-99.65578,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1628,Brazil,2014.0,203459650.0,(Leucima) Pereia dos Santos,,2014-11-14,Colatina,Br,-19.54786,-40.62637,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1629,Argentina,2014.0,42824054.0,(José) Carrizo,,2014-11-15,Pilar,Ar,-34.457092,-58.914161,Uncategorised,Not reported,2014,259,414,137,11,14,6,120,123,,,46.3,0.01401
+1630,Brazil,2014.0,203459650.0,Name Unknown,,2014-11-15,Jundiai,Br,-23.188226,-46.88381,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1631,Brazil,2014.0,203459650.0,Leley Medeiro dos Santos,,2014-11-16,Valenca,Br,-13.372358,-39.069424,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1632,Brazil,2014.0,203459650.0,Ramona dos Santos,,2014-11-16,Valenca,Br,-13.372358,-39.069424,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1633,Brazil,2014.0,203459650.0,Name Unknown,,2014-11-16,Ceilandia,Br,-15.817339,-48.104577,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1634,Italy,2014.0,60322791.0,Tiara Franco,,2014-11-17,Roma,It,41.893344,12.483072,Uncategorised,Not reported,2014,259,414,71,1,12,1,120,123,,,46.3,0.00166
+1635,Argentina,2014.0,42824054.0,(Alvaro) Galván,,2014-11-18,Adrogue,Ar,-34.801942,-58.395678,Uncategorised,Not reported,2014,259,414,137,11,14,6,120,123,,,46.3,0.01401
+1636,Brazil,2014.0,203459650.0,(Jose Mauricio),,2014-11-20,Fortaleza,Br,-3.730451,-38.521799,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1637,Brazil,2014.0,203459650.0,Pamela,,2014-11-20,Campo Grande,Br,-20.47053,-54.624352,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1638,Ecuador,2014.0,15957994.0,Melissa (Juan David) Cevallos Montenegro,,2014-11-25,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2014,259,414,61,8,8,3,120,123,,,46.3,0.0188
+1640,Brazil,2014.0,203459650.0,Patricia Silvestre,,2014-11-29,Mossoro,Br,-5.190433,-37.344387,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1641,Brazil,2014.0,203459650.0,Name Unknown,,2014-11-29,Goianinha,Br,-6.266354,-35.209245,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1642,Brazil,2014.0,203459650.0,Joana Veloso de Oliveira,,2014-11-30,Recife,Br,-8.058108,-34.897905,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1643,Mexico,2014.0,118755887.0,Name Unknown,,2014-11-30,Nayarit,Mx,22.0,-105.0,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1645,Mexico,2014.0,118755887.0,Vamesa (Wuillys Jhosen) Araujo Cobiz,,2014-12-02,"Valera, Venezuela",Mx,22.95848,-102.70623,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1646,Netherlands,2014.0,16954081.0,Sonny Angila,,2014-12-02,Groningen,Nl,53.219065,6.568008,Uncategorised,Not reported,2014,259,414,7,2,1,1,120,123,,,46.3,0.0059
+1647,Brazil,2014.0,203459650.0,Jamile Macedo da Silva,,2014-12-03,Manaus,Br,-3.132862,-59.986529,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1648,Argentina,2014.0,42824054.0,Pamela Maité Moreno,,2014-12-03,Argentina,Ar,-29.53703,-62.264735,Uncategorised,Not reported,2014,259,414,137,11,14,6,120,123,,,46.3,0.01401
+1652,Mexico,2014.0,118755887.0,(Jesús Esaú) Soriano Lizárraga,,2014-12-09,Sinaloa,Mx,25.823077,-108.22294,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1653,Brazil,2014.0,203459650.0,Rafaela da Silva Souza,,2014-12-10,Goiana,Br,-16.680882,-49.253269,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1654,Brazil,2014.0,203459650.0,Joaquinha Gomes Policarpo,,2014-12-12,Pocinhos,Br,-7.076073,-36.060447,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1655,Brazil,2014.0,203459650.0,(Danilo Roger) Ramos Silvero,,2014-12-12,Lucas do Rio Verde,Br,-13.064556,-55.921043,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1656,Brazil,2014.0,203459650.0,Nikelly,,2014-12-13,Nova Iguacu,Br,-22.759218,-43.450873,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1657,Brazil,2014.0,203459650.0,(Gildasio Rodrigues) dos Santos,,2014-12-14,Belem,Br,-1.45056,-48.468245,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1660,Brazil,2014.0,203459650.0,Vanessa,,2014-12-14,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1661,Brazil,2014.0,203459650.0,(Claudinei) Paes de Oliveira,,2014-12-15,Cuiaba,Br,-15.598669,-56.09913,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1662,Brazil,2014.0,203459650.0,(Paulo Sergio) Gomes da Silva,,2014-12-16,Goiana,Br,-16.680882,-49.253269,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1663,Mexico,2014.0,118755887.0,Angel Gaby (Jose Gabriel) Robles Salmeron,,2014-12-17,"Mexico City, DF",Mx,19.30445,-99.07581,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1664,Ecuador,2014.0,15957994.0,Marisol (Juan Luis) Morales Almeida,,2014-12-25,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2014,259,414,61,8,8,3,120,123,,,46.3,0.0188
+1665,Brazil,2014.0,203459650.0,Name Unknown,,2014-12-25,Caucaia,Br,-3.730056,-38.659308,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1666,Argentina,2014.0,42824054.0,Name Unknown,,2014-12-25,Salta,Ar,-24.789382,-65.410193,Uncategorised,Not reported,2014,259,414,137,11,14,6,120,123,,,46.3,0.01401
+1667,Brazil,2014.0,203459650.0,(Roberto) Elizeu Nobre,,2014-12-26,Pacajus,Br,-4.171073,-38.464988,Uncategorised,Not reported,2014,259,414,1821,128,176,69,120,123,,,46.3,0.03391
+1671,Mexico,2014.0,118755887.0,Name Unknown,,2014-12-31,Oaxaca,Mx,17.060466,-96.725358,Uncategorised,Not reported,2014,259,414,632,34,74,23,120,123,,,46.3,0.01937
+1674,Mexico,2015.0,120149897.0,Name Unknown,,2015-01-03,Jalisco,Mx,20.333333,-103.666667,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1677,Mexico,2015.0,120149897.0,Anahi Cruz Cruz,,2015-01-09,Puebla,Mx,19.043671,-98.198727,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1678,Colombia,2015.0,47119728.0,Carla Segundo Flores,,2015-01-09,,Co,3.376697,-74.802667,Uncategorised,Not reported,2015,261,414,219,19,16,5,67,70,,,25.7,0.01061
+1682,Chile,2015.0,17870124.0,(Joselito -José Luis-) Salazar Almeida,,2015-01-12,"Lo Espejo, Santiago",Cl,-33.519771,-70.68957,Uncategorised,Not reported,2015,261,414,35,2,3,1,67,70,,,25.7,0.0056
+1683,Brazil,2015.0,205188205.0,Bruna,,2015-01-12,"Varzea Grande, Mato Grosso",Br,-15.645816,-56.132218,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1684,Brazil,2015.0,205188205.0,Bia,,2015-01-16,São Paulo,Br,-23.550651,-46.633382,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1690,Mexico,2015.0,120149897.0,Dani (Daniel) Díaz Ramos,,2015-01-22,Veracruz,Mx,19.51209,-99.07642,Uncategorised,Run over,2015,261,414,632,33,74,15,67,4,,,25.7,0.01248
+1692,Mexico,2015.0,120149897.0,Mia,,2015-01-24,Ciudad de México,Mx,19.43253,-99.13321,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1697,Mexico,2015.0,120149897.0,(Axel Poleth) Montes Niclisin,,2015-01-31,Michoacan,Mx,19.207098,-101.878113,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1699,Brazil,2015.0,205188205.0,(Murilo Henrique) Lopes,,2015-01-31,"Sorocaba, São Paulo",Br,-23.501667,-47.458056,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1700,Colombia,2015.0,47119728.0,Camila (Enrique) Flóres,,2015-01-31,,Co,3.904655,-73.076401,Uncategorised,Not reported,2015,261,414,219,19,16,5,67,70,,,25.7,0.01061
+1703,Brazil,2015.0,205188205.0,Millena Lucas de Lacerda,,2015-02-07,"Cubatão, São Paulo",Br,-23.885798,-46.424187,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1707,Mexico,2015.0,120149897.0,Name Unknown,,2015-02-10,Coahuila,Mx,27.416899,-101.892395,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1710,Mexico,2015.0,120149897.0,Name Unknown,,2015-02-11,Durango,Mx,24.024437,-104.670259,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1711,Ecuador,2015.0,16195902.0,Name Unknown,,2015-02-12,Quito,Ec,-0.220169,-78.512091,Uncategorised,Hanged,2015,261,414,61,7,8,3,67,1,,,25.7,0.01852
+1715,Brazil,2015.0,205188205.0,Name Unknown,,2015-02-13,"Mariápolis, São Paulo",Br,-21.796671,-51.183148,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1716,Mexico,2015.0,120149897.0,(José Ezequiel) Estrada Sotelo,,2015-02-15,Morelos,Mx,20.777672,-100.808733,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1718,Italy,2015.0,60232906.0,Name Unknown,,2015-02-15,"Villa d'Adda, Lombardy",It,45.71398,9.461649,Uncategorised,Not reported,2015,261,414,71,1,12,1,67,70,,,25.7,0.00166
+1722,Canada,2015.0,35732126.0,"Sumaya Dalmar (""""Sumaya Ysl"""")",,2015-02-22,"Toronto, Ontario",Ca,43.651893,-79.381713,Uncategorised,Not reported,2015,261,414,18,1,4,1,67,70,,,25.7,0.0028
+1728,Brazil,2015.0,205188205.0,Name Unknown,,2015-02-27,"Monsenhor Paulo, Minas Gerais",Br,-21.757778,-45.541111,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1729,Venezuela,,,Estrellita (Nelsón Enrique) Barboza Ochoa,,2015-02-28,Zulia,Ve,10.043756,-72.219118,Uncategorised,Not reported,2015,261,414,119,7,9,4,67,70,,,25.7,
+1732,Brazil,2015.0,205188205.0,Lorena Bhals,,2015-03-01,"Mandaguaçu, Paraná",Br,-23.348508,-52.096622,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1734,Mexico,2015.0,120149897.0,Barbie Billant (Luis Alberto) Hernandez Gonzalez,,2015-03-02,Puebla,Mx,19.043671,-98.198727,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1737,Panama,2015.0,3957099.0,Name Unknown,,2015-03-13,"Punta Paitilla, Ciudad de Panamá",Pa,8.97464,-79.5153,Uncategorised,Not reported,2015,261,414,4,1,1,1,67,70,,,25.7,0.02527
+1739,Colombia,2015.0,47119728.0,Yorley Alexandra Bustamante Niño,,2015-03-14,"Cúcuta, Norte de Santander",Co,7.92073,-72.4952,Uncategorised,Not reported,2015,261,414,219,19,16,5,67,70,,,25.7,0.01061
+1740,Ecuador,2015.0,16195902.0,Kristal Kristal Zavinovithc Boroski,,2015-03-17,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2015,261,414,61,7,8,3,67,70,,,25.7,0.01852
+1745,Brazil,2015.0,205188205.0,Michele,,2015-03-22,"Jundiaí, São Paulo",Br,-23.188226,-46.88381,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1746,Brazil,2015.0,205188205.0,Bodinha,,2015-03-24,"Catende, Pernambuco",Br,-8.675086,-35.702386,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1751,Mexico,2015.0,120149897.0,Name Unknown,,2015-03-31,Ciudad de México,Mx,19.43253,-99.13321,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1752,Colombia,2015.0,47119728.0,Shirley,,2015-03-31,"Medellin, Antioquia",Co,6.244338,-75.573553,Uncategorised,Not reported,2015,261,414,219,19,16,5,67,70,,,25.7,0.01061
+1753,Mexico,2015.0,120149897.0,Name Unknown,,2015-03-31,Santiago de Querétaro,Mx,20.587837,-100.38799,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1764,Brazil,2015.0,205188205.0,Jean,,2015-04-17,"Fortaleza, Ceará",Br,-3.730451,-38.521799,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1769,Brazil,2015.0,205188205.0,Mikal Bebel Brithman,,2015-04-21,"Belo Horizonte, Minas Gerais",Br,-19.922732,-43.945095,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1771,Ecuador,2015.0,16195902.0,Katty Flores Correa,,2015-04-26,Guayaquil,Ec,-2.247865,-79.903534,Uncategorised,Not reported,2015,261,414,61,7,8,3,67,70,,,25.7,0.01852
+1773,Uruguay,2015.0,3402818.0,G.P.A.,,2015-04-30,,Uy,33.694796,73.064527,Uncategorised,Not reported,2015,261,414,13,2,2,1,67,70,,,25.7,0.02939
+1775,India,2015.0,1322866505.0,Palanisamy,,2015-04-30,"Tiruppur, Tamil Nadu",In,-1.454042,-78.36792,Uncategorised,Not reported,2015,261,414,107,6,8,3,67,70,,,25.7,0.00023
+1778,Venezuela,,,Name Unknown,,2015-05-07,"Maracaibo, Zulia",Ve,10.665156,-71.623075,Uncategorised,Not reported,2015,261,414,119,7,9,4,67,70,,,25.7,
+1780,El Salvador,2015.0,6231066.0,Anlly Ferrety,,2015-05-09,,Sv,13.9726,-89.21818,Uncategorised,Not reported,2015,261,414,61,7,12,5,67,70,,,25.7,0.08024
+1781,Pakistan,2015.0,210969298.0,Saima Shahzadi,,2015-05-09,Islamabad,Pk,33.694796,73.064527,Uncategorised,Not reported,2015,261,414,98,6,8,4,67,70,,,25.7,0.0019
+1782,Pakistan,2015.0,210969298.0,Billi Yasin,,2015-05-09,Islamabad,Pk,33.694796,73.064527,Uncategorised,Not reported,2015,261,414,98,6,8,4,67,70,,,25.7,0.0019
+1783,Pakistan,2015.0,210969298.0,Shahzaib Tanveer,,2015-05-09,Islamabad,Pk,33.694796,73.064527,Uncategorised,Not reported,2015,261,414,98,6,8,4,67,70,,,25.7,0.0019
+1785,Venezuela,,,Yenilet,,2015-05-11,,Ve,10.50278,-66.91905,Uncategorised,Not reported,2015,261,414,119,7,9,4,67,70,,,25.7,
+1795,Brazil,2015.0,205188205.0,Regina Teixeira da Silva,,2015-05-31,"Fortaleza, Ceará",Br,-3.730451,-38.521799,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1797,Brazil,2015.0,205188205.0,Name Unknown,,2015-06-03,"Içara, Santa Catarina",Br,-28.711655,-49.297144,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1802,Colombia,2015.0,47119728.0,Paloma,,2015-06-18,Sucre,Co,9.21085,-75.12232,Uncategorised,Not reported,2015,261,414,219,19,16,5,67,70,,,25.7,0.01061
+1803,El Salvador,2015.0,6231066.0,Yasmín Zavala,,2015-06-18,San Salvador,Sv,13.696972,-89.19283,Uncategorised,Not reported,2015,261,414,61,7,12,5,67,70,,,25.7,0.08024
+1804,Mexico,2015.0,120149897.0,Name Unknown,,2015-06-18,Tlaxcala,Mx,19.417,-98.16692,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1814,Honduras,2015.0,9294505.0,Jesús García Hernández,,2015-07-03,"Tegucigalpa, Distrito Central",Hn,14.093192,-87.201263,Uncategorised,Not reported,2015,261,414,96,2,10,1,67,70,,,25.7,0.01076
+1816,Pakistan,2015.0,210969298.0,Muhammad Irfan,,2015-07-03,Islamabad,Pk,33.694796,73.064527,Uncategorised,Not reported,2015,261,414,98,6,8,4,67,70,,,25.7,0.0019
+1819,France,2015.0,63809769.0,Name Unknown,,2015-07-09,"Troyes, Aube",Fr,48.297163,4.074626,Uncategorised,Not reported,2015,261,414,33,1,2,1,67,70,,,25.7,0.00157
+1820,Brazil,2015.0,205188205.0,Bruna Toro,,2015-07-09,"Campo Grande, Mato Grosso do Sul ",Br,-20.47053,-54.624352,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1828,Brazil,2015.0,205188205.0,Guilhermina Vítor Flor,,2015-07-16,"São João Batista do Glória, Minas Gerais",Br,-20.641391,-46.505287,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1829,Brazil,2015.0,205188205.0,Thuanny Geovanna,,2015-07-16,"Catalão, Goiás",Br,-18.177233,-47.941726,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1831,Brazil,2015.0,205188205.0,Gabi,,2015-07-17,"Passo Fundo, Rio Grande do Sul",Br,-28.261614,-52.408905,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1833,Brazil,2015.0,205188205.0,Janaina do Nascimento Silva,,2015-07-19,"Lagoa do Itaenga, Pernambuco",Br,-7.930053,-35.287387,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1842,El Salvador,2015.0,6231066.0,Grettel,,2015-07-26,Usulután,Sv,13.343771,-88.438286,Uncategorised,Not reported,2015,261,414,61,7,12,5,67,70,,,25.7,0.08024
+1843,Brazil,2015.0,205188205.0,Patrícia,,2015-07-27,"Piracicaba, São Paulo",Br,-22.72528,-47.64917,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1848,El Salvador,2015.0,6231066.0,Sirenita,,2015-07-31,Usulután,Sv,13.343771,-88.438286,Uncategorised,Not reported,2015,261,414,61,7,12,5,67,70,,,25.7,0.08024
+1862,India,2015.0,1322866505.0,Dipa Bandyopadhyay,,2015-09-11,"Shyampur, West Bengal",In,12.72615,75.89602,Uncategorised,Not reported,2015,261,414,107,6,8,3,67,70,,,25.7,0.00023
+1866,Mexico,2015.0,120149897.0,Name Unknown,,2015-09-20,"Culiacán, Sinaloa",Mx,24.801719,-107.393051,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1867,Mexico,2015.0,120149897.0,Name Unknown,,2015-09-22,"Culiacan, Sinaloa",Mx,24.801719,-107.393051,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1869,El Salvador,2015.0,6231066.0,Alexia,,2015-09-24,"Ciudad Arce, La Libertad",Sv,13.84093,-89.44671,Uncategorised,Not reported,2015,261,414,61,7,12,5,67,70,,,25.7,0.08024
+1871,Brazil,2015.0,205188205.0,Alvari,,2015-10-01,"Vitória, Espírito Santo",Br,-20.299683,-40.301633,Uncategorised,Not reported,2015,261,414,1821,112,176,21,67,70,,,25.7,0.01023
+1876,Mexico,2015.0,120149897.0,Yajaira/Scarlet Martinez Flores,,2015-10-11,"Culiacán, Sinaloa",Mx,24.801719,-107.393051,Uncategorised,Not reported,2015,261,414,632,33,74,15,67,70,,,25.7,0.01248
+1888,India,2015.0,1322866505.0,Anusha,,2015-10-24,"Visakhapatnam, Andhra Pradesh",In,17.723128,83.301284,Uncategorised,Not reported,2015,261,414,107,6,8,3,67,70,,,25.7,0.00023
+1915,Brazil,2015.0,205188205.0,Alecia dos Santos de Jesus,,2015-12-06,"Lagarto, Sergipe",Br,-10.914179,-37.671531,Uncategorised,Run over,2015,261,414,1821,112,176,21,67,4,,,25.7,0.01023
+1922,Venezuela,,,Name Unknown,,2015-12-17,"La Patilla, Caracas, Distrito Capital",Ve,10.51908,-66.94539,Uncategorised,Not reported,2015,261,414,119,7,9,4,67,70,,,25.7,
+1934,Honduras,2016.0,9460798.0,Name Unknown,,2016-01-01,,Hn,14.10576,-87.2042,Uncategorised,Not reported,2016,320,414,96,6,10,2,19,24,,,5.9,0.02114
+1935,Honduras,2016.0,9460798.0,Name Unknown,,2016-01-01,,Hn,14.10576,-87.2042,Uncategorised,Not reported,2016,320,414,96,6,10,2,19,24,,,5.9,0.02114
+1950,Brazil,2016.0,206859578.0,Márcia Cabrita,,2016-01-17,"Senhor do Bonfim, Bahia",Br,-10.460251,-40.189151,Uncategorised,Not reported,2016,320,414,1821,137,176,7,19,24,,,5.9,0.00338
+2040,Mexico,2016.0,121519221.0,Name Unknown,,2016-04-30,"Celaya, Guanajuato",Mx,20.521835,-100.814002,Uncategorised,Run over,2016,320,414,632,51,74,5,19,5,,,5.9,0.00411
+2054,Mexico,2016.0,121519221.0,Name Unknown,,2016-05-14,"Culiacán, Sinaloa",Mx,24.801719,-107.393051,Uncategorised,Not reported,2016,320,414,632,51,74,5,19,24,,,5.9,0.00411
+2070,Mexico,2016.0,121519221.0,Olga Nely Lopez Jimenez,,2016-06-02,"Monterrey, Nuevo León",Mx,25.666599,-100.316597,Uncategorised,Not reported,2016,320,414,632,51,74,5,19,24,,,5.9,0.00411
+2083,Liberia,2016.0,4706097.0,Christina Nimely,,2016-06-11,,Lr,6.7782,-8.9312,Uncategorised,Not reported,2016,320,414,1,1,1,1,19,24,,,5.9,0.02125
+2093,Brazil,2016.0,206859578.0,Lorran Lorang,,2016-06-22,"Petrópolis, Rio de Janeiro",Br,-22.519963,-43.192613,Uncategorised,Hanged,2016,320,414,1821,137,176,7,19,2,,,5.9,0.00338
+2102,Mexico,2016.0,121519221.0,Name Unknown,,2016-07-01,Morelos,Mx,18.177222,-94.95,Uncategorised,Not reported,2016,320,414,632,51,74,5,19,24,,,5.9,0.00411
+2109,Brazil,2016.0,206859578.0,Name Unknown,,2016-07-11,"São Luiz, Roraima",Br,1.010193,-60.041894,Uncategorised,Not reported,2016,320,414,1821,137,176,7,19,24,,,5.9,0.00338
+2144,Italy,2016.0,60118626.0,Marta Baroni,,2016-08-24,"Brescia, Lombardia",It,45.539835,10.219534,Uncategorised,Not reported,2016,320,414,71,7,12,2,19,24,,,5.9,0.00333
+2150,USA,2016.0,327210198.0,Sofia Gonzales,,2016-09-06,"Queens, New York",Us,40.759776,-73.817302,Uncategorised,Not reported,2016,320,414,609,28,34,1,19,24,,,5.9,0.00031
+2185,Turkey,,,Başak,,2016-10-14,"Küçükçekmece Gölü, Istanbul",Tr,40.9925,28.78714,Uncategorised,Not reported,2016,320,414,67,5,5,1,19,24,,,5.9,
+2192,Brazil,2016.0,206859578.0,W. M.,,2016-10-24,"São José dos Campos, São Paulo",Br,-23.180636,-45.890662,Uncategorised,Not reported,2016,320,414,1821,137,176,7,19,24,,,5.9,0.00338
+2201,Brazil,2016.0,206859578.0,Bellah Soosa,,2016-10-30,"Cariré, Ceará",Br,-3.948584,-40.476028,Uncategorised,Run over,2016,320,414,1821,137,176,7,19,5,,,5.9,0.00338
+2211,Mexico,2016.0,121519221.0,Name Unknown,,2016-11-07,"Ciudad de Mexico, Distrito Federal",Mx,25.859417,-99.941748,Uncategorised,Run-over by car,2016,320,414,632,51,74,5,19,1,,,5.9,0.00411
+2219,Brazil,2016.0,206859578.0,Munich Oliveira Moreno,,2016-11-18,"Osasco, São Paulo",Br,-23.532486,-46.79168,Uncategorised,Not reported,2016,320,414,1821,137,176,7,19,24,,,5.9,0.00338
+2236,Italy,2016.0,60118626.0,Carolina Romero Gurimendi,,2016-12-13,"Genoa, Liguria",It,44.418442,8.9157286,Uncategorised,Not reported,2016,320,414,71,7,12,2,19,24,,,5.9,0.00333
+2252,Brazil,2016.0,206859578.0,Flávia Victoria Lima,,2016-12-31,"Sorocaba, São Paulo",Br,-23.501667,-47.458056,Uncategorised,Not reported,2016,320,414,1821,137,176,7,19,24,,,5.9,0.00338
+2380,Mexico,2017.0,122839258.0,Mendez Cuevas,,2017-05-05,Durango,Mx,24.024437,-104.670259,Uncategorised,Not reported,2017,396,414,632,66,74,5,15,13,,,3.8,0.00407
+2384,Brazil,2017.0,208504960.0,R. C. Silva Pereira,,2017-05-07,"Barretos, São Paulo",Br,-20.553144,-48.569751,Uncategorised,Run over,2017,396,414,1821,199,176,6,15,4,,,3.8,0.00288
+2422,Brazil,2017.0,208504960.0,Bárbara,,2017-06-18,"Maceió, Alagoas",Br,-9.647684,-35.733926,Uncategorised,Run over,2017,396,414,1821,199,176,6,15,4,,,3.8,0.00288
+2423,Mexico,2017.0,122839258.0,Kenya,,2017-06-18,Estado de Mexico,Mx,19.483945,-99.689972,Uncategorised,Not reported,2017,396,414,632,66,74,5,15,13,,,3.8,0.00407
+2452,Mexico,2017.0,122839258.0,Claudia Muñoz García,,2017-07-15,"Altamirano, Chiapas",Mx,16.735049,-92.037794,Uncategorised,Run-over,2017,396,414,632,66,74,5,15,1,,,3.8,0.00407
+2521,Mexico,2017.0,122839258.0,Name Unknown,,2017-09-16,Estado de Mexico ,Mx,19.483945,-99.689972,Uncategorised,Not reported,2017,396,414,632,66,74,5,15,13,,,3.8,0.00407
+2537,Brazil,2017.0,208504960.0,Name Unknown,,2017-10-05,"Belo Horizonte, Minas Gerais",Br,-19.922732,-43.945095,Uncategorised,Not reported,2017,396,414,1821,199,176,6,15,13,,,3.8,0.00288
+2538,Brazil,2017.0,208504960.0,Name Unknown,,2017-10-05,"Belo Horizonte, Minas Gerais",Br,-19.922732,-43.945095,Uncategorised,Not reported,2017,396,414,1821,199,176,6,15,13,,,3.8,0.00288
+2540,Brazil,2017.0,208504960.0,Name Unknown,,2017-10-11,"Manaus, Amazonas",Br,-3.132862,-59.986529,Uncategorised,Not reported,2017,396,414,1821,199,176,6,15,13,,,3.8,0.00288
+2598,Mexico,2017.0,122839258.0,Kendrika Itzel D Espino,,2017-11-24,Chihuahua,Mx,28.654323,-106.083947,Uncategorised,Not reported,2017,396,414,632,66,74,5,15,13,,,3.8,0.00407
+2607,Canada,2017.0,36554348.0,Alloura Wells,,2017-11-30,"Toronto, Ontario",Ca,43.651893,-79.381713,Uncategorised,Not reported,2017,396,414,18,2,4,1,15,13,,,3.8,0.00274
+2615,France,2017.0,64144086.0,Flávia Luiza,,2017-12-02,Paris,Fr,48.856506,2.352133,Uncategorised,Not reported,2017,396,414,33,1,2,1,15,13,,,3.8,0.00156
+2621,Brazil,2017.0,208504960.0,Sabrina,,2017-12-07,"Uberaba, Minas Gerais",Br,-19.750833,-47.936666,Uncategorised,Not reported,2017,396,414,1821,199,176,6,15,13,,,3.8,0.00288
+2638,India,2017.0,1354195680.0,Devudamma Surya Narayana,,2017-12-24,"Anakapalle, Andhra Pradesh",In,17.689475,83.003959,Uncategorised,Electrocuted,2017,396,414,107,4,8,1,15,1,,,3.8,7e-05
+2647,Bangladesh,2017.0,161793964.0,Sonia Akter,,2017-12-31,"Morrelganj, Khulna",Bd,23.70731,90.41548,Uncategorised,Not reported,2017,396,414,5,1,1,1,15,13,,,3.8,0.00062
+2660,Mexico,2018.0,124013861.0,Jessica González,,2018-01-16,"Córdoba, Veracruz",Mx,18.8944,-96.935206,Uncategorised,Not reported,2018,392,414,632,66,74,2,10,16,,,2.6,0.00161
+2663,Mexico,2018.0,124013861.0,Name Unknown,,2018-01-18,"Coetzala, Veracruz",Mx,18.78578,-96.91572,Uncategorised,Not reported,2018,392,414,632,66,74,2,10,16,,,2.6,0.00161
+2713,Brazil,2018.0,210166592.0,Eduarda Brasil,,2018-02-19,"Arraras, São Paulo",Br,-21.788671,-48.17731,Uncategorised,Not reported,2018,392,414,1821,177,176,5,10,16,,,2.6,0.00238
+2835,Brazil,2018.0,210166592.0,Jessica Mattos,,2018-06-15,"Venâncio Aires, Rio Grande do Sul",Br,-29.614306,-52.193159,Uncategorised,Asphyxiated,2018,392,414,1821,177,176,5,10,1,,,2.6,0.00238
+2881,Argentina,2018.0,44413596.0,M. L. Brites,,2018-07-22,"Pilar, Buenos Aires",Ar,-34.47142,-58.89753,Uncategorised,Not reported,2018,392,414,137,13,14,2,10,16,,,2.6,0.0045
+2926,Argentina,2018.0,44413596.0,Yanelis Rodríguez,,2018-08-31,,Ar,-29.53703,-62.264735,Uncategorised,Not reported,2018,392,414,137,13,14,2,10,16,,,2.6,0.0045
+2927,Colombia,2018.0,49276961.0,Name Unknown,,2018-08-31,Córdoba,Co,4.391679,-75.686942,Uncategorised,Not reported,2018,392,414,219,17,16,1,10,16,,,2.6,0.00203
+2935,Brazil,2018.0,210166592.0,Name Unknown,,2018-09-06,Rio de Janeiro,Br,-22.911014,-43.209373,Uncategorised,Not reported,2018,392,414,1821,177,176,5,10,16,,,2.6,0.00238
+2954,Brazil,2018.0,210166592.0,J. Oliveira de Araújo,,2018-09-24,"Martins, Rio Grande do Norte",Br,-6.089284,-37.911468,Uncategorised,Not reported,2018,392,414,1821,177,176,5,10,16,,,2.6,0.00238
+2964,Brazil,2018.0,210166592.0,Gabriela Ramos Menezes,,2018-10-07,"Manaus, Amazonas",Br,-3.132862,-59.986529,Uncategorised,Not reported,2018,392,414,1821,177,176,5,10,16,,,2.6,0.00238
+3064,Argentina,2019.0,44745520.0,"Jésica Benavídez (""""Nicky"""")",,2019-01-24,"Paraná, Entre Ríos",Ar,-31.7659,-60.40351,Uncategorised,Not reported,2019,375,414,137,14,14,2,18,18,,,4.8,0.00447
+3138,Italy,2019.0,59727932.0,Vittoria,,2019-03-30,"Rome, Lazio",It,41.895728,12.5751975,Uncategorised,Not reported,2019,375,414,71,2,12,2,18,18,,,4.8,0.00335
+3239,USA,2019.0,334319671.0,Cecelia Cranko,,2019-07-05,"South Orange, New Jersey",Us,40.7414919,-74.2537773,Uncategorised,Not reported,2019,375,414,609,44,34,7,18,18,,,4.8,0.00209
+3251,Argentina,2019.0,44745520.0,S. Medina,,2019-07-18,Salta,Ar,-24.789382,-65.410193,Uncategorised,Not reported,2019,375,414,137,14,14,2,18,18,,,4.8,0.00447
+3275,USA,2019.0,334319671.0,Keyiariah Quick,,2019-08-10,North Carolina,Us,35.52603,-79.130883,Uncategorised,Not reported,2019,375,414,609,44,34,7,18,18,,,4.8,0.00209
+3286,Brazil,2019.0,211782878.0,Kate Maikelly de Jesus Barbosa,,2019-08-21,"Teixeira de Freitas, Bahia",Br,-17.543154,-39.72235,Uncategorised,Not reported,2019,375,414,1821,139,176,5,18,18,,,4.8,0.00236
+3315,USA,2019.0,334319671.0,"Elisha Chanel Stanley (""""Elisha Diamond"""")",,2019-09-16,"Pittsburgh, Pennsylvania",Us,40.4442902,-79.9970007,Uncategorised,Not reported,2019,375,414,609,44,34,7,18,18,,,4.8,0.00209
+3316,India,2019.0,1383112050.0,Reena,,2019-09-16,"Bayanpur, Sonipat, Haryana",In,28.9628594,76.9997469,Uncategorised,Not reported,2019,375,414,107,12,8,2,18,18,,,4.8,0.00014
+3332,India,2019.0,1383112050.0,Chhaya,,2019-09-29,"Durg, Chattisgarh",In,21.189729,81.274647,Uncategorised,Not reported,2019,375,414,107,12,8,2,18,18,,,4.8,0.00014
+3341,USA,2019.0,334319671.0,Christine Zephier,,2019-10-10,"Mankato, Minnesota",Us,44.166117,-94.005587,Uncategorised,Not reported,2019,375,414,609,44,34,7,18,18,,,4.8,0.00209
+3356,USA,2019.0,334319671.0,Janette O’Sullivan,,2019-10-25,"East Harlem, New York",Us,40.7960818,-73.9491458,Uncategorised,Not reported,2019,375,414,609,44,34,7,18,18,,,4.8,0.00209
+3366,Brazil,2019.0,211782878.0,Name Unknown,,2019-11-04,"Juiz de Fora, Minas Gerais",Br,-21.759432,-43.3562401,Uncategorised,Not reported,2019,375,414,1821,139,176,5,18,18,,,4.8,0.00236
+3370,Brazil,2019.0,211782878.0,Pedrita Alves da Silva,,2019-11-10,"Ribeirão Preto, São Paulo",Br,-21.1797265,-47.8086366,Uncategorised,Not reported,2019,375,414,1821,139,176,5,18,18,,,4.8,0.00236
+3382,Brazil,2019.0,211782878.0,Rafaela de Salles,,2019-11-22,"Linhares, Espirito Santo",Br,-19.381694,-40.061221,Uncategorised,Run over,2019,375,414,1821,139,176,5,18,5,,,4.8,0.00236
+3391,Italy,2019.0,59727932.0,Marisol Chacon Vilcacuri,,2019-12-06,"Verona, Veneto",It,45.3987982,10.9270831,Uncategorised,Run over,2019,375,414,71,2,12,2,18,5,,,4.8,0.00335
+3395,USA,2019.0,334319671.0,Angel Rose Garcia,,2019-12-10,"Hyattsville, Maryland",Us,38.9187958,-76.9237527,Uncategorised,Not reported,2019,375,414,609,44,34,7,18,18,,,4.8,0.00209
+3402,USA,2019.0,334319671.0,"Alice Carter (""""Baby Alice"""")",,2019-12-18,"Washington, D. C.",Us,38.911125,-77.0390165,Uncategorised,Not reported,2019,375,414,609,44,34,7,18,18,,,4.8,0.00209
+3411,Brazil,2019.0,211782878.0,Alice Nóbrega,,2019-12-25,"Patos, Paraíba",Br,-7.0136633,-37.2699536,Uncategorised,Not reported,2019,375,414,1821,139,176,5,18,18,,,4.8,0.00236
+3425,Brazil,2020.0,213196304.0,Andreza Henrique,,2020-01-05,"Curitiba, Paraná",Br,-25.441963,-49.3176365,Uncategorised,Not reported,2020,463,414,1821,190,176,7,19,21,,,4.1,0.00328
+3445,Italy,2020.0,59500579.0,Name Unknown,,2020-01-16,"Frosinone, Lazio",It,41.62213,13.3249,Uncategorised,Not reported,2020,463,414,71,7,12,2,19,21,,,4.1,0.00336
+3479,Brazil,2020.0,213196304.0,Isabelle Oliveira,,2020-02-14,"Augustinópolis, Tocantins",Br,-5.466572,-47.8843877,Uncategorised,Not reported,2020,463,414,1821,190,176,7,19,21,,,4.1,0.00328
+3488,Brazil,2020.0,213196304.0,Gaby,,2020-02-20,"Anápolis, Góias",Br,-16.333283,-48.952576,Uncategorised,Not reported,2020,463,414,1821,190,176,7,19,21,,,4.1,0.00328
+3506,Turkey,,,Eda Hancı,,2020-03-09,"Mersin, Ili",Tr,36.81275,34.630542,Uncategorised,Not reported,2020,463,414,67,5,5,1,19,21,,,4.1,
+3538,USA,2020.0,335942003.0,Ashley Moore,,2020-04-01,"Newark, New Jersey",Us,40.741235,-74.17074,Uncategorised,Not reported,2020,463,414,609,66,34,7,19,21,,,4.1,0.00208
+3543,Brazil,2020.0,213196304.0,Name Unknown,,2020-04-05,"Natal, Rio Grande do Norte",Br,-5.7468717,-35.2061727,Uncategorised,Not reported,2020,463,414,1821,190,176,7,19,21,,,4.1,0.00328
+3553,Mexico,2020.0,125998302.0,Julia,,2020-04-11,Puebla,Mx,19.0497655,-98.1957989,Uncategorised,Not reported,2020,463,414,632,63,74,1,19,21,,,4.1,0.00079
+3608,USA,2020.0,335942003.0,Koko Nia Labeija,2001-05-29,2020-06-06,"Chicago, Illinois",Us,41.7501057,-87.6633753,Uncategorised,Not reported,2020,463,414,609,66,34,7,19,21,2001,19,4.1,0.00208
+3636,USA,2020.0,335942003.0,Draya McCarty,,2020-06-30,"Baton Rouge, Louisiana",Us,30.443319,-91.187488,Uncategorised,Not reported,2020,463,414,609,66,34,7,19,21,,,4.1,0.00208
+3666,Italy,2020.0,59500579.0,Steffany Dior,,2020-07-21,"Rome, Lazio",It,41.8972661,12.5753578,Uncategorised,Not reported,2020,463,414,71,7,12,2,19,21,,,4.1,0.00336
+3685,Brazil,2020.0,213196304.0,Name Unknown,,2020-08-04,"Santo Antonio de Jesus, Bahia",Br,-12.9675298,-39.2457114,Uncategorised,Not reported,2020,463,414,1821,190,176,7,19,21,,,4.1,0.00328
+3714,Pakistan,2020.0,227196741.0,Gurya,,2020-08-24,Islamabad,Pk,33.662373,72.9908386,Uncategorised,Not reported,2020,463,414,98,11,8,1,19,21,,,4.1,0.00044
+3728,USA,2020.0,335942003.0,Elie Che,,2020-08-31,"The Bronx, New York",Us,40.8658168,-73.7941399,Uncategorised,Drowned,2020,463,414,609,66,34,7,19,1,,,4.1,0.00208
+3738,USA,2020.0,335942003.0,Isabella Mia Lofton,,2020-09-07,"Brooklyn, New York",Us,40.661112,-73.9212187,Uncategorised,Cause unknown,2020,463,414,609,66,34,7,19,1,,,4.1,0.00208
+3805,Brazil,2020.0,213196304.0,Barbie dos Santos,,2020-11-03,"Limeira, São Paulo",Br,-22.563285,-47.4284298,Uncategorised,Not reported,2020,463,414,1821,190,176,7,19,21,,,4.1,0.00328
+3864,Brazil,2020.0,213196304.0,Name Unknown,,2020-12-19,"Boituva, São Paulo",Br,-23.289145,-47.6921821,Uncategorised,Not reported,2020,463,414,1821,190,176,7,19,21,,,4.1,0.00328
+3874,USA,2020.0,335942003.0,"Kimberely Patricia Cope (""""Kim"""")",,2020-12-27,"Athens, Georgia",Us,33.9492769,-83.3881179,Uncategorised,Not reported,2020,463,414,609,66,34,7,19,21,,,4.1,0.00208
+3878,USA,2020.0,335942003.0,"Bonaire Black (""""Bonni"""")",2002-01-07,2020-12-31,"Atlanta, Georgia",Us,33.7726604,-84.3865425,Uncategorised,Not reported,2020,463,414,609,66,34,7,19,21,2002,18,4.1,0.00208
+3888,USA,2021.0,336997624.0,"Tobias Palmer (""""Benji"""")",,2021-01-09,"Somerville, Massachusetts",Us,42.3930959,-71.0905923,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+3892,USA,2021.0,336997624.0,Natasha Kieanna,,2021-01-12,"Detroit, Michigan",Us,42.4441319,-83.2035714,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+3904,Italy,2021.0,59240329.0,Gianna Lombardi,,2021-01-18,"Andria, Barletta-Andria-Trani",It,41.227674,16.294755,Uncategorised,Not reported,2021,445,414,71,4,12,2,25,30,,,5.6,0.00338
+3969,Brazil,2021.0,214326223.0,Tainá,,2021-03-07,"Vitória da Conquista, Bahia",Br,-14.856749,-40.84148,Uncategorised,Not reported,2021,445,414,1821,132,176,5,25,30,,,5.6,0.00233
+3979,Brazil,2021.0,214326223.0,Kerollyn Moroe Shampherllay,,2021-03-17,"Dourados, Mato Grosso do Sul",Br,-22.22570524,-54.80820164,Uncategorised,Not reported,2021,445,414,1821,132,176,5,25,30,,,5.6,0.00233
+3981,USA,2021.0,336997624.0,Aidelen Evans,,2021-03-18,"Port Arthur, Texas",Us,29.9032916,-93.9689487,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+3992,USA,2021.0,336997624.0,Kim Ramirez,,2021-03-28,New York,Us,40.7578734,-73.977791,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+4014,Argentina,2021.0,45276780.0,Josefina Cruceño,,2021-04-12,Ciudad de Mendoza,Ar,-32.86158,-68.7995687,Uncategorised,Drowned,2021,445,414,137,14,14,1,25,1,,,5.6,0.00221
+4054,Italy,2021.0,59240329.0,Name Unknown,,2021-05-11,Piacenza,It,45.0437765,9.7516851,Uncategorised,Not reported,2021,445,414,71,4,12,2,25,30,,,5.6,0.00338
+4056,USA,2021.0,336997624.0,Nona Moselle Conner,,2021-05-13,"Washington, D.C.",Us,38.8935128,-77.1546611,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+4063,USA,2021.0,336997624.0,Giselle Hartzog/Giselle Hilton,,2021-05-18,"Washington, D.C.",Us,38.8935128,-77.1546611,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+4067,Mexico,2021.0,126705138.0,Name Unknown,,2021-05-19,"Tlaquepaque, Jalisco",Mx,20.5969337,-103.4082488,Uncategorised,Not reported,2021,445,414,632,51,74,1,25,30,,,5.6,0.00079
+4078,Colombia,2021.0,51516562.0,Claudia Madonna Ramírez,,2021-05-26,"Jamundí, Valle del Cauca",Co,3.261176,-76.5405907,Uncategorised,Not reported,2021,445,414,219,32,16,2,25,30,,,5.6,0.00388
+4098,USA,2021.0,336997624.0,Dee Dee Thomas,,2021-06-06,New York,Us,40.79291061,-73.93424842,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+4108,United Kingdom,2021.0,67281039.0,Leeze Lawrence,,2021-06-11,"Stirling, Scotland",Gb,56.1187003,-3.9747177,Uncategorised,Not reported,2021,445,414,49,5,2,1,25,30,,,5.6,0.00149
+4127,Brazil,2021.0,214326223.0,Name Unknown,,2021-06-21,"Russas, Ceará",Br,-4.8353076,-38.2843889,Uncategorised,Not reported,2021,445,414,1821,132,176,5,25,30,,,5.6,0.00233
+4135,Russia,,,Name Unknown,,2021-06-27,Moscow,Ru,55.77711844,37.41718246,Uncategorised,Not reported,2021,445,414,16,1,1,1,25,30,,,5.6,
+4144,Colombia,2021.0,51516562.0,Tatiana,,2021-07-06,"Rionegro, Antioquia",Co,6.15412564,-75.36498702,Uncategorised,Not reported,2021,445,414,219,32,16,2,25,30,,,5.6,0.00388
+4158,USA,2021.0,336997624.0,Jessica Smith,,2021-07-18,"Lodi, California",Us,38.1272259,-121.2649021,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+4242,Brazil,2021.0,214326223.0,"Gabriella Irente (""""Hanna"""")",1997-10-03,2021-10-03,"Suzano, São Paulo",Br,-23.5389439,-46.3244869,Uncategorised,Not reported,2021,445,414,1821,132,176,5,25,30,1997,24,5.6,0.00233
+4244,Brazil,2021.0,214326223.0,Robertinha da Silva,,2021-10-04,"Serro Azul, Pernambuco",Br,-8.5869929,-35.6759799,Uncategorised,Not reported,2021,445,414,1821,132,176,5,25,30,,,5.6,0.00233
+4245,Turkey,,,Nefes Balkan,,2021-10-05,"İzmit, Kocaeli",Tr,40.7648279,29.9260995,Uncategorised,Fell from a window,2021,445,414,67,6,5,2,25,1,,,5.6,
+4249,USA,2021.0,336997624.0,El Cho,,2021-10-09,"Yucca Valley, California",Us,34.0956829,-116.482345,Uncategorised,Not reported,2021,445,414,609,78,34,9,25,30,,,5.6,0.00267
+4284,Paraguay,2021.0,6703799.0,"Gabriela Cabrera (""""Gabi"""")",,2021-11-13,"San Lorenzo, Central",Py,-25.3537447,-57.5889614,Uncategorised,Not reported,2021,445,414,10,1,1,1,25,30,,,5.6,0.01492
+4295,Turkey,,,Derya,,2021-12-04,Ankara,Tr,39.927744,32.8525018,Uncategorised,Not reported,2021,445,414,67,6,5,2,25,30,,,5.6,
+4370,Chile,2022.0,19603733.0,Valentín Quezada Saldías,,2022-02-07,"Chillán, Diguillín",Cl,-36.6467,-72.1474867,Uncategorised,Not reported,2022,375,414,35,5,3,1,21,21,,,5.6,0.0051
+4391,Mexico,2022.0,127504125.0,Pamela,,2022-02-20,Ciudad de México,Mx,19.4450499,-99.110241,Uncategorised,Fell from a vehicle,2022,375,414,632,61,74,11,21,1,,,5.6,0.00863
+4418,USA,2022.0,338289857.0,Elise Malary,,2022-03-17,"Evanston, Illinois",Us,42.0272606,-87.66856342,Uncategorised,Drowned,2022,375,414,609,56,34,4,21,2,,,5.6,0.00118
+4459,USA,2022.0,338289857.0,Ace Scott,,2022-04-15,"Kansas City, Missouri",Us,39.1044508,-94.6093466,Uncategorised,Not reported,2022,375,414,609,56,34,4,21,21,,,5.6,0.00118
+4468,Italy,2022.0,59037474.0,Morgana,,2022-04-20,"Rome, Lazio",It,41.9302935,12.4624298,Uncategorised,Not reported,2022,375,414,71,8,12,1,21,21,,,5.6,0.00169
+4473,Canada,2022.0,38454327.0,Damien Fraser,,2022-04-23,"Sydney Mines, Nova Scotia",Ca,46.2305632,-60.226023,Uncategorised,Not reported,2022,375,414,18,4,4,1,21,21,,,5.6,0.0026
+4482,Mexico,2022.0,127504125.0,"Ángel Rogríguez Hernández (""""Ximena"""")",,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,375,414,632,61,74,11,21,5,,,5.6,0.00863
+4483,Mexico,2022.0,127504125.0,Melany Fox,,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,375,414,632,61,74,11,21,5,,,5.6,0.00863
+4484,Mexico,2022.0,127504125.0,"Paris (""""Victoría Secrett"""")",,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,375,414,632,61,74,11,21,5,,,5.6,0.00863
+4485,Mexico,2022.0,127504125.0,Pepa Álvarez,,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,375,414,632,61,74,11,21,5,,,5.6,0.00863
+4487,Mexico,2022.0,127504125.0,Trini,,2022-05-08,"Irapuato, Guanajuato",Mx,20.6713466,-101.3594578,Uncategorised,Killed by a drunk driver,2022,375,414,632,61,74,11,21,5,,,5.6,0.00863
+4502,Brazil,2022.0,215313498.0,Larah Skalwalker,,2022-05-22,"Maceió, Alagoas",Br,-9.6753378,-35.7314179,Uncategorised,Drowned,2022,375,414,1821,110,176,3,21,2,,,5.6,0.00139
+4516,Mexico,2022.0,127504125.0,Name Unknown,,2022-06-01,"Piedrea Negras, Coahuila",Mx,28.6910517,-100.5801829,Uncategorised,Not reported,2022,375,414,632,61,74,11,21,21,,,5.6,0.00863
+4531,USA,2022.0,338289857.0,Paris Rich,,2022-06-13,"San Diego, California",Us,32.7630516,-117.160419,Uncategorised,Not reported,2022,375,414,609,56,34,4,21,21,,,5.6,0.00118
+4559,Mexico,2022.0,127504125.0,Tamara Campos,,2022-07-13,"Piedras Negras, Coahuila",Mx,28.7105406,-100.5143127,Uncategorised,Not reported,2022,375,414,632,61,74,11,21,21,,,5.6,0.00863
+4562,USA,2022.0,338289857.0,Toi Davis,,2022-07-16,"Milwaukee, Wisconsin",Us,43.0577836,-88.2545218,Uncategorised,Not reported,2022,375,414,609,56,34,4,21,21,,,5.6,0.00118
+4579,Brazil,2022.0,215313498.0,Amanda Îaûara Ka'aeté,,2022-08-03,São Paulo,Br,-23.6821604,-46.8754873,Uncategorised,Not reported,2022,375,414,1821,110,176,3,21,21,,,5.6,0.00139
+4595,Mexico,2022.0,127504125.0,Violeta Marujoz,1996-05-03,2022-08-26,San Luis Potosí,Mx,22.1128637,-101.0261099,Uncategorised,Not reported,2022,375,414,632,61,74,11,21,21,1996,26,5.6,0.00863
+4639,Brazil,2022.0,215313498.0,Danieli Medeiros Gonçalves,,2022-10-14,"Cabo Frio, Rio de Janeiro",Br,-22.85484847,-42.04091568,Uncategorised,Run over,2022,375,414,1821,110,176,3,21,4,,,5.6,0.00139
+4652,Mexico,2022.0,127504125.0,Liz Hernández,,2022-11-01,"Padilla, Tamaulipas",Mx,24.01053392,-98.77647268,Uncategorised,Not reported,2022,375,414,632,61,74,11,21,21,,,5.6,0.00863
+4684,Mexico,2022.0,127504125.0,Ximena Madrid Flores,1994-05-16,2022-12-14,"Teotihuacán, Estado de México",Mx,19.69834533,-98.84447582,Uncategorised,Not reported,2022,375,414,632,61,74,11,21,21,1994,28,5.6,0.00863

@@ -1,9 +1,11 @@
 import streamlit as st
 st.set_page_config(layout = "wide")
 st.markdown("# TDoR")
-def Home():
-    st.markdown("The dead of transphobia")
+def page_0():
+    st.markdowen("The dead of transphobia")
     #st.sidebar.markdown("# Over years")
+
+
 
 def page_2():
     st.markdown("Where are trans people most killed or pushed to suicide? ")
@@ -12,15 +14,12 @@ def page_2():
 def page3():
     st.markdown("#Ages")
     #st.sidebar.markdown("#Ages")
+def page4():
+     st.markdown("#Ages")
 
 page_names_to_funcs = {
-    "Main Page": Home,
-    "Global Picture ": page_2,
+    "🏠Home": page_0,
+    "Global Picture": page_2,
     "2_Where": page3,
+    "cluster" :page4
 }
-
-st.markdown('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque ligula vitae sapien auctor feugiat. Curabitur sollicitudin sem ac nisi ornare, scelerisque facilisis ex pellentesque. Proin dictum venenatis malesuada. Aenean venenatis maximus tempus. Morbi turpis tellus, dapibus vel velit ultricies, mollis pulvinar urna. Sed venenatis consequat odio, at finibus lectus cursus ac. In commodo dolor auctor dolor aliquam, in elementum augue laoreet. Cras at condimentum libero. Sed quis massa mauris.')
-st.markdown('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque ligula vitae sapien auctor feugiat. Curabitur sollicitudin sem ac nisi ornare, scelerisque facilisis ex pellentesque. Proin dictum venenatis malesuada. Aenean venenatis maximus tempus. Morbi turpis tellus, dapibus vel velit ultricies, mollis pulvinar urna. Sed venenatis consequat odio, at finibus lectus cursus ac. In commodo dolor auctor dolor aliquam, in elementum augue laoreet. Cras at condimentum libero. Sed quis massa mauris.')
-st.markdown('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque ligula vitae sapien auctor feugiat. Curabitur sollicitudin sem ac nisi ornare, scelerisque facilisis ex pellentesque. Proin dictum venenatis malesuada. Aenean venenatis maximus tempus. Morbi turpis tellus, dapibus vel velit ultricies, mollis pulvinar urna. Sed venenatis consequat odio, at finibus lectus cursus ac. In commodo dolor auctor dolor aliquam, in elementum augue laoreet. Cras at condimentum libero. Sed quis massa mauris.')
-st.markdown('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque ligula vitae sapien auctor feugiat. Curabitur sollicitudin sem ac nisi ornare, scelerisque facilisis ex pellentesque. Proin dictum venenatis malesuada. Aenean venenatis maximus tempus. Morbi turpis tellus, dapibus vel velit ultricies, mollis pulvinar urna. Sed venenatis consequat odio, at finibus lectus cursus ac. In commodo dolor auctor dolor aliquam, in elementum augue laoreet. Cras at condimentum libero. Sed quis massa mauris.')
-st.markdown('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam scelerisque ligula vitae sapien auctor feugiat. Curabitur sollicitudin sem ac nisi ornare, scelerisque facilisis ex pellentesque. Proin dictum venenatis malesuada. Aenean venenatis maximus tempus. Morbi turpis tellus, dapibus vel velit ultricies, mollis pulvinar urna. Sed venenatis consequat odio, at finibus lectus cursus ac. In commodo dolor auctor dolor aliquam, in elementum augue laoreet. Cras at condimentum libero. Sed quis massa mauris.')
