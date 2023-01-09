@@ -21,10 +21,10 @@ st.write ("According to scientific literature, the transgender population is 2% 
 with st.container():
     col1, col2, col3 = st.columns((25,50,25))
     with col2:
-            df_general = pd.read_csv('/Users/camille/repo/projet_perso/queer_project/Data/tdor_data_all.csv', 
+            df_general = pd.read_csv('Data/tdor_data_all.csv', 
                    dtype={"counties": str})
 import json
-world_path = '/Users/camille/repo/projet_perso/queer_project/Data/custom.geo.json'
+world_path = 'Data/custom.geo.json'
 with open(world_path) as f:
     geo_world = json.load(f)
 
@@ -51,7 +51,7 @@ for country in geo_world['features']:
             'id':country_name
         })
 geo_world_ok = {'type': 'FeatureCollection', 'features': countries_geo}
-df_general = pd.read_csv('/Users/camille/repo/projet_perso/queer_project/Data/tdor_data_all.csv')
+df_general = pd.read_csv('Data/tdor_data_all.csv')
 df_general['ratio'] = df_general['ratio'].astype(float)
 df_general = df_general.loc[df_general['ratio']!= 0]
 year_option = df_general['year'].unique().tolist()
@@ -72,7 +72,7 @@ with st.container():
     col1, col2 = st.columns(2, gap="large")
     with col2:
         st.markdown("<h4 style='text-align: center'>Suicides</h4>", unsafe_allow_html=True)
-        df_suicide = pd.read_csv('/Users/camille/repo/projet_perso/queer_project/Data/tdor_suicide.csv')
+        df_suicide = pd.read_csv('Data/tdor_suicide.csv')
         df_suicide['ratio'] = df_suicide['ratio'].astype(float)
         df_suicide = df_suicide.loc[df_suicide['ratio']!= 0]
         df_suicide = df_suicide[df_suicide['year'] == year]
@@ -88,7 +88,7 @@ with st.container():
 
 with col1:
             st.markdown("<h4 style='text-align: center'>Violences</h4>", unsafe_allow_html=True)
-            df_violence = pd.read_csv('/Users/camille/repo/projet_perso/queer_project/Data/tdor_Violence.csv')
+            df_violence = pd.read_csv('Data/tdor_Violence.csv')
             df_violence['ratio'] = df_violence['ratio'].astype(float)
             df_violence['ratio'].where(df_violence['ratio'] >= 0.0009 ,0, inplace=True)
             df_violence = df_violence[df_violence['year'] == year]
